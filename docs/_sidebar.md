@@ -8,3 +8,4 @@
   - [PHP Version](update-php-version.md)
 - [License](conj-wordpress-theme-license.md)
 - [Credits](conj-wordpress-theme-credits.md)
+- [Copyright](conj-wordpress-theme-copyright.md)
