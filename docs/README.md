@@ -1,3 +1,9 @@
+## What is it
+
+New to Extra? Get started here with a collection of tutorials that cover the basics.
+
+See the [Installation](install-conj-wordpress-theme) for more details.
+
 ## Live Demo
 
 Check out the [Live Demo](https://demo.mypreview.one/conj) to visit CONJ theme in action.
