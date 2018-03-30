@@ -1,6 +1,6 @@
 # WordPress installation 
 
-[WordPress installation](https://player.vimeo.com/video/81679234 ':include :type=iframe width=770px height=376px')
+[WordPress installation](https://player.vimeo.com/video/81679234 ':include :type=iframe width=665px height=376px')
 
 [Download](https://wordpress.org/download/) and unzip the WordPress package if you haven’t already.
 Create a database for WordPress on your web server, as well as a [MySQL](http://codex.wordpress.org/Glossary#MySQL) user who has all privileges for accessing and modifying it.
