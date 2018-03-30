@@ -2,4 +2,8 @@
   - [WordPress](wordpress-installation.md)
   - [Theme](install-conj-wordpress-theme.md)
   - [Child Theme](install-conj-wordpress-child-theme.md)
+- Miscellaneous
+  - [Requirements](minimum-requirements.md)
+  - [Memory Limit](wordpress-memory-limit.md)
+  - [PHP Version](update-php-version.md)
 - [License](conj-wordpress-theme-license.md)
