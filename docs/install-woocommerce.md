@@ -9,7 +9,7 @@ If you have an existing site and want to install WooCommerce, using the WordPres
 * After activating Conj theme, you’ll see a notice about installing WooCommerce plugin, to proceed click **Install WooCommerce** button.
 * Click **Activate** button and you're ready for the WooCommerce Wizard!
 
-When WooCommerce is activated for the first time, the [WooCommerce Setup Wizard](http://docs.woocommerce.com/document/woocommerce-setup-wizard/) helps you set up your shop.
+!> When WooCommerce is activated for the first time, the [WooCommerce Setup Wizard](http://docs.woocommerce.com/document/woocommerce-setup-wizard/) helps you set up your shop.
 
 Select **Let's go!** to get started. Or select **Not Right Now** if you prefer to manually set up your WooCommerce shop.
 
