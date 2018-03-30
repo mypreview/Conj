@@ -2,11 +2,11 @@
 
 # CONJ <small>1.0.0</small>
 
-> XXX
+> The only thing you need!
 
-- XXX
-- XXX
-- XXX
+- Based on Underscores starter theme
+- Build fast using Customizer live preview
+- Bulletproof integration with WooCommerce Core
 
 
 [Live Preview](https://demo.mypreview.one/conj/)
