@@ -2,6 +2,7 @@
   - [WordPress](wordpress-installation.md)
   - [Theme](install-conj-wordpress-theme.md)
   - [Child Theme](install-conj-wordpress-child-theme.md)
+  - [WooCommerce](install-woocommerce.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
