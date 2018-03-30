@@ -8,7 +8,7 @@ To run Conj WordPress theme we recommend your host supports:
 * [WooCommerce](https://wordpress.org/plugins/woocommerce) version 3.1 or greater.
 * [WP Memory limit](wordpress-memory-limit.md) of 64 MB or greater (128 MB or higher is preferred).
 
-!> PHP 5.6 reached end of life and is no longer maintained.
+!> PHP 5.6 reached [end of life](http://php.net/supported-versions.php) and is no longer maintained.
 
 <hr/>
 
