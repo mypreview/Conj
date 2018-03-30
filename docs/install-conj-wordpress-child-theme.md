@@ -62,3 +62,17 @@ By doing this, it ensures that the files and code in your child theme are always
 !> The child theme files will be stored on your server in the ```wp-content/themes``` location.
 
 When uploading your child theme with the installer, please ensure you are uploading the child theme ```.zip``` file, not the entire package you downloaded. In this case, you will be uploading ```conj-child.zip```.
+
+<hr/>
+
+## FTP upload
+
+To manually upload your child theme, login with your credentials to your website and locate the ```wp-content``` folder in your WordPress install files.
+
+* Login to your hosting (server) file manager with using FTP client credentials.
+* Browse to your folder located at ```wp-content/themes```.
+* Unzip all files & documentation (buyer files) you downloaded from [mypreview.one](https://www.mypreview.one/conj.html) which will include the theme, child theme, documentation access, dummy data and the licensing information.
+* Upload only the extracted folder ```conj-child``` to your server.
+* Next log into your WordPress site admin area.
+* Navigate to **Appearance** » **Themes**.
+* Click **Activate** to activate the Conj child theme.
