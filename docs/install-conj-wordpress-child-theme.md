@@ -12,3 +12,11 @@ If you want to customize the theme at coding level, not just CSS, we would stron
 * Modify any of the theme's assets stored in the theme folder — including javascript files and images.
 
 If you answered **Yes** to any of these questions, you need a child theme.
+
+<hr/>
+
+## What is a child theme?
+
+A Child Theme is a theme that inherits the same functionality and styling of another theme, called the parent theme. By creating and working on a child theme, you can add, modify or disable parts of your site without changing the original files of the parent theme.
+
+You do not have to worry anymore about updates to the parent theme since there is no need to exclude your modified files from the updating process or to re-add your changes to fit the new version. After the creation of a Child Theme, you end up significantly speeding up your development time.
