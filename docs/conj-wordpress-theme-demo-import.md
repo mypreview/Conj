@@ -28,7 +28,7 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 
 ### Dummy content import
 
-![Dummy content import](img/wordpress-importer.png)
+![WordPress importer screen](img/wordpress-importer.png)
 
 * Navigate to **Tools** » **Import**.
 * If you don’t have the [WordPress importer](https://wordpress.org/plugins/wordpress-importer/) installed, first install it by selecting **Install Now**.
@@ -37,3 +37,12 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * Upload ```dummy-data/content.xml``` from the package you downloaded earlier then click on upload file and **Import** button.
 * Check or uncheck the **Download and import file attachments** checkbox.<br/>*This will import all the sample product images to your site if checked.*
 * Click **Submit** and the plugin will now load dummy content from the imported file.
+
+### Widgets import
+
+![Widget importer and exporter plugin option page](img/widget-importer-exporter.png)
+
+* Install [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter) plugin.
+* Navigate to **Tools** » **Widgets Importer & Exporter**.
+* Upload ```dummy-data/widgets.wie``` from the package you downloaded earlier then click on import button.
+* The plugin will now load widget data from the imported file and will show you the list of imported widgets.
