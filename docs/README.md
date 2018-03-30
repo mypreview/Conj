@@ -1,8 +1,74 @@
+## Conj WordPress Theme
+
+> Get started with Conj which is the one thing you need to build your own stunning eCommerce website in a fast and efficient way. Conj’s fantastic out of the box deep code and design integration with WooCommerce, the premier eCommerce solution for WordPress, enables your store to be bulletproof against any conflicts during major WooCommerce updates.
+
 ## What is it
 
 New to Extra? Get started here with a collection of tutorials that cover the basics.
 
 See the [Installation](install-conj-wordpress-theme) for more details.
+
+## Main Features
+
+* Flexible CSS grid
+* Demo content install
+* Demo files included
+* Schema markup
+* Color scheme
+* Google web fonts
+* Based on Underscores
+* Footer bar
+* Google Maps API
+* Contact info widget
+* Social network icons widget
+* Promo box (image ads) widget
+* Affiliate product support
+* Hero product
+* Product share buttons
+* Product pagination
+* Checkout layout
+* Two-step checkout
+* Distraction free checkout
+* Sticky order review
+* Featured reviews
+* Sticky add to cart
+* Mega Menu
+* Product details customizer
+* Push Menu
+* Handheld Menu
+* Social network menu
+* Header media
+* Header customizer
+* Unlimited header layout
+* Header search field
+* Sticky header
+* Homepage components
+* Fluid template
+* Homepage template
+* Layout alignment
+* Credits removal
+* Aside post format
+* Image post format
+* Video post format
+* Quote post format
+* Gallery post format
+* Audio post format
+* Link post format
+* Status post format
+* Chat post format
+* WooCommerce product brands integration
+* WooCommerce Ajax search integration
+* Tight WooCommerce integration
+* JetPack integration
+* JetPack infinite scroll support
+* MailChimp newsletter integration
+* Child theme ready
+* Translation ready
+* SEO optimized
+* HiDPI / Retina ready
+* Well documented
+* Premium support
+* Continuous free updates
 
 ## Live Demo
 
