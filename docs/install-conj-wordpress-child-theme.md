@@ -60,3 +60,5 @@ By doing this, it ensures that the files and code in your child theme are always
 * Click **Activate** to activate the Conj child theme.
 
 !> The child theme files will be stored on your server in the ```wp-content/themes``` location.
+
+When uploading your child theme with the installer, please ensure you are uploading the child theme ```.zip``` file, not the entire package you downloaded. In this case, you will be uploading ```conj-child.zip```.
