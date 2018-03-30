@@ -46,3 +46,15 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * Navigate to **Tools** » **Widgets Importer & Exporter**.
 * Upload ```dummy-data/widgets.wie``` from the package you downloaded earlier then click on import button.
 * The plugin will now load widget data from the imported file and will show you the list of imported widgets.
+
+### Customizer options import
+
+![Customizer options import screen under Customizer window](img/customizer-options-import.jpg)
+
+* Install [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/) plugin.
+* On the frontend, in the Admin bar, click **Customize**.
+* On the backend, click **Appearance** » **Customize**.
+* Navigate to **Export/Import** section.
+* Click the **choose file** button.
+* Select ```dummy-data/customizer.dat``` from the package you downloaded earlier then click on **Import** button.
+* The plugin will now load customizer data from the imported file.
