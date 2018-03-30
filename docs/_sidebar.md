@@ -1,1 +1,3 @@
+- Installation
+  - [WordPress Installation](wordpress-installation.md)
 - [License](conj-wordpress-theme-license.md)
