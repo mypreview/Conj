@@ -64,6 +64,7 @@ See the [Installation](install-conj-wordpress-theme) for more details.
 * JetPack integration
 * JetPack infinite scroll support
 * MailChimp newsletter integration
+* WPML compatible
 * Child theme ready
 * Translation ready
 * SEO optimized
