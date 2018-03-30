@@ -10,6 +10,8 @@ See the [Installation](install-conj-wordpress-theme) for more details.
 
 ## Main Features
 
+![Conj WordPress theme features](img/conj-theme-features.jpg)
+
 * Flexible CSS grid
 * Demo content install
 * Demo files included
