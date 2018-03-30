@@ -38,10 +38,3 @@ While making Conj theme, we used third-party plugins and resources, and want to 
 * [selectize.js](https://github.com/selectize/selectize.js)
 * [Numeric](https://github.com/SamWM/jQuery-Plugins/tree/master/numeric)
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
-
-<hr/>
-
-!> Trademarks and brands are the property of their respective owners.
-
-© 2015 - 2018 MyPreview LLC. All Rights Reserved.
-Conj is distributed under the terms of the [GNU GPL Version 3](conj-wordpress-theme-license.md).
