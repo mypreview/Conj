@@ -15,6 +15,8 @@ Run the WordPress installation script by accessing the URL in a web browser; Thi
 
 If you installed WordPress in the root directory, you should visit: ```https://www.example.com``` If you installed WordPress in a subdirectory called blog, for example, you should visit: ```https://www.example.com/blog```
 
+<hr/>
+
 ## Additional links
 
 * [Installing WordPress](http://codex.wordpress.org/Installing_WordPress)
