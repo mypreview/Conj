@@ -6,3 +6,21 @@ Right after installing a fresh copy of Conj theme and [WooCommerce](https://word
 
 In addition to the above, it is NOT recommended to take next steps forward if you have existing content in your WordPress installation, as it will add numerous posts, pages, categories, media and more to your site.
 Also, try to replace all content as soon as possible to avoid adverse SEO effects or image licensing repercussions.
+
+## Built-in demo importer
+
+Importing the demo data is the easiest way to setup your theme. It will allow you to edit everything instead of creating content from scratch super quickly and with ease.
+
+!> Before you begin, make sure to deactivate all 3rd party plugins except the WooCommerce which is recommended by the theme.
+
+![Built-in one click demo importer](img/demo-import-1.png)
+
+* Install [One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import) plugin.
+* Navigate to **Appearance** » **Import Demo Data**.
+* Click the **Import Demo Data** button and the plugin will now load all dummy content from the imported files.
+
+<hr/>
+
+## Manual demo import
+
+In some cases, the automatic demo import doesn’t work correctly, and most likely this happens when the website is on a local server without an internet connection in this case you have to import demo content manually by following the steps below.
