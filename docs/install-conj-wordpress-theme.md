@@ -14,6 +14,8 @@ Follow the steps below to install your copy of Conj WordPress theme:
 
 When uploading your theme with the installer, please ensure you are uploading the theme ```.zip``` file, not the entire package you downloaded. In this case, you will be uploading ```conj.zip```.
 
+<hr/>
+
 ## FTP upload
 
 To manually upload your new WordPress theme, login with your credentials to your website and locate the ```wp-content``` folder in your WordPress install files.
