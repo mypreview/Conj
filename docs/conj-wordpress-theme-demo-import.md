@@ -13,7 +13,7 @@ Importing the demo data is the easiest way to setup your theme. It will allow yo
 
 !> Before you begin, make sure to deactivate all 3rd party plugins except the WooCommerce which is recommended by the theme.
 
-![Built-in one click demo importer](img/demo-import-1.png)
+![Built-in one click demo importer](img/demo-import.png)
 
 * Install [One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import) plugin.
 * Navigate to **Appearance** » **Import Demo Data**.
