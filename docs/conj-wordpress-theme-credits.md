@@ -39,6 +39,8 @@ While making Conj theme, we used third-party plugins and resources, and want to 
 * [Numeric](https://github.com/SamWM/jQuery-Plugins/tree/master/numeric)
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
 
+<hr/>
+
 !> Trademarks and brands are the property of their respective owners.
 
 © 2015 - 2018 MyPreview LLC. All Rights Reserved.
