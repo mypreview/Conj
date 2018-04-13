@@ -11,7 +11,8 @@
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
-  - [Create a post](create-post.md)
+  - [Create a Post](create-post.md)
+  - [Create a Page](create-page.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
