@@ -6,6 +6,7 @@
   - [Translate](translating-with-poedit.md)
 - Demo Import
   - [Built-in Demo Importer](built-in-demo-importer.md)
+  - [Manual Demo Import](manual-demo-import.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
