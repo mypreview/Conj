@@ -1,5 +1,7 @@
 # Install and activate theme
 
+![Conj theme screenshot](img/screenshot-theme.png)
+
 Follow the steps below to install your copy of Conj WordPress theme:
 
 ## WordPress upload
