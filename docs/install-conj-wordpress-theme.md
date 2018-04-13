@@ -1,8 +1,10 @@
 # Install and activate theme
 
-![Conj theme screenshot](img/screenshot-theme.png)
+!> Take a moment to review the [minimum requirements](minimum-requirements.md) before installation or you may encounter issues when using the theme.
 
 Follow the steps below to install your copy of Conj WordPress theme:
+
+![Conj theme screenshot](img/screenshot-theme.png)
 
 ## WordPress upload
 
