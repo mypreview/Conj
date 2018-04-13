@@ -7,21 +7,27 @@ There are several sorts of products that you can add to your online shop using W
 ## Type of products
 
 * Simple product
+
 *This is a single physical product that has no variations.*
 
 * Product virtual
+
 *An example of this would be a service, such as hourly consulting.*
 
 * Product downloadable
+
 *This is both virtual and downloadable, such as an ebook or a music file.*
 
 * Grouped product
+
 *A collection of products that are related but can be purchased separately. An example would be different models of the iMac from Apple.*
 
 * External or affiliate product
+
 *A product your will add to your store but buyers will be sent to another site to purchase it. Affiliates work well or products you may make a commission on.*
 
 * Variable product
+
 *Some products will have different variations and multiple images. For example a t-shirt, that comes in different sizes and colors, with different prices.*
 
 !> Note that some extensions or third-party plugins if installed will add more product type choices, such as **subscriptions**.
@@ -84,6 +90,7 @@ The product dData meta box is where the majority of important data is added for 
 ** **Dimensions** – Length, width and height for the item.
 ** **Shipping Class** – Shipping classes are used by certain shipping methods to group similar products.
 * Using **up-sells** and **cross-sells**, you can cross promote your products.
+
 *Up-sells are displayed on the product details page.
 Cross-sells are products that are displayed with the cart and related to the user’s cart contents.*
 
