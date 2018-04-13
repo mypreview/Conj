@@ -64,7 +64,7 @@ When adding a simple product, you can check the **downloadable** box in the prod
 
 ## Product data
 
-The product dData meta box is where the majority of important data is added for your products.
+The product Data meta box is where the majority of important data is added for your products.
 
 ![WooCommerce product data meta box](img/woocommerce-product-data.png)
 
