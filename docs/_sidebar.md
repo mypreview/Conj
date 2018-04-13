@@ -5,6 +5,7 @@
   - [WooCommerce](install-woocommerce.md)
   - [Translate](translating-with-poedit.md)
 - Demo Import
+  - [Importing dummy data](importing-dummy-data.md)
   - [Built-in Demo Importer](built-in-demo-importer.md)
   - [Manual Demo Import](manual-demo-import.md)
 - Miscellaneous
