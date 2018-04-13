@@ -4,7 +4,8 @@
   - [Child Theme](install-conj-wordpress-child-theme.md)
   - [WooCommerce](install-woocommerce.md)
   - [Translate](translating-with-poedit.md)
-- [Demo Import](conj-wordpress-theme-demo-import.md)
+- Demo Import
+  - [Built-in Demo Importer](built-in-demo-importer.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
