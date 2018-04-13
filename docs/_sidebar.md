@@ -10,6 +10,7 @@
   - [Manual Demo Import](manual-demo-import.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
+  - [Set Up Menu](set-up-menu.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
