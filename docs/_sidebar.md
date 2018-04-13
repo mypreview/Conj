@@ -13,6 +13,7 @@
   - [Set Up Menu](set-up-menu.md)
   - [Create a Post](create-post.md)
   - [Create a Page](create-page.md)
+  - [Create a Product](create-product.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
