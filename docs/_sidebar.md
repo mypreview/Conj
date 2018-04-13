@@ -8,6 +8,8 @@
   - [Importing Dummy Data](importing-dummy-data.md)
   - [Built-in Demo Importer](built-in-demo-importer.md)
   - [Manual Demo Import](manual-demo-import.md)
+- First Steps
+  - [Site Logo](upload-site-logo.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
