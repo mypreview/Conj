@@ -2,7 +2,7 @@
 
 # CONJ <small>1.0.0</small>
 
-> The only thing you need!
+> The only WooCommerce theme you need!
 
 - Based on Underscores starter theme
 - Build fast using Customizer live preview
