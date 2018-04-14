@@ -20,6 +20,7 @@
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
   - [PHP Version](update-php-version.md)
+- [Integrated Plugins](integrated-plugins.md)
 - [License](conj-wordpress-theme-license.md)
 - [Credits](conj-wordpress-theme-credits.md)
 - [Copyright](conj-wordpress-theme-copyright.md)
