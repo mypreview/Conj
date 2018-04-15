@@ -16,7 +16,7 @@
   - [Create a Product](create-product.md)
   - [Widget Regions](widget-regions.md)
 - Features
-  - [Layout Customization](layout-customization.md)
+  - [Layout](layout-customization.md)
   - [Product Hero](product-hero.md)
   - [Store Notice](store-notice.md)
   - [Fluid Template](fluid-template.md)
