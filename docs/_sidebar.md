@@ -18,6 +18,7 @@
 - Features
   - [Layout Customization](layout-customization.md)
   - [Product Hero](product-hero.md)
+  - [Store Notice](store-notice.md)
   - [Fluid Template](fluid-template.md)
 - How To's
   - [Set Up Homepage](setup-homepage-template.md)
