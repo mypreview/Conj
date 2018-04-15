@@ -16,11 +16,11 @@ Basically, product catalog section allows you to choose:
 
 Choose what to display on the main shop page.
 
-* **Show products**<br/>
+* **Show products** ⤵<br/><br/>
 ![Displaying products only on shop page](img/show-products.jpg)<br/><br/>
-* **Show categories**<br/>
+* **Show categories** ⤵<br/><br/>
 ![Displaying categories only on shop page](img/show-categories.jpg)<br/><br/>
-* **Show categories and products**<br/>
+* **Show categories and products** ⤵<br/><br/>
 ![Displaying categories and products on shop page](img/show-categories-products.jpg)
 
 ## Category display
@@ -29,11 +29,11 @@ Choose what to display on product category pages.
 
 !> There will be no difference in appearance If you have only a few products or no subcategories to display in your store.
 
-* **Show products**<br/>
+* **Show products** ⤵<br/><br/>
 ![Displaying products only on category page](img/category-show-products.jpg)<br/><br/>
-* **Show subcategories**<br/>
+* **Show subcategories** ⤵<br/><br/>
 ![Displaying subcategories only on category page](img/subcategories.jpg)<br/><br/>
-* **Show subcategories and products**<br/>
+* **Show subcategories and products** ⤵<br/><br/>
 ![Displaying subcategories and products on category page](img/subcategories-products.jpg)
 
 ## Product sorting
@@ -50,12 +50,12 @@ You would be able to select one of the following options from the drop-down menu
 
 ## Products per row
 
-Specify how many products should be shown per row.
+Specify how many products should be shown per row. ⤵
 
 ![Modifying the number of products to display per row](img/products-per-row.gif)
 
 ## Rows per page
 
-Specify how many rows of products should be shown per page.
+Specify how many rows of products should be shown per page. ⤵
 
 ![Modifying the number of rows to display per page](img/product-rows-per-page.gif)
