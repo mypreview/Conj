@@ -14,6 +14,7 @@
   - [Create a Post](create-post.md)
   - [Create a Page](create-page.md)
   - [Create a Product](create-product.md)
+  - [Widget Regions](widget-regions.md)
 - Features
   - [Layout Customization](layout-customization.md)
   - [Product Hero](product-hero.md)
