@@ -16,6 +16,8 @@
   - [Create a Product](create-product.md)
 - Features
   - [Product Hero](product-hero.md)
+- How To's
+  - [Set Up Homepage](setup-homepage-template.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
