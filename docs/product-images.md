@@ -15,7 +15,7 @@ Since [WooCommerce 3.3](https://woocommerce.wordpress.com/2017/12/09/wc-3-3-will
 
 !> Note that product image settings in WooCommerce Customizer do not apply to single product image dimensions.
 
-# Resize and crop
+## Resize and crop
 
 ![Updating WooCommerce product image sizes to a custom aspect ratio](img/resize-crop-product-images.png)
 
