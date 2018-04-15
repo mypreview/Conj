@@ -10,9 +10,9 @@ Basically, product catalog section allows you to choose:
 
 <hr/>
 
-1. On the frontend, in the Admin bar, click Customize.
-2. On the backend, click Appearance » Customize.
-3. Navigate to WooCommerce » Product Catalog section.
+1. On the frontend, in the Admin bar, click **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Catalog** section.
 
 ## Shop page display
 
