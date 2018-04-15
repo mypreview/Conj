@@ -19,6 +19,7 @@
   - [Layout](layout-customization.md)
   - [Product Hero](product-hero.md)
   - [Product Catalog](product-catalog.md)
+  - [Product Archives](product-archives.md)
   - [Store Notice](store-notice.md)
   - [Fluid Template](fluid-template.md)
 - How To's
