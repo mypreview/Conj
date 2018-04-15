@@ -2,9 +2,9 @@
 
 Settings included in this section allow you to change the layout and customize every element of the shop page.
 
-1. On the frontend, in the Admin bar, click Customize.
-2. On the backend, click Appearance » Customize.
-3. Navigate to WooCommerce » Product Archives section.
+1. On the frontend, in the Admin bar, click **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Archives** section.
 
 ## Content layout
 
