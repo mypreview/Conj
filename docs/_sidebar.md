@@ -23,6 +23,7 @@
   - [Fluid Template](fluid-template.md)
 - How To's
   - [Set Up Homepage](setup-homepage-template.md)
+  - [Product Images](product-images.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
