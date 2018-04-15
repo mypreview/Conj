@@ -18,9 +18,10 @@
 - Features
   - [Layout](layout-customization.md)
   - [Product Hero](product-hero.md)
+  - [Store Notice](store-notice.md)
   - [Product Catalog](product-catalog.md)
   - [Product Archives](product-archives.md)
-  - [Store Notice](store-notice.md)
+  - [Product Details](product-details.md)
   - [Fluid Template](fluid-template.md)
 - How To's
   - [Set Up Homepage](setup-homepage-template.md)
