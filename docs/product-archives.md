@@ -46,9 +46,9 @@ Toggle the visibility of the **Popular** flash from items that are best selling.
 
 Toggle the visibility of the "New" flash from items that are newly arrived.
 
-![Toggling the New flash from items that are newly arrived](img/new-badge.gif)
-
 !> The badge will be shown on products that were published in the last 30 days.
+
+![Toggling the New flash from items that are newly arrived](img/new-badge.gif)
 
 ## Category badge
 
