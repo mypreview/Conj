@@ -15,6 +15,7 @@
   - [Create a Page](create-page.md)
   - [Create a Product](create-product.md)
 - Features
+  - [Layout Customization](layout-customization.md)
   - [Product Hero](product-hero.md)
   - [Fluid Template](fluid-template.md)
 - How To's
