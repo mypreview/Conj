@@ -52,4 +52,48 @@ Toggle the visibility of the "New" flash from items that are newly arrived.
 
 ## Category badge
 
-Toggle the visibility of the **Category** flash from items that submitted as a parent or child category. 
+Toggle the visibility of the **Category** flash from items that submitted as a parent or child category.
+
+![Toggling the Category flash from items that submitted as a parent or child category](img/category-badge.gif)
+
+## Add to cart
+
+Toggle the visibility of the add to cart buttons.
+
+![Toggling the add to cart buttons](img/add-to-cart-button.gif)
+
+## Featured image
+
+Toggle the visibility of the product catalog thumbnail from the view.
+
+![Toggling the product catalog thumbnail from the view](img/product-featured-image.gif)
+
+## Featured image flipper
+
+Toggle to add a secondary product thumbnail on archives that is revealed when you hover over the main product image.
+
+![Toggling the secondary product thumbnail that is revealed when you hover over the product image](img/featured-image-flipper.gif)
+
+## Prices
+
+Toggle the visibility of the product prices from the view.
+
+![Toggling the product prices from the view](img/product-prices.gif)
+
+## Star ratings
+
+Toggle the visibility of the product star ratings from the view.
+
+![Toggling the product star ratings from the view](img/product-ratings.gif)
+
+## Categories
+
+Toggle the visibility of the product categories from the view.
+
+![Toggling the product categories from the view](img/product-categories.gif)
+
+## Description
+
+Toggle the visibility of the product short description or excerpt from the view.
+
+![Toggling the product short description from the view](img/product-excerpt.gif)
