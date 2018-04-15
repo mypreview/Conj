@@ -8,6 +8,8 @@ Basically, product catalog section allows you to choose:
 * How many products to show in a single row.
 * How many rows of products to display on a page.
 
+<hr/>
+
 1. On the frontend, in the Admin bar, click Customize.
 2. On the backend, click Appearance » Customize.
 3. Navigate to WooCommerce » Product Catalog section.
