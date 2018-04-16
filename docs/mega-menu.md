@@ -39,3 +39,20 @@ Click the **Add a Widget** button to search and select a new widget from the lis
 ![Selecting a widget to add to a mega menu](img/adding-widgets-to-mega-menu.gif)
 
 ?> [Text Widget plugin](https://codex.wordpress.org/WordPress_Widgets#Adding_Code_to_the_Text_Widget) enables you to embed any standard WooCommerce shortcodes to the menu item and display them as a result.
+
+<hr/>
+
+## Order of widgets and resizing
+
+Hovering over the corners of any widget element will enable you to drag to resize the widget simply.
+
+![Resizing and moving a mega menu widget](img/resizing-and-moving-mega-menu-widget.gif)
+
+In addition to that, with drag and drop, you would be able to change the layout and move widgets to a different position.
+
+<hr/>
+
+## Deleting a widget from mega menu
+
+* Click on the **arrow icon** in the top right-hand corner of the widget to expand it.
+* At the bottom select **Delete** to remove the widget from the view.
