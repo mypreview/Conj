@@ -18,3 +18,14 @@ Mega-menu settings can be found under the **Customizer** window which makes it e
 ## Adding menu items
 
 Click the **Add Items** button and select items you would like to add to the site menu.
+
+<hr/>
+
+## Initializing a mega menu
+
+!> When the **Enable** checkbox is checked, the mega menus are shown on your site and preview is available.
+
+![Initializing a mega menu to add sub widget items](img/initializing-mega-menu.gif)
+
+* Click on the **arrow icon** in the top right-hand corner of the menu item to expand it.
+* Click the **Mega Menu** button to open a new side panel where you can manage the selected menu item(s).
