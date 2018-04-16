@@ -12,3 +12,9 @@ Mega-menu settings can be found under the **Customizer** window which makes it e
 * Click the **Add a Menu** button.
 * Name your new site menu.
 * Click the **Create Menu** button.
+
+<hr/>
+
+## Adding menu items
+
+Click the **Add Items** button and select items you would like to add to the site menu.
