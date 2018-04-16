@@ -37,3 +37,5 @@ Click the **Add Items** button and select items you would like to add to the sit
 Click the **Add a Widget** button to search and select a new widget from the list to add.
 
 ![Selecting a widget to add to a mega menu](img/adding-widgets-to-mega-menu.gif)
+
+?> [Text Widget plugin](https://codex.wordpress.org/WordPress_Widgets#Adding_Code_to_the_Text_Widget) enables you to embed any standard WooCommerce shortcodes to the menu item and display them as a result.
