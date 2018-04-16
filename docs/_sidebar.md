@@ -17,6 +17,7 @@
   - [Widget Regions](widget-regions.md)
 - Features
   - [Layout](layout-customization.md)
+  - [Social Menu](social-menu.md)
   - [Product Hero](product-hero.md)
   - [Store Notice](store-notice.md)
   - [Product Catalog](product-catalog.md)
