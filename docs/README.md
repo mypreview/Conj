@@ -77,7 +77,7 @@ See the [Installation](install-conj-wordpress-theme) for more details.
 
 Check out the [Live Demo](https://demo.mypreview.one/conj) to visit CONJ theme in action.
 
-## Get the PRO Version
+## Get the PRO version
 
 The **CONJ PRO** theme is only available to purchase from [mypreview.one](https://www.mypreview.one/conj.html). :moneybag:
 
