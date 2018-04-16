@@ -24,6 +24,7 @@
   - [Product Catalog](product-catalog.md)
   - [Product Archives](product-archives.md)
   - [Product Details](product-details.md)
+  - [Checkout](checkout.md)
   - [Fluid Template](fluid-template.md)
 - How To's
   - [Set Up Homepage](setup-homepage-template.md)
