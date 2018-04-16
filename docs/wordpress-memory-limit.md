@@ -6,11 +6,15 @@ WordPress will automatically check if PHP has been allocated less memory than th
 
 !> Please note, this setting may **NOT** work if your host does **NOT** allow for increasing the PHP memory limit--in that event, contact your host to increase the PHP memory limit. Also, note that many hosts set the PHP limit at **8MB**.
 
+<hr/>
+
 ## Increase PHP memory to 64MB
 
 ```php
 define( 'WP_MEMORY_LIMIT', '64M' );
 ```
+
+<hr/>
 
 ## Increase PHP memory to 96MB
 
