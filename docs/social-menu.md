@@ -6,7 +6,7 @@ To add the icons, create a custom link to the social media location and theme wi
 
 ![Adding social network URLs to the menu](img/social-menu.jpg)
 
-The following social media icons are supported:
+The following social media icons **are supported**:
 
 * Gitlab
 * Github
