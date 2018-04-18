@@ -29,8 +29,9 @@
   - [Fluid Template](fluid-template.md)
   - [Copyright](copyright.md)
 - How To's
-  - [Set Up Homepage](setup-homepage-template.md)
+  - [Adding Custom CSS](add-custom-css.md)
   - [Product Images](product-images.md)
+  - [Set Up Homepage](setup-homepage-template.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
