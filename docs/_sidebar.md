@@ -29,7 +29,7 @@
   - [Fluid Template](fluid-template.md)
   - [Copyright](copyright.md)
 - How To's
-  - [Adding Custom CSS](add-custom-css.md)
+  - [Adding Custom CSS](custom-css.md)
   - [Product Images](product-images.md)
   - [Set Up Homepage](setup-homepage-template.md)
 - Miscellaneous
