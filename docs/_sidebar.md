@@ -27,6 +27,7 @@
   - [Checkout](checkout.md)
   - [Reorder Components](reorder-components.md)
   - [Fluid Template](fluid-template.md)
+  - [Copyright](copyright.md)
 - How To's
   - [Set Up Homepage](setup-homepage-template.md)
   - [Product Images](product-images.md)
