@@ -23,3 +23,7 @@ To enable receiving automatic and one-click updates, locate the **CONJ THEME LIC
 When you purchase CONJ, your license key entitles you to activate theme license on one WordPress setup only. If you wish to transfer your license key to another site, you will need to **unregister** or **revoke** CONJ license from your old WordPress site before deleting or uninstalling the theme or setup.
 
 ![Conj WordPress theme license key deactivation or revoke](img/conj-wordpress-theme-revoke-license.gif)
+
+## Multisite or developers license
+
+Note that MyPreview, LLC does NOT offer multisite or developers license at the moment. In case you want to activate [CONJ - eCommerce WordPress Theme](https://www.mypreview.one/conj.html) on several sites be sure to [purchase](https://www.mypreview.one/conj.html) one license per each site.
