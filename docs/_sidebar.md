@@ -4,6 +4,7 @@
   - [Child Theme](install-conj-wordpress-child-theme.md)
   - [WooCommerce](install-woocommerce.md)
   - [Translate](translating-with-poedit.md)
+  - [License Key](conj-wordpress-theme-license-key.md)
 - Demo Import
   - [Importing Dummy Data](importing-dummy-data.md)
   - [Built-in Demo Importer](built-in-demo-importer.md)
