@@ -10,6 +10,8 @@ It is important to keep your license up to date in order to continue getting upd
 
 If your key is not activated after hitting the **Register** button, simply refresh the WordPress dashboard and try again. Sometimes it takes a second or two try to properly establish a connection with the activation server.
 
+<hr/>
+
 ## Activation instruction
 
 To enable receiving automatic and one-click updates, locate the **CONJ THEME LICENSE** widget on your WordPress dashboard page, then enter your license key *(located in your purchase receipt)* into the text field. 
@@ -18,11 +20,15 @@ To enable receiving automatic and one-click updates, locate the **CONJ THEME LIC
 
 ?> Once your license key is activated, whenever a new update is released you will be notified in WordPress themes and dashboard page about it.
 
+<hr/>
+
 ## Transfer license key
 
 When you purchase CONJ, your license key entitles you to activate theme license on one WordPress setup only. If you wish to transfer your license key to another site, you will need to **unregister** or **revoke** CONJ license from your old WordPress site before deleting or uninstalling the theme or setup.
 
 ![Conj WordPress theme license key deactivation or revoke](img/conj-wordpress-theme-revoke-license.gif)
+
+<hr/>
 
 ## Multisite or developers license
 
