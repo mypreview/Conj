@@ -8,4 +8,12 @@ It is important to keep your license up to date in order to continue getting upd
 
 ?> Without a valid theme license, you will be unable to get support and auto-update notifications will not function.
 
-!> If your key is not activated after hitting the **Register** button, simply refresh the WordPress dashboard and try again. Sometimes it takes a second or two try to properly establish a connection with the activation server.
+If your key is not activated after hitting the **Register** button, simply refresh the WordPress dashboard and try again. Sometimes it takes a second or two try to properly establish a connection with the activation server.
+
+## Activation instruction
+
+To enable receiving automatic and one-click updates, locate the **CONJ THEME LICENSE** widget on your WordPress dashboard page, then enter your license key *(located in your purchase receipt)* into the text field. 
+
+![Conj WordPress theme license key activation](img/conj-wordpress-theme-license-activation.gif)
+
+?> Once your license key is activated, whenever a new update is released you will be notified in WordPress themes and dashboard page about it.
