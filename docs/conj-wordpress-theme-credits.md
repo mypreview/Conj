@@ -35,7 +35,6 @@ While making Conj theme, we used third-party plugins and resources, and want to 
 * [Skip to content](https://github.com/Automattic/_s/pull/136)
 * [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
 * [Slinky](https://github.com/alizahid/slinky)
-* [Stacktable](https://github.com/johnpolacek/stacktable.js)
 * [gridstack.js](https://github.com/gridstack/gridstack.js)
 * [selectize.js](https://github.com/selectize/selectize.js)
 * [Numeric](https://github.com/SamWM/jQuery-Plugins/tree/master/numeric)
