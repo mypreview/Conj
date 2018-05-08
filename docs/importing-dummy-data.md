@@ -4,7 +4,7 @@ Right after installing a fresh copy of Conj theme and [WooCommerce](https://word
 
 ## Image may be subject to copyright
 
-!> Images imported within the dummy data may be subject to copyright which can **NOT** be used on a live site, nor redistributed and are for demo purposes only.
+!> Images imported within the dummy data may be subject to copyright which can **NOT** be used on a live site, nor redistributed and are for demonstration purposes only.
 
 !> Images or videos imported within the demo content are **NOT** included to your purchase. In case you are willing to use any of them on your website, you need to acquire the appropriate license.
 
