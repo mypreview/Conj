@@ -25,6 +25,7 @@ See the [Installation](install-conj-wordpress-theme) for more details.
 * Social network icons widget
 * Promo box (image ads) widget
 * Affiliate product support
+* Slider post type
 * Hero product
 * Product share buttons
 * Product pagination
@@ -49,6 +50,7 @@ See the [Installation](install-conj-wordpress-theme) for more details.
 * Homepage template
 * Layout alignment
 * Credits removal
+* Footer background image
 * Aside post format
 * Image post format
 * Video post format
