@@ -5,7 +5,7 @@ Importing the demo data is the easiest way to setup your theme. It will allow yo
 
 ?> In case you have decided to do the demo import on a vanilla WordPress site *(not customized from the original form)*, be sure to skip WooCommerce setup wizard by clicking on **Not Right Now** hyperlink inside of the setup process screen.<br/><br/>All WooCommerce pages like **Shop**, **Cart**, **Checkout**, etc. will be imported and assigned automatically with demo import.
 
-!> Before you begin, make sure to deactivate all 3rd party plugins except the WooCommerce which is recommended by the theme.
+!> Before you begin, make sure to deactivate all 3rd party plugins except the WooCommerce which is required by the theme.
 
 ![Built-in one click demo importer](img/demo-import.png)
 
