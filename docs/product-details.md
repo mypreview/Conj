@@ -47,6 +47,14 @@ Toggle the visibility of the product meta (SKU, categories and tags). ⤵
 
 ![Toggling the visibility of the product meta](img/product-meta.gif)
 
+## Product share
+
+Toggle the visibility of the product share buttons. ⤵
+
+?> Facebook, Twitter, Buffer, Pinterest or via Email.
+
+![Toggling the visibility of the product share buttons](img/product-share.gif)
+
 ## Product pagination
 
 Toggle the visibility of the next and previous links/slides on single product pages. ⤵
