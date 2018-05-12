@@ -71,7 +71,7 @@ To manually upload your child theme, login with your credentials to your website
 
 * Login to your hosting (server) file manager with using FTP client credentials.
 * Browse to your folder located at ```wp-content/themes```.
-* Unzip all files & documentation (buyer files) you downloaded from [mypreview.one](https://www.mypreview.one/conj.html) which will include the theme, child theme, documentation access, dummy data and the licensing information.
+* Unzip all files & documentation (buyer files) you downloaded upon your purchase which should include the theme, child theme, documentation access, dummy data and the licensing information.
 * Upload only the extracted folder ```conj-child``` to your server.
 * Next log into your WordPress site admin area.
 * Navigate to **Appearance** » **Themes**.
