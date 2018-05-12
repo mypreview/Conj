@@ -32,5 +32,5 @@ Since [WooCommerce 3.3](https://woocommerce.wordpress.com/2017/12/09/wc-3-3-will
 
 When your product images are blurry two things could be happening.
 
-* **One**, your image size settings, may not be adequate (too small) for theme. This can cause problems as the theme wants an image at ```318 x 318 pixels```, but you are giving it one at ```200 x 200 pixels```.
+* **One**, your image size settings, may not be adequate (too small) for theme. This can cause problems as the theme wants an image at ```418 x 418 pixels```, but you are giving it one at ```200 x 200 pixels```.
 * **Two**, the original images you uploaded are not high-resolution enough. Even if your image settings are right, the original image source is too small. The only thing you can do in this case is re-upload appropriately sized images, to begin with.
