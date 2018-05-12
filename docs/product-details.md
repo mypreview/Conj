@@ -51,7 +51,7 @@ Toggle the visibility of the product meta (SKU, categories and tags). ⤵
 
 Toggle the visibility of the product share buttons. ⤵
 
-?> Facebook, Twitter, Buffer, Pinterest or via Email.
+?> Facebook, Twitter, LinkedIn, Buffer or via Email.
 
 ![Toggling the visibility of the product share buttons](img/product-share.gif)
 
