@@ -12,7 +12,7 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * If you don’t have the WordPress importer installed, first install it by selecting Install Now.
 * Once it’s installed select Run Importer.
 * Choose WordPress from the list.
-* Upload dummy-data/content.xml from the package you downloaded earlier then click on upload file and Importbutton.
+* Upload ```dummy-data/content-{demo-name}.xml``` from the package you downloaded earlier then click on upload file and Importbutton.
 * Check or uncheck the Download and import file attachments checkbox.
 * This will import all the sample product images to your site if checked.
 * Click Submit and the plugin will now load dummy content from the imported file.
@@ -25,7 +25,7 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 
 * Install [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter) plugin.
 * Navigate to **Tools » Widgets Importer & Exporter**.
-* Upload ```dummy-data/widgets.wie``` from the package you downloaded earlier then click on import button.
+* Upload ```dummy-data/widgets-{demo-name}.wie``` from the package you downloaded earlier then click on import button.
 * The plugin will now load widget data from the imported file and will show you the list of imported widgets.
 
 <hr/>
@@ -39,5 +39,5 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * On the backend, click **Appearance » Customize**.
 * Navigate to **Export/Import** section.
 * Click the **choose file** button.
-* Select ```dummy-data/customizer.dat``` from the package you downloaded earlier then click on **Import** button.
+* Select ```dummy-data/customizer-{demo-name}.dat``` from the package you downloaded earlier then click on **Import** button.
 * The plugin will now load customizer data from the imported file.
