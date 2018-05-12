@@ -11,4 +11,4 @@ Importing the demo data is the easiest way to setup your theme. It will allow yo
 
 * Install [One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import) plugin.
 * Navigate to **Appearance** » **Import Demo Data**.
-* Click the **Import Demo Data** button and the plugin will now load all dummy content from the imported files.
+* Click the **Import** button and the plugin will now load all dummy content from the imported files.
