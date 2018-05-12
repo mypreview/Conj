@@ -26,7 +26,7 @@ To manually upload your new WordPress theme, login with your credentials to your
 
 * Login to your hosting (server) file manager with using FTP client credentials.
 * Browse to your folder located at ```wp-content/themes```.
-* Unzip the installable theme file you downloaded from [mypreview.one](https://www.mypreview.one/conj.html).
+* Unzip all files & documentation (buyer files) you downloaded upon your purchase which should include the theme, child theme, documentation access, dummy data and the licensing information.
 * Upload only the extracted folder ```conj``` to your server.
 * Next log into your WordPress site admin area.
 * Navigate to **Appearance** » **Themes**.
