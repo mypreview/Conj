@@ -12,7 +12,7 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * If you don’t have the WordPress importer installed, first install it by selecting Install Now.
 * Once it’s installed select Run Importer.
 * Choose WordPress from the list.
-* Upload ```dummy-data/content-{demo-name}.xml``` from the package you downloaded earlier then click on upload file and Importbutton.
+* Upload ```dummy-data/content-{demo-name}.xml``` from the package you downloaded earlier then click on upload file and Import button.
 * Check or uncheck the Download and import file attachments checkbox.
 * This will import all the sample product images to your site if checked.
 * Click Submit and the plugin will now load dummy content from the imported file.
