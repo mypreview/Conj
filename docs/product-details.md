@@ -67,6 +67,6 @@ Toggle the visibility of the next and previous links/slides on single product pa
 
 Toggle the visibility of a content bar at the top of the browser window which includes the product name, price, rating, stock status and the add to cart button. ⤵
 
-!> Can be used for shops that have lots of products with long descriptions, lots of reviews, galleries, etc.
+?> Can be used for shops that have lots of products with long descriptions, lots of reviews, galleries, etc.
 
 ![Toggling the visibility of the sticky add to cart top bar](img/sticky-add-to-cart-top-bar.gif)
