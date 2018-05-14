@@ -1,3 +1,12 @@
+# 1.1.5/ 2018-05-14
+  * Fixed a few styling issues.
+  * Updated language file.
+  * Added new product loop style.
+  * Added sticky sidebar control.
+  * Added page title toggle meta box.
+  * Added footer bar height adjustment control.
+  * Added basic IE 11 support.
+
 # 1.1.0/ 2018-05-08
   * Fixed a few styling issues.
   * Added new color controls.
