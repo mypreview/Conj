@@ -11,7 +11,6 @@ While making Conj theme, we used third-party plugins and resources, and want to 
 * [Storefront Product Pagination](https://github.com/woocommerce/storefront-product-pagination)
 * [Storefront Footer Bar](https://wordpress.org/plugins/storefront-footer-bar)
 * [WooCommerce Quantity Increment](https://github.com/woocommerce/WooCommerce-Quantity-Increment)
-* [WPThemeDoc](https://github.com/richtabor/WPThemeDoc)
 * [docsify](https://github.com/QingWei-Li/docsify)
 * [One Click Demo Import](https://github.com/proteusthemes/one-click-demo-import)
 * [Kirki](https://github.com/reduxframework/kirki)
