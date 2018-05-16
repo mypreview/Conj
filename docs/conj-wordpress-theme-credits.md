@@ -26,6 +26,8 @@ While making Conj theme, we used third-party plugins and resources, and want to 
 * [appendAround](https://github.com/filamentgroup/AppendAround)
 * [Flickity](https://github.com/metafizzy/flickity)
 * [iziToast](https://github.com/dolce/iziToast)
+* [Scroll to Top](https://github.com/tomsime/Scroll-to-Top)
+* [DownCount](https://github.com/sonnyt/downCount)
 * [Just Another Parallax - Jarallax](https://github.com/nk-o/jarallax)
 * [FitVids](https://github.com/davatron5000/FitVids.js)
 * [FlexSlider](https://github.com/woocommerce/FlexSlider)
