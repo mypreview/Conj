@@ -4,7 +4,7 @@
 
 If you have an existing site and want to install WooCommerce, using the WordPress Admin is the most straightforward option as it handles everything for you.
 
-![Install and active WooCommerce plugin admin notice screen](img/install-woocommerce.jpg)
+[Install and activate WooCommerce](https://player.vimeo.com/video/271823918 ':include :type=iframe width=665px height=376px')
 
 * After activating Conj theme, you’ll see a notice about installing WooCommerce plugin, to proceed click **Install WooCommerce** button.
 * Click **Activate** button and you're ready for the WooCommerce Wizard!
