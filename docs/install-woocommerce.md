@@ -13,6 +13,8 @@ If you have an existing site and want to install WooCommerce, using the WordPres
 
 Select **Let's go!** to get started. Or select **Not Right Now** if you prefer to manually set up your WooCommerce shop.
 
+?> In case you have decided to do the [demo import](built-in-demo-importer.md) on a vanilla WordPress site *(not customized from the original form)*, be sure to skip WooCommerce setup wizard by clicking on **Not Right Now** hyperlink inside of the setup process screen.
+
 <hr/>
 
 ## Multisite installation
