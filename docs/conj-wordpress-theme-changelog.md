@@ -1,3 +1,17 @@
+# 1.1.6/ 2018-05-27
+  * Fixed a few styling issues.
+  * Updated language file.
+  * Updated product list view style.
+  * Compatibility with WordPress 4.9.6
+  * Compatibility with WooCommerce 3.4.0
+  * Compatibility with GDPR (General Data Protection Regulation)
+  * Added new shop by category style.
+  * Added new slider style.
+  * Added product countdown component.
+  * Added new service component style.
+  * Added copyright alignment control.
+  * Added product column support on list view layout.
+
 # 1.1.5/ 2018-05-14
   * Fixed a few styling issues.
   * Updated language file.
