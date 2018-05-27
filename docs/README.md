@@ -83,9 +83,9 @@ Check out the [Live Demo](https://demo.mypreview.one/conj) to visit CONJ theme i
 
 <!-- The **CONJ PRO** theme is only available to purchase from [mypreview.one](https://www.mypreview.one/conj.html). :moneybag: -->
 
-## Something missing?
+<!-- ## Something missing? -->
 
-We would love to connect with you and hear your thoughts about anything we are doing. Join our [support forums](https://support.mypreview.one) and let us help you.
+<!-- We would love to connect with you and hear your thoughts about anything we are doing. Join our [support forums](https://support.mypreview.one) and let us help you. -->
 
 ## Statistics
 
