@@ -1,6 +1,6 @@
 ![logo](img/mypreview-logo.png)
 
-# CONJ <small>1.1.6</small>
+# CONJ <small>1.1.7</small>
 
 > The only WooCommerce theme you need!
 
