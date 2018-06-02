@@ -1,3 +1,20 @@
+# 1.1.7/ 2018-06-02
+  * Updated language file.
+  * Fixed mobile styling issues.
+  * Fixed HTML validation errors.
+  * Fixed all required/warning issues raised by ThemeCheck plugin.
+  * Fixed styling issues with Theme Unit test XML file.
+  * Updated demo content assets with placeholder images.
+  * Removed unnecessary spacing from components.
+  * Improved typography hierarchy and content formatting.
+  * Moved slider post type to a pre-packaged plugin.
+  * Compatibility with WooCommerce 3.4.1
+  * Added offline version of the documentation.
+  * Added "Gutenberg" WordPress (new) editor support.
+  * Added sticky order review offset control.
+  * Added sticky sidebar offset control.
+  * Added sticky post color controls.
+  
 # 1.1.6/ 2018-05-27
   * Fixed a few styling issues.
   * Updated language file.
