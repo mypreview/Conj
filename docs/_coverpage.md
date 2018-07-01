@@ -1,6 +1,6 @@
 ![logo](img/mypreview-logo.png)
 
-# CONJ <small>1.1.7</small>
+# CONJ <small>1.2.2</small>
 
 > The only WooCommerce theme you need!
 
@@ -9,5 +9,5 @@
 - Bulletproof integration with WooCommerce Core
 
 
-[Live Preview](https://demo.mypreview.one/conj/)
+[Live Preview](https://www.conj.ws/electronic-store/)
 [Documentation](#conj-wordpress-theme)
