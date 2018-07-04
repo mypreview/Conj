@@ -1,3 +1,43 @@
+# 1.2.2/ 2018-07-01
+  * Updated JS handlers to `.on()` method instead of using shortcut method.
+  * Updated capitalization of the theme name.
+
+# 1.2.1/ 2018-06-30
+  * Fixed WooCommerce search form styling issue.
+
+# 1.2.0/ 2018-06-30
+  * Improved typography hierarchy.
+  * Improved form and button styling.
+  * Improved overall spacing.
+  * Changed post pagination style.
+
+# 1.1.9/ 2018-06-27
+  * Fixed mobile styling issues.
+  * Improved push menu (mobile) styles.
+  * Added `use-strict` to all JavaScript files.
+
+# 1.1.8/ 2018-06-25
+  * Updated language file.
+  * Updated TinyMCE editor styles.
+  * Updated Gutenberg editor styles.
+  * Fixed mobile styling issues.
+  * Fixed inconsistent spacing/padding issues.
+  * Fixed typography scaling issues.
+  * Fixed styling issues with Theme Unit test XML file.
+  * Fixed tag cloud widget overflow styling issue.
+  * Fixed content and image alignment issues.
+  * Improved general/overall typography hierarchy.
+  * Improved blog post/archive styling.
+  * Improved footer widget title styling.
+  * Removed `_authorname_` to prevent double prefixing.
+  * Registered third-party libraries to load independently.
+  * Compatibility with JetPack (gallery) 6.2.1.
+  * Compatibility with WooCommerce 3.4.3.
+  * Compatibility with WooCommerce Stripe gateway.
+  * Compatibility with WooCommerce Product Search.
+  * Added typography subset control.
+  * Added typography font-weight (variants) control.
+
 # 1.1.7/ 2018-06-02
   * Updated language file.
   * Fixed mobile styling issues.
