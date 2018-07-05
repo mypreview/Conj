@@ -9,5 +9,5 @@
 - Bulletproof integration with WooCommerce Core
 
 
-[Live Preview](https://www.conj.ws/electronic-store/)
+[Live Preview](https://www.conj.ws)
 [Documentation](#conj-wordpress-theme)
