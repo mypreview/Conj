@@ -11,6 +11,16 @@ Click on the **Download (green) button** which will trigger a dropdown list for 
 
 ?> Selecting **Installable WordPress file only** will only download the **zip** file of the theme.
 
+## What's included
+
+![What's included in Conj - eCommerce WordPress Theme](img/conj-buyer-files.png)
+
+* `conj-child.zip`
+* `conj.zip`
+* `credits.zip`
+* `documentation.zip`
+* `dummy-data.zip`
+* `licensing.zip`
 
 ## Additional Links
 
