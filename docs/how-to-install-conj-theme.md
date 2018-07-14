@@ -25,3 +25,9 @@ To manually upload the [Conj - eCommerce WordPress Theme](https://themeforest.ne
 2. Upload only the extracted folder `conj` to your server.
 3. Log into your WordPress website and navigate to **Appearance** » **Themes**.
 4. Locate the **Conj** theme and click **Activate** to activate the WordPress theme.
+
+
+## Additional links
+
+* [Item Installation Guide & Help Documentation](https://help.market.envato.com/hc/en-us/articles/203686084-Item-Installation-Guide-Help-Documentation)
+* [Theme is missing the style.css stylesheet error](https://help.market.envato.com/hc/en-us/articles/202821510-Theme-is-missing-the-style-css-stylesheet-error)
