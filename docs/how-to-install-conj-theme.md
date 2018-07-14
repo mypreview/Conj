@@ -13,7 +13,7 @@ Follow the steps below to install your copy of the [Conj - eCommerce WordPress T
 *If you downloaded the whole package **All files & documentation** be sure to extract it and locate the theme file which is named `conj.zip`).*
 5. Once WordPress has unpacked and installed the theme, just click **Activate** to activate the WordPress theme.
 
-## Install Via FTP *(File Transfer Protocol)*
+## Install Via FTP<br/>*(File Transfer Protocol)*
 
 To manually upload the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), login to your hosting (server) file manager with using FTP client credentials.
 
