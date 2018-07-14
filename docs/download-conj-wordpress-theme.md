@@ -12,7 +12,7 @@ Click on the **Download (green) button** which will trigger a dropdown list for 
 ?> Selecting **Installable WordPress file only** will only download the **zip** file of the theme.
 
 
-## Additional links
+## Additional Links
 
 * [Download Limit Reached](https://help.market.envato.com/hc/en-us/articles/202821300-Download-Limit-Reached)
 * [How To Download Your Items](https://help.market.envato.com/hc/en-us/articles/202501014-How-To-Download-Your-Items)
