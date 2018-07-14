@@ -6,6 +6,8 @@ After installing and activating the required/recommended plugins navigate to **S
 
 ![Activate & Save WordPress Permalinks](img/activate-and-save-permalinks.png)
 
+?> The **Post name** permalinks structure requires the [mod_rewrite](https://httpd.apache.org/docs/current/mod/mod_rewrite.html) module to be installed on your hosting.
+
 ## Additional Links
 
 * [Using Permalinks](https://codex.wordpress.org/Using_Permalinks)
