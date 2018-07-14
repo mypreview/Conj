@@ -1,5 +1,6 @@
 - Getting Started
   - [Download Your WordPress Theme](download-conj-wordpress-theme.md)
+  - [How To Install Your Theme](how-to-install-conj-theme.md)
 - Installation
   - [WordPress](wordpress-installation.md)
   - [Theme](install-conj-wordpress-theme.md)
