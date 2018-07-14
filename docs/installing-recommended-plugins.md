@@ -14,17 +14,17 @@ Next, check all the boxes to select all the plugins you want to install, select 
 5. Select the plugins you installed, and apply the bulk action to **activate**.
 6. You should then see a confirmation notice that your **plugins were activated successfully**.
 
-## Required plugins
+## Required Plugins
 
 * CONJ PowerPack
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
 
-## Recommended plugins
+## Recommended Plugins
 
 * [Jetpack by WordPress.com](https://wordpress.org/plugins/jetpack/)
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/)
 * [One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import/)
 
-## Additional links
+## Additional Links
 
 * [Bundled Plugins](https://help.market.envato.com/hc/en-us/articles/213762463-Bundled-Plugins)
