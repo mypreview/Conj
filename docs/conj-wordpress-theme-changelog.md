@@ -1,3 +1,10 @@
+# 1.2.3/ 2018-07-14
+  * Updated Gutenberg editor styles.
+  * Fixed JS error in promo widget uploader field.
+  * Fixed a few styling issues in forms and buttons.
+  * Compatibility with IE 11 (Internet Explorer) browser.
+  * Compatibility with Gutenberg 3.2.0.
+
 # 1.2.2/ 2018-07-01
   * Updated JS handlers to `.on()` method instead of using shortcut method.
   * Updated capitalization of the theme name.
