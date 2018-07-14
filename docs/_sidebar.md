@@ -1,5 +1,5 @@
 - General
-  - [About WordPress](general-information-about-wordpress.md)
+  - [About WordPress](about-wordpress.md)
 - Installation
   - [WordPress](wordpress-installation.md)
   - [Theme](install-conj-wordpress-theme.md)
