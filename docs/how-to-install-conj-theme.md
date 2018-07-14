@@ -6,9 +6,9 @@ Follow the steps below to install your copy of the [Conj - eCommerce WordPress T
 
 ## Install Via WordPress
 
-* Log into your WordPress website and navigate to **Appearance** » **Themes**.
-* Once you are on the themes page, click on the **Add New** button at the top.
-* Click **Upload Theme**.
-* Choose ```conj.zip``` from your local computer or machine and hit **Install Now** button.<br/>
+1- Log into your WordPress website and navigate to **Appearance** » **Themes**.
+2- Once you are on the themes page, click on the **Add New** button at the top.
+3- Click **Upload Theme**.
+4- Choose ```conj.zip``` from your local computer or machine and hit **Install Now** button.<br/>
 *If you downloaded the whole package **All files & documentation** be sure to extract it and locate the theme file which is named `conj.zip`).*
-* Once WordPress has unpacked and installed the theme, just click **Activate** to activate the WordPress theme.
+5- Once WordPress has unpacked and installed the theme, just click **Activate** to activate the WordPress theme.
