@@ -28,10 +28,10 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * Choose **WordPress** from the list.
 * Click the **Browse** button to select the `XML` sample data file you would like to upload.<br/>
 `dummy-data/content-{demo-name}.xml`
-* Click **Upload file and import** button.
+* Click the **Upload file and import** button.
 * Check or uncheck the **Download and import file attachments** checkbox.<br/>
 *If checked, this will import all the sample post, page and product images to your site.*
-* Click **Submit** and the plugin will now load demo content from the imported file.
+* Click the **Submit** button and the plugin will now load demo content from the imported file.
 * Once complete you should see a successful import message.
 
 !> If you faced with a **502 bad gateway error** while importing the demo data please contact your service provider company since this is a server side issue.
@@ -42,4 +42,16 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * Navigate to **Tools** » **Widgets Importer & Exporter**.
 * Click the **Choose File** button to select the `WIE` sample data file you would like to upload.<br/>
 `dummy-data/widgets-{demo-name}.wie`
+* Click the **Import Widgets** button.
 * The plugin will now load widgets data from the imported file and will show you the list of imported widgets.
+
+### Demo Customizer Import
+
+* Install and activate [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/) plugin.
+* On the frontend, in the **Admin bar**, click **Customize**.
+* On the backend, click **Appearance** » **Customize**.
+* Navigate to **Export/Import** section.
+* Click the **Choose File** button to select the `DAT` sample data file you would like to upload.<br/>
+`dummy-data/customizer-{demo-name}.dat`
+* Click the **Import** button.
+* The plugin will now load Customizer settings from the imported file.
