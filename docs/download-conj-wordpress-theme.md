@@ -2,14 +2,14 @@
 
 After purchasing the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) from [ThemeForest](http://themeforest.net/?ref=mypreview), the first step is download and install it on your website.
 
+![Download Conj - eCommerce WordPress Theme](img/download-conj-wordpress-theme.png)
+
 To download the installable theme file, first, log into your [Envato account](https://account.envato.com/sign_in?to=envatomarket).
 
 Navigate to the **Downloads** section of your profile and locate the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview). 
 Click on the **Download (green) button** which will trigger a dropdown list for you to choose which files you want to download.
 
 ?> Selecting **Installable WordPress file only** will only download the **zip** file of the theme.
-
-![Download Conj - eCommerce WordPress Theme](img/download-conj-wordpress-theme.png)
 
 <hr/>
 
