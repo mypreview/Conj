@@ -22,6 +22,8 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 
 ### Demo Content Import
 
+![Demo Content Import](img/conj-demo-content-import.png)
+
 * Navigate to **Tools** » **Import**.
 * If you don’t have the [WordPress Importer](https://wordpress.org/plugins/wordpress-importer/) plugin installed on your website, first install it by selecting **Install Now**.
 * Once it’s installed select **Run Importer**.
@@ -38,6 +40,8 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 
 ### Demo Widgets Import
 
+![Demo Widgets Import](img/conj-demo-widget-import.png)
+
 * Install and activate [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter) plugin.
 * Navigate to **Tools** » **Widgets Importer & Exporter**.
 * Click the **Choose File** button to select the `WIE` sample data file you would like to upload.<br/>
@@ -46,6 +50,8 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 * The plugin will now load widgets data from the imported file and will show you the list of imported widgets.
 
 ### Demo Customizer Import
+
+![Demo Customizer Import](img/conj-demo-customizer-import.png)
 
 * Install and activate [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/) plugin.
 * On the frontend, in the **Admin bar**, click **Customize**.
