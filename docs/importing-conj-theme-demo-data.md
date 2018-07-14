@@ -16,6 +16,8 @@ Follow the steps below to import any of the [Conj - eCommerce WordPress Theme](h
 * Navigate to **Tools** » **CONJ Demo Import** to choose and import the demo of your choice.
 * Click the **Import** button and the plugin will now load all sample data from the selected demo site.
 
+<hr/>
+
 ## Manual Method
 
 In some cases, the automatic demo import doesn’t work correctly, and most likely this happens when the website is on a local server without an internet connection. In this case, you have to import demo content manually by following the steps below:
