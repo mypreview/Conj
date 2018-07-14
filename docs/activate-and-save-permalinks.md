@@ -4,6 +4,8 @@ By default, WordPress uses web URLs which have day and name in them; however, Wo
 
 After installing and activating the required/recommended plugins navigate to **Settings** » **Permalinks** in your WordPress dashboard, and make your selection from the settings screen:
 
+![Activate & Save WordPress Permalinks](img/activate-and-save-permalinks.png)
+
 ## Additional Links
 
 * [Using Permalinks](https://codex.wordpress.org/Using_Permalinks)
