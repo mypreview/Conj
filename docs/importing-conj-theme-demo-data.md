@@ -8,7 +8,7 @@ Importing the demo data is the easiest way to setup the [Conj - eCommerce WordPr
 
 ## Demo Importer Method
 
-Follow the steps below to import any of the Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) demo files:
+Follow the steps below to import any of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) demo files:
 
 ![Importing Conj - eCommerce WordPress Theme Demo Data](img/importing-conj-theme-demo-data.png)
 
