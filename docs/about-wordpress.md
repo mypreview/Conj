@@ -1,6 +1,6 @@
 # About WordPress
 
-?> To use a theme you need a WordPress installation from [WordPress.org](https://wordpress.org/download/) running on your own web server. Or you will need a WordPress.com site with the Business plan.
+?> To use any theme you need a WordPress installation from [WordPress.org](https://wordpress.org/download/) running on your own web server. Or you will need a WordPress.com site with the Business plan.
 
 <hr/>
 
