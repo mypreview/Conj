@@ -13,3 +13,7 @@ Next, check all the boxes to select all the plugins you want to install, select 
 4. After you have installed all the plugins, **return to the plugin installer** page.
 5. Select the plugins you installed, and apply the bulk action to **activate**.
 6. You should then see a confirmation notice that you **plugins were activated successfully**.
+
+## Additional links
+
+* [Bundled Plugins](https://help.market.envato.com/hc/en-us/articles/213762463-Bundled-Plugins)
