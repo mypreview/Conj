@@ -9,7 +9,7 @@ Next, check all the boxes to select all the plugins you want to install, select 
 1. Click the link to **begin installing plugins**.
 2. Check all the boxes to select all the plugins you want to install.
 3. Select the bulk action of install from the dropdown menu and then click the button to apply.<br/>
-*Installation can take a couple minutes depending on your service provider.*
+*Installation may take a few minutes depending upon your service provider and internet connection.*
 4. After you have installed all the plugins, **return to the plugin installer** page.
 5. Select the plugins you installed, and apply the bulk action to **activate**.
 6. You should then see a confirmation notice that you **plugins were activated successfully**.
