@@ -3,11 +3,8 @@
   - [How To Install Your Theme](how-to-install-conj-theme.md)
   - [Installing Recommended/Bundled Plugins](installing-recommended-plugins.md)
   - [Activate & Save Permalinks](activate-and-save-permalinks.md)
+  - [Importing A Theme Demo](importing-conj-theme-demo-data.md)
 - Installation
-  - [WordPress](wordpress-installation.md)
-  - [Theme](install-conj-wordpress-theme.md)
-  - [Child Theme](install-conj-wordpress-child-theme.md)
-  - [WooCommerce](install-woocommerce.md)
   - [Translate](translating-with-poedit.md)
   <!-- - [License Key](conj-wordpress-theme-license-key.md) -->
 - Demo Import
