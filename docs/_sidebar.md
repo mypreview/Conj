@@ -37,7 +37,6 @@
   - [Product Images](product-images.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
-  - [Memory Limit](wordpress-memory-limit.md)
   - [PHP Version](update-php-version.md)
 - [Integrated Plugins](integrated-plugins.md)
 - [License](conj-wordpress-theme-license.md)
