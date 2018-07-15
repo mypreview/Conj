@@ -11,7 +11,7 @@ To adjust on your own, follow the steps below:
 1. Access your website’s root folder via **FTP** or **SFTP**.
 2. Locate the `wp-config.php` file.
 3. Open this file in any text editor.
-4. Add this to the top, before the line that says, `That's all, stop editing! Happy blogging.`:
+4. Add one of the lines below to the top, before the line that says, `That's all, stop editing! Happy blogging.`:
 
 ## Increase PHP Memory to 64MB
 
