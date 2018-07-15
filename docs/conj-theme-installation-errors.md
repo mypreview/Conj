@@ -28,6 +28,14 @@ Contact your web hosting support team and they will be able to check the server 
 
 This error usually means that your server’s upload limit is small. To address this issue you need to contact your service provider support if you aren’t sure how to get your upload limit increased to at least **20MB**.
 
+## White Screen Of Death
+
+Both PHP errors and database errors can manifest as a white screen, a blank screen with no information, commonly known in the WordPress community as the WordPress White Screen of Death (WSOD).
+
+The [WP_DEBUG feature](https://codex.wordpress.org/Editing_wp-config.php#Debug) often provides additional information. If you are still experiencing problems and are looking in your error logs you can check out the [PHP errors](https://codex.wordpress.org/User:Raggedrobins/Common_WordPress_Errors#PHP_Errors) for more information.
+
 ## Additional Links
 
-* [Theme is missing the style.css stylesheet error](https://help.market.envato.com/hc/en-us/articles/202821510-Theme-is-missing-the-style-css-stylesheet-error)
+* [Common WordPress Errors](https://codex.wordpress.org/Common_WordPress_Errors)
+* [Increasing memory allocated to PHP](https://codex.wordpress.org/Editing_wp-config.php#Increasing_memory_allocated_to_PHP)
+* [Theme is missing the `style.css` stylesheet error](https://help.market.envato.com/hc/en-us/articles/202821510-Theme-is-missing-the-style-css-stylesheet-error)
