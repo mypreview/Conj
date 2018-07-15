@@ -6,7 +6,9 @@ Follow the steps below to enable `WP_Debug` for your WordPress installation.
 
 ## Enable WP_Debug Via Plugin
 
-1.
+If you are looking for a one-click method or you are not comfortable editing a file using FTP access in general simply use this plugin to turn on `WP_DEBUG` mode instead.
+
+1. Install and activate [SO Turn On Debug](https://wordpress.org/plugins/so-turn-on-debug/) plugin.
 
 ## Enable WP_Debug Via WordPress
 
