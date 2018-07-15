@@ -1,4 +1,4 @@
-# Create And Setup a Homepage Template
+# Create And Set a Static Homepage
 
 By default after fresh installation of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), the homepage will look like a blog, and this is how WordPress is intended to work. This is the same page template used on the main theme [demos](https://www.conj.ws).
 
@@ -17,7 +17,7 @@ Follow the steps below to create a homepage template:
 3. From the template drop-down in the **Page Attributes** meta box select **Homepage template**.
 4. **Publish** the page.
 
-## Setup Homepage Template
+## Set Up Homepage Template
 
 Follow the steps below to set up the created homepage template:
 
@@ -28,7 +28,7 @@ Follow the steps below to set up the created homepage template:
 3. Set the newly created static page as a **Front page**.
 4. **Save** the settings.
 
-## Create And Setup a Blog Page
+## Create And Set Up a Blog Page
 
 In addition to the steps outlined above in case you want to have a page to display your blog posts, you will have to create another page (you can leave the content blank) and set that as the **Posts Page** in the same settings section.
 
