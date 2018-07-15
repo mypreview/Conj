@@ -35,6 +35,8 @@ The **only** and easiest way to receive support is to **leave a comment** on the
 
 ## How to Post a Comment?
 
+![How To Request Support or Report A Bug](img/how-to-request-support.png)
+
 Follow the steps below to post a comment or submit a support request:
 
 1. Sign in (or sign up!) for an [Envato Market account](https://account.envato.com).
