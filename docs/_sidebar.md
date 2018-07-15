@@ -8,6 +8,7 @@
   - [Create & Set Up Homepage](setup-homepage-template.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
 - Troubleshooting
+  - [Update Server PHP Version](update-server-php-version.md)
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - Translations
@@ -37,7 +38,6 @@
   - [Product Images](product-images.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
-  - [PHP Version](update-php-version.md)
 - [Integrated Plugins](integrated-plugins.md)
 - [License](conj-wordpress-theme-license.md)
 - [Credits](conj-wordpress-theme-credits.md)
