@@ -4,6 +4,8 @@ Starting with WordPress 4.7, you can now add custom CSS to your own theme direct
 
 This is super-easy and you would be able to see your changes with a live preview instantly.
 
+![Making CSS Edits](img/making-css-edits.png)
+
 1. On the frontend, in the Admin bar, **Customize**.
 2. On the backend, click **Appearance » Customize**.
 3. Navigate to **Additional CSS** section.
