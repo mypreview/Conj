@@ -1,13 +1,13 @@
 ![logo](img/mypreview-logo.png)
 
-# CONJ <small>1.2.2</small>
+# CONJ <small>1.2.3</small>
 
-> The only WooCommerce theme you need!
+> #1 Flexible WooCommerce Theme
 
 - Based on Underscores starter theme
 - Build fast using Customizer live preview
 - Bulletproof integration with WooCommerce Core
 
 
-[Live Preview](https://www.conj.ws)
+[Buy CONJ](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview)
 [Documentation](#conj-wordpress-theme)
