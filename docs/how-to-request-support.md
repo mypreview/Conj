@@ -23,7 +23,7 @@ If you’re about to purchase the [Conj - eCommerce WordPress Theme](https://the
 * Installation services.
 * Hosting, server environment, or general WordPress troubleshooting.
 
-## Can I renew my Item Support?
+## Can I Renew My Item Support?
 
 If you have less than 6 months remaining on a support item you’re eligible to renew your support. For more information about Item Support renewals, please see [Extending and Renewing Item Support](https://help.market.envato.com/hc/en-us/articles/207886473-Extending-and-Renewing-Item-Support).
 
