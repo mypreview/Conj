@@ -7,11 +7,6 @@
   - [Theme Installation Errors](conj-theme-installation-errors.md)
   - [Create And Set a Static Homepage](create-and-set-static-homepage.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
-- Troubleshooting
-  - [Minimum Server Requirements](minimum-server-requirements.md)
-  - [Update Server PHP Version](update-server-php-version.md)
-  - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
-  - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
   - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
@@ -20,6 +15,11 @@
   - [Making CSS Edits](making-css-edits.md)
   - [Find a Page or Post ID](locate-page-id.md)
   - [Find a Menu ID](locate-menu-id.md)
+- Troubleshooting
+  - [Minimum Server Requirements](minimum-server-requirements.md)
+  - [Update Server PHP Version](update-server-php-version.md)
+  - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
+  - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
