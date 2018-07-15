@@ -14,7 +14,7 @@ Follow the steps below to create and set up your own homepage template:
 
 1. Create a new page, by visiting **Pages » Add New**.
 2. Set the **page title**.
-3.From the template drop-down in the **Page Attributes** meta box select **Homepage template**.
+3. From the template drop-down in the **Page Attributes** meta box select **Homepage template**.
 4. **Publish** the page.
 
 ## Setup Homepage Template
