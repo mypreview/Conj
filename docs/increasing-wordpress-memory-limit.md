@@ -4,7 +4,7 @@ By default, most of the small-budget shared hosting servers have a meager and li
 
 By default, WordPress will attempt to increase memory allocated to PHP to **40MB** *(code is at the beginning of `/wp-includes/default-constants.php`)* for single site and **64MB** for multisite, so the setting in `wp-config.php` should reflect something higher than **40MB** or **64MB** depending on your setup.
 
-## Do It Yourself
+## Edit `wp-config.php` File
 
 To adjust on your own, follow the steps below:
 
