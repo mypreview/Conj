@@ -21,6 +21,7 @@ If you’re about to purchase the [Conj - eCommerce WordPress Theme](https://the
 
 * Customization services.
 * Installation services.
+* Support for outdated version of the theme.
 * Hosting, server environment, or general WordPress troubleshooting.
 
 ## Can I Renew My Item Support?
