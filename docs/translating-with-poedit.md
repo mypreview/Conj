@@ -40,9 +40,7 @@ WordPress uses **PO** and **MO** files to manage translations. In fact, WordPres
 
 ## Loading Translation Files
 
-Translations can be filed in the ```/languages/``` directory.
-
-The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) will look in this directory for translations as a fallback.
+Translations can be filed in the ```/languages/``` directory. The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) will look in this directory for translations as a fallback.
 
 However, it is recommended that you use the global WordPress language directory and install your translations like so:
 
