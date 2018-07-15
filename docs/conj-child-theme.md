@@ -23,25 +23,19 @@ If you want to edit the code in the theme’s template files like `header.php`, 
 
 ## Overriding Functions
 
-If you want to edit the functions of the parent theme, for example, the `mypreview_conj_posted_on()` function, you can do that by copying only the function from the parent theme and put it into the ```functions.php``` file of your child theme.
+If you want to edit the functions of the parent theme, for example, the `conj_posted_on()` function, you can do that by copying only the function from the parent theme and put it into the ```functions.php``` file of your child theme.
 
-!> Note that, you must copy only the ```function() {...}``` part, NOT including the ```function_exists()``` wrapper.
+?> Note that, you must copy only the `function() {...}` part, NOT including the `function_exists()` wrapper.
 
-<hr/>
+## Overriding Theme’s CSS
 
-## Overriding theme's CSS
-
-You can do this by either using the [Additional CSS](custom-css.md) field under the Customizer window or adding your custom CSS code into the style.css file of your child theme.
-
-<hr/>
+You can do this by either using the [Additional CSS](making-css-edits) field under the Customizer window or adding your custom CSS code into the `style.css` file of your child theme.
 
 ## Remember!
 
 Whenever you finished updating the parent theme, make sure to check all the code you use in your child theme and update them as necessary to reflect any changes in the parent theme. You might back up your custom code first, update the files with the latest version, then apply your custom code back.
 
 By doing this, it ensures that the files and code in your child theme are always up-to-date and to prevent any problem that might occur.
-
-<hr/>
 
 ## WordPress upload
 
@@ -54,8 +48,6 @@ By doing this, it ensures that the files and code in your child theme are always
 !> The child theme files will be stored on your server in the ```wp-content/themes``` location.
 
 When uploading your child theme with the installer, please ensure you are uploading the child theme ```.zip``` file, not the entire package you downloaded. In this case, you will be uploading ```conj-child.zip```.
-
-<hr/>
 
 ## FTP upload
 
