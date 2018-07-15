@@ -6,7 +6,7 @@
 
 New to Extra? Get started here with a collection of tutorials that cover the basics.
 
-See the [Installation](install-conj-wordpress-theme) for more details.
+See the [Getting Started](download-conj-wordpress-theme) for more details.
 
 ## Power Features
 
