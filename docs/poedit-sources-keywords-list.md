@@ -23,3 +23,12 @@ _n_noop
 _nx_noop
 translate_nooped_plural()
 ```
+
+Follow the steps below to enter the list of source keywords:
+
+![Poedit Sources Keywords List](img/poedit-sources-keywords-list.png)
+
+1. If you don't have the [Poedit](https://poedit.net) software installed on your local computer, go ahead and download Poedit now.
+2. Open [Poedit](https://poedit.net) software.
+3. Navigate to **Catalog** » **Properties**.
+4. Click on the **Sources Keywords** tab.
