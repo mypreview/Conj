@@ -67,7 +67,7 @@ In some cases, the automatic demo import doesn’t work correctly, and most like
 ## Additional Links
 
 * [One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import)
-* [WordPress Importer](https://wordpress.org/plugins/wordpress-importer)
 * [Importing Content](https://codex.wordpress.org/Importing_Content)
+* [WordPress Importer](https://wordpress.org/plugins/wordpress-importer)
 * [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter)
 * [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import)
