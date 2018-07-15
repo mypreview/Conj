@@ -14,6 +14,7 @@
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
+  - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
