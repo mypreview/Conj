@@ -24,8 +24,7 @@ Contact your web hosting support team and they will be able to check the server 
 
 ?> This error is most likely to occur on a small-budget shared hosting server, so it’s important for you to begin researching other options so you can move your site to a server capable of handling your growing site.
 
-## Didn’t Send Any Data<br/>
-*(`ERR_EMPTY_RESPONSE`)*
+## Didn’t Send Any Data<br/>*(`ERR_EMPTY_RESPONSE`)*
 
 This error usually means that your server’s upload limit is small. To address this issue you need to contact your service provider support if you aren’t sure how to get your upload limit increased to at least **20MB**.
 
