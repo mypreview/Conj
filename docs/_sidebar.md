@@ -5,7 +5,7 @@
   - [Activate & Save Permalinks](activate-and-save-permalinks.md)
   - [Importing A Theme Demo](importing-conj-theme-demo-data.md)
   - [Theme Installation Errors](conj-theme-installation-errors.md)
-  - [Create & Set Up Homepage](setup-homepage-template.md)
+  - [Create And Set a Static Homepage](create-and-set-static-homepage.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
 - Troubleshooting
   - [Minimum Server Requirements](minimum-server-requirements.md)
