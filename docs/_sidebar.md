@@ -5,6 +5,7 @@
   - [Activate & Save Permalinks](activate-and-save-permalinks.md)
   - [Importing A Theme Demo](importing-conj-theme-demo-data.md)
   - [Theme Installation Errors](conj-theme-installation-errors.md)
+  - [Create & Set Up Homepage](setup-homepage-template.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
 - Installation
   - [Translate](translating-with-poedit.md)
@@ -31,7 +32,6 @@
 - How To's
   - [Adding Custom CSS](custom-css.md)
   - [Product Images](product-images.md)
-  - [Set Up Homepage](setup-homepage-template.md)
 - Miscellaneous
   - [Requirements](minimum-requirements.md)
   - [Memory Limit](wordpress-memory-limit.md)
