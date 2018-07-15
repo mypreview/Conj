@@ -18,6 +18,7 @@
 - Development
   - [Child Theme](conj-child-theme.md)
   - [Making CSS Edits](making-css-edits.md)
+  - [Find a Page or Post ID](locate-page-id.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
@@ -25,6 +26,7 @@
   - [Create a Page](create-page.md)
   - [Create a Product](create-product.md)
   - [Widget Regions](widget-regions.md)
+  - [Product Images](product-images.md)
 - Features
   - [Layout](layout-customization.md)
   - [Mega Menu](mega-menu.md)
@@ -38,8 +40,6 @@
   - [Reorder Components](reorder-components.md)
   - [Fluid Template](fluid-template.md)
   - [Copyright](copyright.md)
-- How To's
-  - [Product Images](product-images.md)
 - [Integrated Plugins](integrated-plugins.md)
 - [License](conj-wordpress-theme-license.md)
 - [Credits](conj-wordpress-theme-credits.md)
