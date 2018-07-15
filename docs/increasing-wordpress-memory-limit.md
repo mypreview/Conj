@@ -33,11 +33,20 @@ Administration tasks require much memory than usual operation. When in the admin
 define( 'WP_MAX_MEMORY_LIMIT', '256M' );
 ```
 
-## Edit Your `PHP.ini` File
+## Edit `PHP.ini` File
 
 If you have access to your `PHP.ini` file, change the line in the file that line shows **64M** try **256M**:
+
 ```txt
 memory_limit = 256M ; Maximum amount of memory a script may consume (64MB)
+```
+
+## Edit `.htaccess` File
+
+In case, you don’t have access to `PHP.ini` file try adding this to an `.htaccess` file instead:
+
+```txt
+php_value memory_limit 256M
 ```
 
 ## GoDaddy, Hostgator and 1&1 Users
