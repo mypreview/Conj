@@ -13,24 +13,31 @@ To adjust on your own, follow the steps below:
 3. Open this file in any text editor.
 4. Add one of the lines below to the top, before the line that says, `That's all, stop editing! Happy blogging.`:
 
-## Increase PHP Memory to 64MB
+### Increase PHP Memory to 64MB
 
 ```php
 define( 'WP_MEMORY_LIMIT', '64M' );
 ```
 
-## Increase PHP Memory to 96MB
+### Increase PHP Memory to 96MB
 
 ```php
 define( 'WP_MEMORY_LIMIT', '96M' );
 ```
 
-## Increase PHP Memory to 256M<br/>*(Administration Tasks)*
+### Increase PHP Memory to 256M<br/>*(Administration Tasks)*
 
 Administration tasks require much memory than usual operation. When in the administration area, the memory can be increased or decreased from the ```WP_MEMORY_LIMIT``` by defining ```WP_MAX_MEMORY_LIMIT```.
 
 ```php
 define( 'WP_MAX_MEMORY_LIMIT', '256M' );
+```
+
+## Edit Your `PHP.ini` File
+
+If you have access to your `PHP.ini` file, change the line in the file that line shows **64M** try **256M**:
+```txt
+memory_limit = 256M ; Maximum amount of memory a script may consume (64MB)
 ```
 
 ## GoDaddy, Hostgator and 1&1 Users
