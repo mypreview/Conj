@@ -29,7 +29,9 @@ If you have less than 6 months remaining on a support item you’re eligible to 
 
 ## How to Contact For Support?
 
-The only and easiest way to receive support is to leave a comment on the item page [here](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview). Make sure to check the box to receive an email notification, this way you can quickly click on the email and view our response.
+The **only** and easiest way to receive support is to **leave a comment** on the item page [here](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview). Make sure to check the box to receive an email notification, this way you can quickly click on the email and view our response.
+
+!> Requests received via author contact form, email, Twitter or FaceBook will take much longer time to process or can be not addressed at all!
 
 ## How to Post a Comment?
 
