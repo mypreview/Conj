@@ -15,3 +15,7 @@ define( 'WP_MEMORY_LIMIT', '64M' );
 ```php
 define( 'WP_MEMORY_LIMIT', '96M' );
 ```
+
+## Additional Links
+
+* [Increasing memory allocated to PHP](https://codex.wordpress.org/Editing_wp-config.php#Increasing_memory_allocated_to_PHP)
