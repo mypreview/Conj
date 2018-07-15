@@ -56,3 +56,9 @@ To manually upload the [Conj - eCommerce WordPress Child Theme](https://themefor
 2. Upload only the extracted folder `conj-child` to your server.
 3. Log into your WordPress website and navigate to **Appearance** » **Themes**.
 4. Locate the **Conj Child** *(child)* theme and click **Activate** to activate the Conj child theme.
+
+## Additional Links
+
+* [Child Themes](https://codex.wordpress.org/Child_Themes)
+* [What is a Parent Theme?](https://developer.wordpress.org/themes/advanced-topics/child-themes/#what-is-a-parent-theme)
+* [What is a Child Theme?](https://developer.wordpress.org/themes/advanced-topics/child-themes/#what-is-a-child-theme)
