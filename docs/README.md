@@ -81,7 +81,7 @@ Check out the [Live Demo](https://www.conj.ws) to visit CONJ theme in action.
 
 This is item is only available to purchase from [Themeforest](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview). :moneybag:
 
-## Something missing?
+## Something Missing?
 
 We would love to connect with you and hear your thoughts about anything we are doing. Leave a comment on the item page [here](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) and let us help you.
 
