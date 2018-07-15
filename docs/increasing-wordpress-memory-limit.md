@@ -51,7 +51,7 @@ php_value memory_limit 256M
 
 ## GoDaddy, Hostgator and 1&1 Users
 
-On a very few hosts, like GoDaddy, Hostgator and 1&1 basic plan, you may encounter issues as demo content import failure, empty page content, Customizer settings not being saved, incomplete page rendering, etc which are caused by the fact that the basic plan of these service providers are NOT meet the minimum server requirements to work with a modern WordPress theme.
+On a very few hosts, like GoDaddy, Hostgator and 1&1 basic plan, you may encounter issues as demo content import failure, empty page content, Customizer settings not being saved, incomplete page rendering, etc which are caused by the fact that the basic plan of these service providers are **NOT** meet the minimum server requirements to work with a modern WordPress theme.
 
 !> Note that many hosts set the PHP limit at **8MB**.
 
