@@ -32,3 +32,7 @@ Follow the steps below to enter the list of source keywords:
 2. Open [Poedit](https://poedit.net) software.
 3. Navigate to **Catalog** » **Properties**.
 4. Click on the **Sources Keywords** tab.
+
+## Additional Links
+
+* [Poedit](https://poedit.net)
