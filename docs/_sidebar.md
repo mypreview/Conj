@@ -9,6 +9,7 @@
   - [Request Support or Report A Bug](how-to-request-support.md)
 - Troubleshooting
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
+  - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
 - First Steps
