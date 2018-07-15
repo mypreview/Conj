@@ -4,6 +4,7 @@
   - [Installing Recommended/Bundled Plugins](installing-recommended-plugins.md)
   - [Activate & Save Permalinks](activate-and-save-permalinks.md)
   - [Importing A Theme Demo](importing-conj-theme-demo-data.md)
+  - [Theme Installation Errors](conj-theme-installation-errors.md)
 - Installation
   - [Translate](translating-with-poedit.md)
 - First Steps
