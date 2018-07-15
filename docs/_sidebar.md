@@ -7,6 +7,8 @@
   - [Theme Installation Errors](conj-theme-installation-errors.md)
   - [Create & Set Up Homepage](setup-homepage-template.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
+- Troubleshooting
+  - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
 - Installation
   - [Translate](translating-with-poedit.md)
 - First Steps
