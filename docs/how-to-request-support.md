@@ -35,9 +35,9 @@ The **only** and easiest way to receive support is to **leave a comment** on the
 
 ## How to Post a Comment?
 
-![How To Request Support or Report A Bug](img/how-to-request-support.png)
-
 Follow the steps below to post a comment or submit a support request:
+
+![How To Request Support or Report A Bug](img/how-to-request-support.png)
 
 1. Sign in (or sign up!) for an [Envato Market account](https://account.envato.com).
 2. From the item [page](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) click the [Comments](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639/comments) tab.
