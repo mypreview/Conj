@@ -34,9 +34,9 @@ WordPress uses **PO** and **MO** files to manage translations. In fact, WordPres
 
 ## Files That Enable Translation
 
-*.pot: This file is a portable object template that contains all of the text to be translated.
-*.po: The portable object file contains the original text and the translations.
-*.mo: This is the machine object file. When your translation is complete, you will convert or export your .po file to this file type so that WordPress can use it.
+* **.pot**: This file is a portable object template that contains all of the text to be translated.
+* **.po**: The portable object file contains the original text and the translations.
+* **.mo**: This is the machine object file. When your translation is complete, you will convert or export your **.po** file to this file type so that WordPress can use it.
 
 ## Loading Translation Files
 
