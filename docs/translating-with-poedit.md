@@ -22,7 +22,7 @@ You need to select each line, one by one and enter the translation in the box on
 
 When you are about to save your new translation file from Poedit, the software automatically generates a new **.mo** file and saves it in the same directory on your hard drive.
 
-After saving the files on your hard disk, use any FTP client application to upload both files to the languages folder in Conj theme directory. Now all you have to do is notify WordPress to use your new translation files.
+After saving the files on your hard disk, use any FTP client application to upload both files to the languages folder in the theme directory. Now all you have to do is notify WordPress to use your new translation files.
 
 WordPress will automatically detect and use the right language files if they already exist.
 
