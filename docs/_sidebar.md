@@ -17,6 +17,7 @@
   - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
 - Development
   - [Making CSS Edits](making-css-edits.md)
+  - [Conj Theme Child Theme](conj-child-theme.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
