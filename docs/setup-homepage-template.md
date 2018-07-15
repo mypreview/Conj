@@ -6,9 +6,9 @@ The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommer
 
 Assuming you added some products to your shop, after following the steps below you would be able to see links to them and links to the top level product categories when visiting the front page of your shop.
 
-Follow the steps below to create and set up your own homepage template:
-
 ## Create Homepage Template
+
+Follow the steps below to create a homepage template:
 
 ![Create a Homepage Template](img/create-homepage-template.png)
 
@@ -18,6 +18,8 @@ Follow the steps below to create and set up your own homepage template:
 4. **Publish** the page.
 
 ## Setup Homepage Template
+
+Follow the steps below to set up the created homepage template:
 
 ![Setup a Homepage Template](img/setup-homepage-template.png)
 
