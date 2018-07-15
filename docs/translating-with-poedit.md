@@ -14,7 +14,7 @@ You will be prompted with the option **Language of the translation**. Start typi
 
 The resulting **.po** file will be named according to abbreviations for the language and associated country. In our case, we are using the English United Kingdom, so our file will be ```en_GB.po```.
 
-!> Poedit creates MO and PO extensions automatically, but if you’re interested here’s a lengthy [list of country and language codes](http://www.fincher.org/Utilities/CountryLanguageList.shtml).
+!> Poedit creates **MO** and **PO** extensions automatically, but if you’re interested here’s a lengthy [list of country and language codes](http://www.fincher.org/Utilities/CountryLanguageList.shtml).
 
 Go through every line of human-readable string in the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) and translate it to the selected language. As a reminder, the **.pot** file has already compiled everything you need to translate. That’s how those lines of text got there.
 
