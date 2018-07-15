@@ -37,6 +37,8 @@ Whenever you finished updating the parent theme, make sure to check all the code
 
 By doing this, it ensures that the files and code in your child theme are always up-to-date and to prevent any problem that might occur.
 
+![Conj Theme Child Theme](img/conj-child-theme.png)
+
 ## Install Via WordPress
 
 1. Log into your WordPress website and navigate to **Appearance** » **Themes**.
