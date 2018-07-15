@@ -75,7 +75,7 @@ See the [Installation](install-conj-wordpress-theme) for more details.
 
 ## Live Demo
 
-Check out the [Live Demo](https://www.conj.ws) to visit CONJ theme in action.
+Check out the [Live Demo](https://www.conj.ws) to visit the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) in action.
 
 ## Get the Theme
 
