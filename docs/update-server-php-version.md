@@ -1,4 +1,4 @@
-# Update your PHP version
+# Update Your Server PHP Version
 
 [PHP](http://www.php.net/) is the most popular server-side scripting language, powering millions of websites including most WooCommerce shops.
 
@@ -6,13 +6,13 @@
 
 <hr/>
 
-## What is PHP?
+## What Is the PHP?
 
 PHP is a scripting language which most likely powers your WordPress and WooCommerce shop. PHP, like all software, gets updated over time to patch security issues and improve its features. And like other software, it’s important to keep your PHP version up to date.
 
 <hr/>
 
-## Contact your host
+## Contact Your Host
 
 Contacting your hosting company is usually the easiest way to find out how you can update your PHP version. They probably already have newer PHP versions available, they just need to update your account.
 
