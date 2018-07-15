@@ -1,34 +1,12 @@
-# Translating with Poedit
+# Translating With Poedit
 
-Conj WordPress theme is translation-ready and localized using the GNU framework. It is the common way to translate WordPress core and almost any theme or plugin.
+The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) is translation-ready and localized using the GNU framework. It is the common way to translate WordPress core and almost any theme or plugin.
 
 If you need more advanced features such as translating menu items, categories, etc. Feel free to visit [WPML](https://wpml.org/purchase/purchase-process/) website and find out more about their premium services and plugin.
 
-<hr/>
-
-## PO and MO translation files
-
-WordPress uses PO and MO files to manage translations. In fact, WordPress only needs MO files to handle translations.
-
-PO files are human-readable; Those files contains a list of strings ready to be translated or with a translation already included.
-
-MO files just compiled exports from the PO files and used by WordPress to get the conversion of each string to translate the theme. If you try to open a MO file with a regular text editor, you will not understand anything of its content.
-
-<hr/>
-
-## Files that enable translation
-
-*.pot: This file is a portable object template that contains all of the text to be translated.
-*.po: The portable object file contains the original text and the translations.
-*.mo: This is the machine object file. When your translation is complete, you will convert or export your .po file to this file type so that WordPress can use it.
-
-<hr/>
-
-## Translating with Poedit
-
 If you don't have the [Poedit](https://poedit.net/) software installed on your local computer, go ahead and download Poedit now. When the download completes, go through the installation wizard to install it.
 
-![Poedit translation software welcome screen](img/translating-with-poedit.png)
+![Translating With Poedit](img/translating-with-poedit.png)
 
 After you have installed Poedit, select ***Create new translation** option in Poedit welcome screen and browse yours computer for a local copy of the **.pot** file for Conj theme. You should be able to find it in the folder named languages within the Conj theme folder.
 
@@ -48,28 +26,36 @@ After saving the files on your hard disk, use any FTP client application to uplo
 
 WordPress will automatically detect and use the right language files if they already exist.
 
-<hr/>
+## PO and MO Translation Files
 
-## Loading translation files
+WordPress uses **PO** and **MO** files to manage translations. In fact, WordPress only needs **MO** files to handle translations. **PO** files are human-readable; Those files contains a list of strings ready to be translated or with a translation already included.
+
+**MO** files just compiled exports from the **PO** files and used by WordPress to get the conversion of each string to translate the theme. If you try to open a MO file with a regular text editor, you will not understand anything of its content.
+
+## Files That Enable Translation
+
+*.pot: This file is a portable object template that contains all of the text to be translated.
+*.po: The portable object file contains the original text and the translations.
+*.mo: This is the machine object file. When your translation is complete, you will convert or export your .po file to this file type so that WordPress can use it.
+
+## Loading Translation Files
 
 Translations can be filed in the ```/languages/``` directory.
 
-!> Conj theme will look in this directory for translations as a fallback.
+!> The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) will look in this directory for translations as a fallback.
 
 t is however recommended that you use the global WordPress language directory and install your translations like so:```/wp-content/languages/themes/conj-it_IT.mo```
 
-!> This way they will not be lost or overwritten during Conj updates.
+!> This way they will not be lost or overwritten during the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) updates.
 
 Alternatively you can put translations in your child theme:
 
 ```/wp-content/themes/conj-child/languages/it_IT.mo```
 
-Conj first looks in the [WordPress Languages Directory](https://developer.wordpress.org/themes/functionality/localization/), and then in the language directory of your child theme.
+The theme first looks in the [WordPress Languages Directory](https://developer.wordpress.org/themes/functionality/localization/), and then in the language directory of your child theme.
 
-<hr/>
+## Share Your Language Files
 
-## Share your language files
-
-In case you have already translated Conj theme a lot of users would be thrilled if you share your translation files with the community.
+In case you have already translated the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) a lot of users would be thrilled if you share your translation files with the community.
 
 For translations, please send over translated language files directly to us at [support@](mailto:support@mypreview.one) email address; We will include the translation files within your name and credit to the next release, so other people who speak your language can use it.
