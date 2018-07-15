@@ -19,6 +19,7 @@
   - [Child Theme](conj-child-theme.md)
   - [Making CSS Edits](making-css-edits.md)
   - [Find a Page or Post ID](locate-page-id.md)
+  - [Find a Menu ID](locate-menu-id.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
