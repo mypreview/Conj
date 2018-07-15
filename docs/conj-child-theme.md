@@ -45,7 +45,7 @@ By doing this, it ensures that the files and code in your child theme are always
 2. Once you are on the themes page, click on the **Add New** button at the top.
 3. Click **Upload Theme**.
 4. Choose ```conj-child.zip``` from your local computer or machine and hit **Install Now** button.<br/>
-*You have to downloaded the whole package **All files & documentation** and extract it to locate the child theme file which is named `conj-child.zip`).*
+*You need to download the whole package **All files & documentation** and extract it to locate the child theme file which is named `conj-child.zip`).*
 5. Once WordPress has unpacked and installed the child theme, just click **Activate** to activate the Conj child theme.
 
 ## Install Via FTP<br/>*(File Transfer Protocol)*
