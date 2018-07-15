@@ -63,3 +63,8 @@ The theme first looks in the [WordPress Languages Directory](https://developer.w
 In case you have already translated the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) a lot of users would be thrilled if you share your translation files with the community.
 
 For translations, please send over translated language files directly to us at [support@](mailto:support@mypreview.one) email address; We will include the translation files within your name and credit to the next release, so other people who speak your language can use it.
+
+## Additional Links
+
+* [Poedit](https://poedit.net)
+* [What is localization?](https://developer.wordpress.org/themes/functionality/localization/#what-is-localization)
