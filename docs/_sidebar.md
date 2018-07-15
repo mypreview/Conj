@@ -38,8 +38,6 @@
 - How To's
   - [Adding Custom CSS](custom-css.md)
   - [Product Images](product-images.md)
-- Miscellaneous
-  - [Requirements](minimum-requirements.md)
 - [Integrated Plugins](integrated-plugins.md)
 - [License](conj-wordpress-theme-license.md)
 - [Credits](conj-wordpress-theme-credits.md)
