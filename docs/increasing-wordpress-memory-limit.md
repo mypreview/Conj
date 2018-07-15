@@ -60,3 +60,4 @@ The modifications mentioned above may not work if your host does not allow for i
 ## Additional Links
 
 * [Increasing memory allocated to PHP](https://codex.wordpress.org/Editing_wp-config.php#Increasing_memory_allocated_to_PHP)
+* [Increasing the WordPress Memory Limit](https://docs.woocommerce.com/document/increasing-the-wordpress-memory-limit/)
