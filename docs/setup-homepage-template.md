@@ -26,6 +26,6 @@ Follow the steps below to create and set up your own homepage template:
 3. Set the newly created static page as a **Front page**.
 4. **Save** the settings.
 
-# Create And Setup a Blog Page
+## Create And Setup a Blog Page
 
 In addition to the steps outlined above in case you want to have a page to display your blog posts, you will have to create another page (you can leave the content blank) and set that as the **Posts Page** in the same settings section.
