@@ -9,8 +9,8 @@
   - [Request Support or Report A Bug](how-to-request-support.md)
 - Troubleshooting
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
-- Installation
-  - [Translate](translating-with-poedit.md)
+- Translations
+  - [Translating with Poedit](translating-with-poedit.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
