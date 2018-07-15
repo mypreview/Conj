@@ -44,6 +44,8 @@ Follow the steps below to post a comment or submit a support request:
 3. Scroll to the bottom of the page and type your comment/question.
 4. Then, click **Post Comment**.
 
+?> Comments are moderated by the theme developers.
+
 !> Comments are **public**, so please do not share any personal information such as WordPress admin credentials or FTP access via this form.
 
 ## Additional Links
