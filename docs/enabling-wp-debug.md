@@ -16,7 +16,7 @@ If you are looking for a one-click method or you are not comfortable editing a f
 
 Follow the steps below to enable `WP_Debug` for your WordPress installation.
 
-![Enable WP_Debug Via WordPress](img/enabling-wp-debug-via-wordpress.png)
+![Enable WP_Debug Via WordPress](img/enabling-wp_debug-via-wordpress.png)
 
 1. Access your website’s root folder via **FTP** or **SFTP**.
 2. Locate the `wp-config.php` file.
