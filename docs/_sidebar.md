@@ -8,6 +8,7 @@
   - [Create & Set Up Homepage](setup-homepage-template.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
 - Troubleshooting
+  - [Minimum Server Requirements](minimum-server-requirements.md)
   - [Update Server PHP Version](update-server-php-version.md)
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
