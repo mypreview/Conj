@@ -2,17 +2,21 @@
 
 `WP_Debug` is a constant *(a permanent global variable)* that when enabled will display any PHP errors on the front-end of your site, and this is the most useful tool when troubleshooting your site for any potential errors or warnings. If disabled and your site has an error you may see a blank white screen or content missing on the site but no error message, that makes it nearly impossible to figure out what the problem exactly is.
 
-Follow the steps below to enable `WP_Debug` for your WordPress installation.
-
 ## Enable `WP_Debug` Via Plugin
 
 If you are looking for a one-click method or you are not comfortable editing a file using FTP access in general simply use this plugin to turn on `WP_DEBUG` mode instead.
+
+![Enable WP_Debug Via Plugin](img/enabling-wp-debug-via-plugin.jpg)
 
 1. Install and activate [SO Turn On Debug](https://wordpress.org/plugins/so-turn-on-debug/) plugin.
 
 ?> Plugin setup is minimal and requires no knowledge of editing or code, and since there are no settings, upon activation of the plugin, `WP_DEBUG` is set to `TRUE` in the `wp-config.php` file of your site.
 
 ## Enable `WP_Debug` Via WordPress
+
+Follow the steps below to enable `WP_Debug` for your WordPress installation.
+
+![Enable WP_Debug Via WordPress](img/enabling-wp-debug-via-wordpress.png)
 
 1. Access your website’s root folder via **FTP** or **SFTP**.
 2. Locate the `wp-config.php` file.
