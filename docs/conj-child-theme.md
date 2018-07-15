@@ -37,26 +37,22 @@ Whenever you finished updating the parent theme, make sure to check all the code
 
 By doing this, it ensures that the files and code in your child theme are always up-to-date and to prevent any problem that might occur.
 
-## WordPress upload
+## Install Via WordPress
 
-* Go to **Appearance** » **Themes**.
-* Once you are on the themes page, click on the **Add New** button at the top.
-* Click **Upload Theme**.
-* Choose ```conj-child.zip``` from your local computer or machine and hit **Install Now** button.
-* Click **Activate** to activate the Conj child theme.
+1. Log into your WordPress website and navigate to **Appearance** » **Themes**.
+2. Once you are on the themes page, click on the **Add New** button at the top.
+3. Click **Upload Theme**.
+4. Choose ```conj-child.zip``` from your local computer or machine and hit **Install Now** button.<br/>
+*You have to downloaded the whole package **All files & documentation** and extract it to locate the child theme file which is named `conj-child.zip`).*
+5. Once WordPress has unpacked and installed the child theme, just click **Activate** to activate the Conj child theme.
 
-!> The child theme files will be stored on your server in the ```wp-content/themes``` location.
+## Install Via FTP<br/>*(File Transfer Protocol)*
 
-When uploading your child theme with the installer, please ensure you are uploading the child theme ```.zip``` file, not the entire package you downloaded. In this case, you will be uploading ```conj-child.zip```.
+To manually upload the [Conj - eCommerce WordPress Child Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), login to your hosting (server) file manager with using FTP client credentials.
 
-## FTP upload
+?> The theme or child theme files will be stored on your server in the ```wp-content/themes``` location.
 
-To manually upload your child theme, login with your credentials to your website and locate the ```wp-content``` folder in your WordPress install files.
-
-* Login to your hosting (server) file manager with using FTP client credentials.
-* Browse to your folder located at ```wp-content/themes```.
-* Unzip all files & documentation (buyer files) you downloaded upon your purchase which should include the theme, child theme, documentation access, dummy data and the licensing information.
-* Upload only the extracted folder ```conj-child``` to your server.
-* Next log into your WordPress site admin area.
-* Navigate to **Appearance** » **Themes**.
-* Click **Activate** to activate the Conj child theme.
+1. Unzip **All files and documentation** (buyer files) you downloaded from [Envato](https://themeforest.net/) which will include the theme, child theme, documentation access, demo data and the licensing information.
+2. Upload only the extracted folder `conj-child` to your server.
+3. Log into your WordPress website and navigate to **Appearance** » **Themes**.
+4. Locate the **Conj Child** *(child)* theme and click **Activate** to activate the Conj child theme.
