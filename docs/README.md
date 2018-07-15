@@ -1,4 +1,4 @@
-## Conj WordPress Theme
+## Conj - eCommerce WordPress Theme
 
 > Get started with Conj which is the one thing you need to build your own stunning eCommerce website in a fast and efficient way. Conj’s fantastic out of the box deep code and design integration with WooCommerce, the premier eCommerce solution for WordPress, enables your store to be bulletproof against any conflicts during major WooCommerce updates.
 
@@ -8,9 +8,7 @@ New to Extra? Get started here with a collection of tutorials that cover the bas
 
 See the [Installation](install-conj-wordpress-theme) for more details.
 
-## Main Features
-
-![Conj WordPress theme features](img/conj-theme-features.jpg)
+## Power Features
 
 * Flexible CSS grid
 * Demo content install
@@ -79,13 +77,13 @@ See the [Installation](install-conj-wordpress-theme) for more details.
 
 Check out the [Live Demo](https://www.conj.ws) to visit CONJ theme in action.
 
-<!-- ## Get the PRO version -->
+## Get the Theme
 
-<!-- The **CONJ PRO** theme is only available to purchase from [mypreview.one](https://www.mypreview.one/conj.html). :moneybag: -->
+This is item is only available to purchase from [Themeforest](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview). :moneybag:
 
-<!-- ## Something missing? -->
+## Something missing?
 
-<!-- We would love to connect with you and hear your thoughts about anything we are doing. Join our [support forums](https://support.mypreview.one) and let us help you. -->
+We would love to connect with you and hear your thoughts about anything we are doing. Leave a comment on the item page [here](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) and let us help you.
 
 ## Statistics
 
