@@ -30,7 +30,7 @@ WordPress will automatically detect and use the right language files if they alr
 
 WordPress uses **PO** and **MO** files to manage translations. In fact, WordPress only needs **MO** files to handle translations. **PO** files are human-readable; Those files contains a list of strings ready to be translated or with a translation already included.
 
-**MO** files just compiled exports from the **PO** files and used by WordPress to get the conversion of each string to translate the theme. If you try to open a MO file with a regular text editor, you will not understand anything of its content.
+**MO** files just compiled exports from the **PO** files and used by WordPress to get the conversion of each string to translate the theme. If you try to open a **MO** file with a regular text editor, you will not understand anything of its content.
 
 ## Files That Enable Translation
 
@@ -44,13 +44,19 @@ Translations can be filed in the ```/languages/``` directory.
 
 !> The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) will look in this directory for translations as a fallback.
 
-t is however recommended that you use the global WordPress language directory and install your translations like so:```/wp-content/languages/themes/conj-it_IT.mo```
+However, it is recommended that you use the global WordPress language directory and install your translations like so:
+
+```php
+/wp-content/languages/themes/conj-it_IT.mo
+```
 
 !> This way they will not be lost or overwritten during the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) updates.
 
 Alternatively you can put translations in your child theme:
 
-```/wp-content/themes/conj-child/languages/it_IT.mo```
+```php
+/wp-content/themes/conj-child/languages/it_IT.mo
+```
 
 The theme first looks in the [WordPress Languages Directory](https://developer.wordpress.org/themes/functionality/localization/), and then in the language directory of your child theme.
 
