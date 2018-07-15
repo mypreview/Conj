@@ -15,6 +15,8 @@
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
   - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
+- Development
+  - [Making CSS Edits](making-css-edits.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
   - [Set Up Menu](set-up-menu.md)
@@ -36,7 +38,6 @@
   - [Fluid Template](fluid-template.md)
   - [Copyright](copyright.md)
 - How To's
-  - [Adding Custom CSS](custom-css.md)
   - [Product Images](product-images.md)
 - [Integrated Plugins](integrated-plugins.md)
 - [License](conj-wordpress-theme-license.md)
