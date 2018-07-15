@@ -10,6 +10,8 @@ If you are looking for a one-click method or you are not comfortable editing a f
 
 1. Install and activate [SO Turn On Debug](https://wordpress.org/plugins/so-turn-on-debug/) plugin.
 
+?> Plugin setup is minimal and requires no knowledge of editing or code, and since there are no settings, upon activation of the plugin, `WP_DEBUG` is set to `TRUE` in the `wp-config.php` file of your site.
+
 ## Enable `WP_Debug` Via WordPress
 
 1. Access your website’s root folder via **FTP** or **SFTP**.
