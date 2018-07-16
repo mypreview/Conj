@@ -66,3 +66,17 @@ Optional **CSS Classes** for this menu item.
 1. Click on the **arrow icon** in the top right-hand corner of the menu item/box to expand it.
 2. Enter the values for the required fields that you want to assign to the item.
 3. Click the **Save Menu** button to save your changes.
+
+## Creating Multi-level Menus
+
+When planning the structure of your menu, it helps to think of each menu item as a heading in a formal report document.
+
+The WordPress menu editor allows you to create multi-level menus using a simple **drag and drop** interface. Once an item is added to a menu, those menu items can be rearranged to create sub menu items. To create a drop down menu drag a menu item slightly to the right of the menu item above it to create a sub item (parent/child) relationship in the menu.
+
+![Creating Multi-level Menus](img/creating-multi-level-menus.png)
+
+1. Position the mouse over the **child** menu item.
+2. Whilst holding the left mouse button, drag it to the right.
+3. Release the mouse button.
+4. Repeat these steps for each sub-menu item.
+5. Click the **Save Menu** button in the Menu Editor to save your changes.
