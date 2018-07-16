@@ -27,3 +27,12 @@ You can add different link types into your menu, these are split between panes l
 5. Click the **Save Menu** button once you’ve added all the menu items you want.
 
 ?> The **Screen Options** allow you to choose which items you can use to add to a menu. Certain items, like Tags are hidden by default.
+
+## Deleting a Menu Item
+
+![Deleting a Menu Item](img/deleting-menu-item.png)
+
+1. Locate the menu item that you want to remove in the menu editor window
+2. Click on the **arrow icon** in the top right-hand corner of the menu item/box to expand it.
+3. Click on the **Remove** link. The menu item/box will be immediately removed.
+4. Click the **Save Menu** button to save your changes.
