@@ -13,3 +13,13 @@ You need to define a menu before adding any items to it.
 3. Select **Create a new menu** at the top of the page.
 4. Enter a name for your new menu in the **Menu Name** box.
 5. Click the **Create Menu** button.
+
+## Adding Items to a Menu
+
+You can add different link types into your menu, these are split between panes left of the menu you’re currently editing.
+
+1. Locate the pane entitled **Pages**.
+2. Within this pane, select the **View All** link to bring up a list of all the currently published Pages on your site.
+3. Select the **Pages** that you want to add by clicking the checkbox next to each **Page’s** title.
+4. Click the **Add to Menu** button located at the bottom of this pane to add your selection(s) to the menu that you created in the previous step.
+5. Click the **Save Menu** button once you’ve added all the menu items you want.
