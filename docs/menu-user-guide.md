@@ -36,3 +36,33 @@ You can add different link types into your menu, these are split between panes l
 2. Click on the **arrow icon** in the top right-hand corner of the menu item/box to expand it.
 3. Click on the **Remove** link. The menu item/box will be immediately removed.
 4. Click the **Save Menu** button to save your changes.
+
+## Customizing Menu Items
+
+?> Some of the following items might be hidden by default. Use **Screen Options** to show the required fields.
+
+### Navigation Label
+
+This field specifies the title of the item on your custom menu. This is what your visitors will see when they visit your site/blog.
+
+### Original
+
+A link to the original source of the menu item (e.g. a link to view the post or page).
+
+### Title Attribute 
+
+This field specifies the Alternative *(Alt)* text for the menu item. This text will be displayed when a user’s mouse hovers over a menu item.
+
+### Link Target 
+
+Select **Same window or tab** or **New window or tab** from the pulldown.
+
+### CSS Classes 
+
+Optional **CSS Classes** for this menu item.
+
+![Customizing Menu Items](img/customizing-menu-items.png)
+
+1. Click on the **arrow icon** in the top right-hand corner of the menu item/box to expand it.
+2. Enter the values for the required fields that you want to assign to the item.
+3. Click the **Save Menu** button to save your changes.
