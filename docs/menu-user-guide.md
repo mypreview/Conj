@@ -80,3 +80,24 @@ The WordPress menu editor allows you to create multi-level menus using a simple 
 3. Release the mouse button.
 4. Repeat these steps for each sub-menu item.
 5. Click the **Save Menu** button in the Menu Editor to save your changes.
+
+?> You can also click the down arrow to reveal more information and there click the **Up one**, **Down one**, **Under item above it**, and **To the top**.
+
+## Assigning Your Menu To a Location
+
+While creating or editing your menu, you can assign it’s location at the bottom of the menu. Also, **Manage Locations** tab is where you can assign all locations a menu from one screen.
+
+1. Scroll to the bottom of the menu editor window.
+2. In the section titled **Theme locations**, click the check box for the location where you want your menu to appear.
+3. Click **Save menu** once you've made your selection.
+
+![Assigning Your Menu To a Location](img/assigning-your-menu-to-location.png)
+
+The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) includes 4 menu location options:
+
+* Primary Menu: Used for the primary navigation bar in the header area.
+* Social Menu: Used to display social network icons on your site.
+* Secondary Menu: Used to display quick links on your site.
+* Push Menu: Used for mobile menu only.
+
+?> The primary navigation appears beneath the site logo just before the content. The secondary navigation appears to the right of the site logo adjacent to the search box *(assuming WooCommerce is active)*.
