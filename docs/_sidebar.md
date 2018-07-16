@@ -7,6 +7,8 @@
   - [Theme Installation Errors](conj-theme-installation-errors.md)
   - [Create And Set a Static Homepage](create-and-set-static-homepage.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
+- How To’s
+  - [Menu User Guide](menu-user-guide.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
   - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
