@@ -24,7 +24,6 @@
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - First Steps
   - [Site Logo](upload-site-logo.md)
-  - [Set Up Menu](set-up-menu.md)
   - [Create a Post](create-post.md)
   - [Create a Page](create-page.md)
   - [Create a Product](create-product.md)
