@@ -26,7 +26,7 @@ You can easily use your mouse to quickly rearrange widgets and move them to a di
 
 ![Changing The Order of Widgets](img/changing-the-order-of-widgets.jpg)
 
-## Resizing The Order of Widgets
+## Resizing The Widgets
 
 With your mouse, hover over the corner/borders, then click and drag to resize the widget.
 
