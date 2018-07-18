@@ -19,3 +19,9 @@ Follow the steps below to create an example mega-menu:
 7. Click the **Add a Widget** button to search and select a new widget from the list to add.
 
 ?> [Text Widget](https://codex.wordpress.org/WordPress_Widgets#Adding_Code_to_the_Text_Widget) plugin enables you to embed any standard WooCommerce shortcodes to the menu item and display them as a result.
+
+## Changing The Order of Widgets
+
+You can easily use your mouse to quickly rearrange widgets and move them to a different column or row.
+
+![Changing The Order of Widgets](img/changing-the-order-of-widgets.jpg)
