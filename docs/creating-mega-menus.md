@@ -26,11 +26,11 @@ You can easily use your mouse to quickly rearrange widgets and move them to a di
 
 ![Changing The Order of Widgets](img/changing-the-order-of-widgets.jpg)
 
-## Resizing The Widgets
+## Resizing a Widget
 
 With your mouse, hover over the corner/borders, then click and drag to resize the widget.
 
-![Resizing The Order of Widgets](img/resizing-the-order-of-widgets.jpg)
+![Resizing a Widget](img/resizing-the-order-of-widgets.jpg)
 
 ## Deleting a Widget
 
@@ -38,3 +38,7 @@ With your mouse, hover over the corner/borders, then click and drag to resize th
 
 1. Click on the **arrow** icon in the top right-hand corner of the widget to expand it.
 2. At the bottom select **Delete** to remove the widget from the view.
+
+## Enable And Live Preview
+
+When the **Enable** checkbox is checked, the mega menus are shown on your site and live preview is available.
