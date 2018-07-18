@@ -14,3 +14,8 @@ Follow the steps below to create an example mega-menu:
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to Export/Import section.
 4. Select the menu which is currently set to **Primary Menu**.
+5. Click on the **arrow** icon in the top right-hand corner of the menu item to expand it.
+6. Click the **Mega Menu** button to open a new side panel where you can manage the selected menu item(s).
+7. Click the **Add a Widget** button to search and select a new widget from the list to add.
+
+?> [Text Widget](https://codex.wordpress.org/WordPress_Widgets#Adding_Code_to_the_Text_Widget) plugin enables you to embed any standard WooCommerce shortcodes to the menu item and display them as a result.
