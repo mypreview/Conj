@@ -9,6 +9,7 @@
   - [Request Support or Report A Bug](how-to-request-support.md)
 - How To’s
   - [Menu User Guide](menu-user-guide.md)
+  - [Creating Mega Menus](creating-mega-menus.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
   - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
