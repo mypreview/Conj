@@ -32,7 +32,6 @@
   - [Product Images](product-images.md)
 - Features
   - [Layout](layout-customization.md)
-  - [Mega Menu](mega-menu.md)
   - [Social Menu](social-menu.md)
   - [Product Hero](product-hero.md)
   - [Store Notice](store-notice.md)
