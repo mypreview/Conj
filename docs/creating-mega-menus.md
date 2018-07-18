@@ -31,3 +31,10 @@ You can easily use your mouse to quickly rearrange widgets and move them to a di
 With your mouse, hover over the corner/borders, then click and drag to resize the widget.
 
 ![Resizing The Order of Widgets](img/resizing-the-order-of-widgets.jpg)
+
+## Deleting a Widget
+
+![Deleting a Widget](img/deleting-mega-menu-widget.png)
+
+1. Click on the **arrow** icon in the top right-hand corner of the widget to expand it.
+2. At the bottom select **Delete** to remove the widget from the view.
