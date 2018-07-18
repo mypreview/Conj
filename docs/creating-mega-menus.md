@@ -41,4 +41,11 @@ With your mouse, hover over the corner/borders, then click and drag to resize th
 
 ## Enable And Live Preview
 
-When the **Enable** checkbox is checked, the mega menus are shown on your site and live preview is available.
+When the **Activate** checkbox is checked, the mega menus are shown on your site and live preview is available.
+
+![Enable And Live Preview](img/enable-and-live-preview-mega-menu.png)
+
+## Additional Links
+
+* [Menu User Guide](menu-user-guide)
+* [Using Text Widgets](https://codex.wordpress.org/WordPress_Widgets#Adding_Code_to_the_Text_Widget)
