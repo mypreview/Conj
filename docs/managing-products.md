@@ -126,6 +126,7 @@ Follow the steps below to mark a product as featured:
 
 ## Additional Links
 
+* [Set Up Products](https://docs.woocommerce.com/document/managing-products)
 * [Variable Product](http://docs.woocommerce.com/?p=281)
 * [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)
 * [WooCommerce Bookings](http://woocommerce.com/products/woocommerce-memberships/)
