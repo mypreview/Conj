@@ -10,6 +10,7 @@
 - How To’s
   - [Customizing The Logo](customizing-logo.md)
   - [Writing A Post](writing-post.md)
+  - [Creating A Page](creating-page.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
 - Features
@@ -28,7 +29,6 @@
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - First Steps
-  - [Create a Page](create-page.md)
   - [Create a Product](create-product.md)
   - [Widget Regions](widget-regions.md)
   - [Product Images](product-images.md)
