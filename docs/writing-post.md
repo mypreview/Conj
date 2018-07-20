@@ -29,7 +29,7 @@ The blank box where you enter your writing, links, links to images, and any info
 
 Allows you to view the post before officially publishing it.
 
-### Permalink<br/>*(Permanent Link)*
+### Permalink - *(Permanent Link)*
 
 The post URL that does not expose the post ID which could be subject to a change.
 
