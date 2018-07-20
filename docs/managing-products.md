@@ -76,7 +76,22 @@ You need to go down to **Linked Products** tab and add the products to this grou
 
 When you create this product, you will be sending your customers to an external site to purchase it, so both **Inventory** and **Shipping** have been removed. Then, under the **General** tab, you will find settings for the URL or link to send customers to make the purchase.
 
+## Adding a Variable Product
+
+Variable products are arguably the most complex of product types. They let you define variations of a single product where each variation may have a different SKU, price or stock level.
+
+See [Variable Product](http://docs.woocommerce.com/?p=281) for a guide on creating a product with variations.
+
+## Duplicating a Product
+
+To save time, it’s possible to use a product and duplicate it to create similar products with variations and other qualities.
+
+Navigate to **Products** » **All Products** and look through the list for a product you wish to replicate, then click **Duplicate**.
+
+![Duplicating a Product](img/duplicating-product.jpg)
+
 ## Additional Links
 
+* [Variable Product](http://docs.woocommerce.com/?p=281)
 * [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)
 * [WooCommerce Bookings](http://woocommerce.com/products/woocommerce-memberships/)
