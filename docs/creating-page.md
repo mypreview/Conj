@@ -4,7 +4,7 @@ In WordPress, you can publish any content on your site as either a **post** or a
 
 In contrast, pages aren’t meant for blog post content at all and generally are for non-chronological, hierarchical content which mostly created for the content that isn’t specifically time-dependent.
 
-Pages like **About** or **Contact** would be common examples.
+?> Pages like **About** or **Contact** would be common examples.
 
 Follow the steps below to create a sample static page:
 
