@@ -8,6 +8,7 @@
   - [Create And Set a Static Homepage](create-and-set-static-homepage.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
 - How To’s
+  - [Customizing The Logo](customizing-logo.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
 - Translations
