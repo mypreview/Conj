@@ -22,3 +22,9 @@ Follow the steps below to upload your site logo:
 ## Removing The Logo
 
 Once a logo has been set, you can change or remove it using the **Remove Logo** and **Change Logo** buttons.
+
+## Hiding The Site Title & Description *(Tagline)*
+
+Right below the Logo selection tools in the Customizer, you will see a checkbox labeled Display Site Title and Tagline. By clearing this checkbox site title and tagline will be removed both.
+
+In addition to that, you can toggle the display of the site title or tagline individually from the view.
