@@ -82,6 +82,17 @@ Variable products are arguably the most complex of product types. They let you d
 
 See [Variable Product](http://docs.woocommerce.com/?p=281) for a guide on creating a product with variations.
 
+## Catalog Visibility
+
+In the **Publish** panel, you can set catalog visibility for your product.
+
+![Catalog Visibility](img/product-catalog-visibility.jpg)
+
+* **Catalog and search** – Visible everywhere, shop pages, category pages, & search results.
+* **Catalog** – Visible in shop pages & category pages, but not search results.
+* **Search** – Visible in search results, but not in the shop page or category pages.
+* **Hidden** – Only visible on the single product page – not on any other pages.
+
 ## Duplicating a Product
 
 To save time, it’s possible to use a product and duplicate it to create similar products with variations and other qualities.
