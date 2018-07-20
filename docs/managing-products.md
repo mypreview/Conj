@@ -70,6 +70,11 @@ When creating your **Grouped Product**, you will see that the General tab no lon
 
 You need to go down to **Linked Products** tab and add the products to this group using the **Grouped products** field.
 
+## Adding a External Or Affiliate Product
+
+![Adding a External Or Affiliate Product](img/adding-external-or-affiliate-product.png)
+
+When you create this product, you will be sending your customers to an external site to purchase it, so both **Inventory** and **Shipping** have been removed. Then, under the **General** tab, you will find settings for the URL or link to send customers to make the purchase.
 
 ## Additional Links
 
