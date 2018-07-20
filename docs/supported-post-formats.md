@@ -12,6 +12,6 @@ All available post formats in WordPress are available for users to choose from a
 * **Audio**: An audio file of your tunes or podcasts. The first `<audio/>` tag or embed in the post content will be considered as a video post format.
 * **Link**: For those days when you just want to share a link to a fantastic article you read which creates a post that links to external resources right from the title.
 * **Status**: A quick update on what you are doing right now most likely to a Twitter status update because updates are no longer reserved for social networks.
-* **Chat**: To highlight an interesting conversation or a chat transcript you have with friends, both on- and offline.
+* **Chat**: To highlight an interesting conversation or a chat transcript you have with friends, both on and offline.
 
 ?> When writing or editing a post, **Standard** is used on any post that **No Post Format** is specified.
