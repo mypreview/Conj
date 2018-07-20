@@ -82,6 +82,14 @@ Variable products are arguably the most complex of product types. They let you d
 
 See [Variable Product](http://docs.woocommerce.com/?p=281) for a guide on creating a product with variations.
 
+## Product Short Description
+
+Add an excerpt. This typically appears next to product imagery on the listing page, and the long description appears in the Product Description tab.
+
+![Catalog Visibility](img/product-short-description.png)
+
+?> Video embeds (oembed) may be used, as of WooCommerce version **3.1x**.
+
 ## Catalog Visibility
 
 In the **Publish** panel, you can set catalog visibility for your product.
