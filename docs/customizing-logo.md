@@ -16,7 +16,7 @@ Follow the steps below to upload your site logo:
 8. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
 9. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Select** button.
 10. The **Crop Image** dialog box appears.
-11. Use the sizing handles to select any portion of the uploaded image you wish to be displayed as the site logo area, and then click **Crop Image** button.<br/>*Suggested image dimensions: 400 by 140 pixels.*
+11. Use the sizing handles to select any portion of the uploaded image you wish to be displayed as the site logo area, and then click **Crop Image** button.<br/>*Suggested image dimensions: **400 by 140 pixels**.*
 12. Click the **Publish** button to view the logo on your site.
 
 ## Removing The Logo
