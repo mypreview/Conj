@@ -41,13 +41,13 @@ Follow the steps below to publish your first WooCommerce product:
 6. Optionally, upload a featured image for your product.
 7. When you are ready, click **Publish**.
 
-!> Note that virtual products don’t require shipping — an order with virtual products won’t calculate shipping costs.
-
 ## Adding a Virtual Product
 
 ![Adding a Virtual Product](img/adding-virtual-product.png)
 
 When adding a simple product, you can optionally check the **Virtual** checkbox in the product type panel. This removes unnecessary fields, such as dimensions.
+
+!> Note that virtual products don’t require shipping — an order with virtual products won’t calculate shipping costs.
 
 ## Adding a Downloadable Product
 
