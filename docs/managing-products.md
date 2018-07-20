@@ -64,7 +64,7 @@ For maximum flexibility, downloadable products also incur a shipping cost as an 
 
 ## Adding a Grouped Product
 
-When creating your **Grouped Product**, you will see that the General tab no longer exists. That’s because you are creating a Grouped Product that will have several Simple Products added to it. So in reality, it’s not an actual single product to purchase.
+When creating your **Grouped Product**, you will see that the General tab no longer exists. That’s because you are creating a grouped product that will have several simple products added to it. So in reality, it’s not an actual single product to purchase.
 
 ![Adding a Grouped Product](img/adding-grouped-product.png)
 
