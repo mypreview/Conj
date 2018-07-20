@@ -12,6 +12,8 @@
   - [Writing A Post](writing-post.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
+- Features
+  - [Supported Post Formats](supported-post-formats.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
   - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
@@ -26,7 +28,6 @@
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - First Steps
-  - [Create a Post](create-post.md)
   - [Create a Page](create-page.md)
   - [Create a Product](create-product.md)
   - [Widget Regions](widget-regions.md)
