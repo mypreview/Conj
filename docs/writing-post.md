@@ -11,7 +11,7 @@ Follow the steps below to publish your first blog post:
 3. Click the **Add New** sub-tab.
 4. Start filling in the blanks: enter your **post title** in the upper field, and enter your **post body content** in the main post editing box below it.
 5. As needed, select a **category**, add **tags**, fill in the meta setings below the editor.
-6. Optionally, pick which [formats](post-formats) suit your post content best.
+6. Optionally, pick which [formats](supported-post-formats) suit your post content best.
 7. Optionally, upload a **featured image** for your post.
 8. When you are ready, click **Publish**.
 
