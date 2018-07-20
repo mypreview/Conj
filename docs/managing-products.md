@@ -106,6 +106,8 @@ Follow the steps below to delete a product:
 
 Follow the steps below to mark a product as featured:
 
+![Mark a Product As Featured](img/mark-product-as-featured.jpg.jpg)
+
 1. Login to the your WordPress Dashboard.
 2. Click the **Products** tab.
 3. Click the **All Products** sub-tab.
