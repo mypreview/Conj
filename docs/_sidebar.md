@@ -9,6 +9,7 @@
   - [Request Support or Report A Bug](how-to-request-support.md)
 - How To’s
   - [Customizing The Logo](customizing-logo.md)
+  - [Writing A Post](writing-post.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
 - Translations
