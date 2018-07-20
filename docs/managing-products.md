@@ -31,6 +31,8 @@ Adding a Simple product is similar to writing a post in WordPress.
 
 Follow the steps below to publish your first WooCommerce product:
 
+![Adding a Simple Product](img/adding-simple-product.png)
+
 1. Login to the your WordPress Dashboard.
 2. Click the **Products** tab.
 3. Click the **Add New** sub-tab.
