@@ -102,6 +102,15 @@ Follow the steps below to delete a product:
 4. Find the product you wish to delete.
 5. **Hover** in the area under the product name and click **Trash**.
 
+## Mark a Product As Featured
+
+Follow the steps below to mark a product as featured:
+
+1. Login to the your WordPress Dashboard.
+2. Click the **Products** tab.
+3. Click the **All Products** sub-tab.
+4. Select the Star in the featured column.<br/>*Alternatively, select **Quick Edit** and then the **Featured** option.*
+
 ## Additional Links
 
 * [Variable Product](http://docs.woocommerce.com/?p=281)
