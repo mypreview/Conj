@@ -1,5 +1,9 @@
 # Adding And Managing Products
 
+## Product Categories
+
+Product **categories** and **tags** work in much the same way as normal categories and tags you have when writing posts in WordPress. They can be created, edited, and selected at any time. This can be done when you first create a product or editing it.
+
 
 ## Product Types
 
