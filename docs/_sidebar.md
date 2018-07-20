@@ -31,7 +31,6 @@
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - First Steps
-  - [Create a Product](create-product.md)
   - [Widget Regions](widget-regions.md)
   - [Product Images](product-images.md)
 - Features
