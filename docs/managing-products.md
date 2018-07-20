@@ -1,9 +1,10 @@
 # Adding And Managing Products
 
+In the process of building your webshop, you will reach a point when you will need to add some products. This should be one of the main activities in your checklist after you perform the basic configuration of your store or after you installed and activated the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview).
+
 ## Product Categories
 
 Product **categories** and **tags** work in much the same way as normal categories and tags you have when writing posts in WordPress. They can be created, edited, and selected at any time. This can be done when you first create a product or editing it.
-
 
 ## Product Types
 
