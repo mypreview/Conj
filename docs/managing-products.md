@@ -45,6 +45,8 @@ Follow the steps below to publish your first WooCommerce product:
 
 ## Adding a Virtual Product
 
+![Adding a Virtual Product](img/adding-virtual-product.png)
+
 When adding a simple product, you can optionally check the **Virtual** checkbox in the product type panel. This removes unnecessary fields, such as dimensions.
 
 ## Adding a Downloadable Product
@@ -53,6 +55,8 @@ When adding a simple product, you can check the downloadable box in the product 
 
 * **File path** — Path or URL to your downloadable file.
 * **Download limit** – Limit on number of times the customer can download file.<br/>*Left blank for unlimited downloads.*
+
+![Adding a Downloadable Product](img/adding-downloadable-product.png)
 
 For maximum flexibility, downloadable products also incur a shipping cost as an example if you were offering both a packaged and a downloadable version of a product, this would be ideal.
 
