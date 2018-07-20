@@ -62,6 +62,15 @@ For maximum flexibility, downloadable products also incur a shipping cost as an 
 
 ?> You can also check the **Virtual** checkbox if the downloadable product is not shippable.
 
+## Adding a Grouped Product
+
+When creating your **Grouped Product**, you will see that the General tab no longer exists. That’s because you are creating a Grouped Product that will have several Simple Products added to it. So in reality, it’s not an actual single product to purchase.
+
+![Adding a Grouped Product](img/adding-grouped-product.png)
+
+You need to go down to **Linked Products** tab and add the products to this group using the **Grouped products** field.
+
+
 ## Additional Links
 
 * [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)
