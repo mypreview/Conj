@@ -80,6 +80,8 @@ When you create this product, you will be sending your customers to an external 
 
 Variable products are arguably the most complex of product types. They let you define variations of a single product where each variation may have a different SKU, price or stock level.
 
+![Adding a Variable Product](img/adding-variable-product.png)
+
 See [Variable Product](http://docs.woocommerce.com/?p=281) for a guide on creating a product with variations.
 
 ## Product Short Description
