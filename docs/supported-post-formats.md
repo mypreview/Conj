@@ -1,6 +1,6 @@
 # Supported Post Formats
 
-All available post formats in WordPress are available for users to choose from and you can see the list of all and supported post formats by the [Conj - eCommerce WordPress Child Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) which consists of:
+All available post formats in WordPress are available for users to choose from and you can see the list of all and supported post formats by the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) which consists of:
 
 ![Supported Post Formats](img/supported-post-formats.png)
 
