@@ -60,3 +60,9 @@ To password protect a post, click **Edit** next to **Visibility** in the Publish
 ### Post Author 
 
 A list of all blog authors you can select from to attribute as the post author. 
+
+## Additional Links
+
+* [Writing Posts](https://codex.wordpress.org/Writing_Posts)
+* [About Weblogs - What is Blogging all about?](https://codex.wordpress.org/Introduction_to_Blogging)
+* [How WordPress Processes Post Content](https://codex.wordpress.org/How_WordPress_Processes_Post_Content)
