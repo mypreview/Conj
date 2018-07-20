@@ -8,6 +8,8 @@ In contrast, pages aren’t meant for blog post content at all and generally are
 
 Follow the steps below to create a sample static page:
 
+![Creating A Page](img/creating-page.jpg)
+
 1. Login to the your WordPress Dashboard.
 2. Click the **Pages** tab.
 3. Click the **Add New** sub-tab.
