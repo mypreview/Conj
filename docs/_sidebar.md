@@ -23,6 +23,7 @@
   - [Making CSS Edits](making-css-edits.md)
   - [Find a Page or Post ID](locate-page-id.md)
   - [Find a Menu ID](locate-menu-id.md)
+  - [Integrated Plugins](integrated-plugins.md)
 - Troubleshooting
   - [Minimum Server Requirements](minimum-server-requirements.md)
   - [Update Server PHP Version](update-server-php-version.md)
@@ -44,8 +45,8 @@
   - [Reorder Components](reorder-components.md)
   - [Fluid Template](fluid-template.md)
   - [Copyright](copyright.md)
-- [Integrated Plugins](integrated-plugins.md)
-- [License](conj-wordpress-theme-license.md)
-- [Credits](conj-wordpress-theme-credits.md)
-- [Changelog](conj-wordpress-theme-changelog.md)
-- [Copyright](conj-wordpress-theme-copyright.md)
+- About The Theme
+  - [License](conj-wordpress-theme-license.md)
+  - [Credits](conj-wordpress-theme-credits.md)
+  - [Changelog](conj-wordpress-theme-changelog.md)
+  - [Copyright](conj-wordpress-theme-copyright.md)
