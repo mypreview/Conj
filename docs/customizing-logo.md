@@ -1,6 +1,6 @@
 # Customizing The Logo
 
-The [Conj - eCommerce WordPress Child Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) includes a few built-in options to alter the default look of the site logo.
+The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) includes a few built-in options to alter the default look of the site logo.
 
 Follow the steps below to upload your site logo:
 
