@@ -90,6 +90,18 @@ Navigate to **Products** » **All Products** and look through the list for a pro
 
 ![Duplicating a Product](img/duplicating-product.jpg)
 
+## Deleting a Product
+
+Follow the steps below to delete a product:
+
+![Deleting a Product](img/deleting-product.jpg)
+
+1. Login to the your WordPress Dashboard.
+2. Click the **Products** tab.
+3. Click the **All Products** sub-tab.
+4. Find the product you wish to delete.
+5. **Hover** in the area under the product name and click **Trash**.
+
 ## Additional Links
 
 * [Variable Product](http://docs.woocommerce.com/?p=281)
