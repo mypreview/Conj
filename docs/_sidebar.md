@@ -13,6 +13,7 @@
   - [Creating A Page](creating-page.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
+  - [Adding and Managing Products](managing-products.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - Translations
