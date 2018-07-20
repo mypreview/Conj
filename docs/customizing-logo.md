@@ -4,6 +4,8 @@ The [Conj - eCommerce WordPress Child Theme](https://themeforest.net/item/conj-e
 
 Follow the steps below to upload your site logo:
 
+![Customizing The Logo](img/customizing-logo.png)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Site Identity** section.
