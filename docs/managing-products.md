@@ -25,6 +25,22 @@ There are several sorts of products that you can add to your online shop using W
 
 ?> Other types are often added by extensions. For example, [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/) adds new product types as does [WooCommerce Bookings](http://woocommerce.com/products/woocommerce-memberships/).
 
+## Adding a Simple Product
+
+Adding a Simple product is similar to writing a post in WordPress.
+
+Follow the steps below to publish your first WooCommerce product:
+
+1. Login to the your WordPress Dashboard.
+2. Click the **Products** tab.
+3. Click the **Add New** sub-tab.
+4. Enter a product **Title** and **Description**.
+5. Navigate to the **Product Data** panel, and select downloadable (digital) or virtual (service) if applicable.
+6. Optionally, upload a featured image for your product.
+7. When you are ready, click **Publish**.
+
+!> Note that virtual products don’t require shipping — an order with virtual products won’t calculate shipping costs.
+
 ## Additional Links
 
 * [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)
