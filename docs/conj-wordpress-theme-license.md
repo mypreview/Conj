@@ -652,7 +652,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    Conj WordPress Theme, Copyright (C) 2015 - 2018 www.mypreview.one
+    Conj - eCommerce WordPress Theme, Copyright (C) 2015 - 2018 www.themeforest.net/user/mypreview
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
