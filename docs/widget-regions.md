@@ -20,6 +20,8 @@ To customize the widget features, click the down **arrow** in the upper right co
 
 To delete or remove the widget from the view, click **Delete**.
 
+?> If you want to remove the widget but save its setting for possible future use, just **drag** it into the **Inactive Widgets** area. You can add them back anytime from there.
+
 ## Widget Visibility
 
 This module is now enabled by default for all [JetPack](https://wordpress.org/plugins/jetpack/) users and enables you to configure widgets to appear only on specific pages (or be hidden on certain pages) by using the **Visibility** panel.
