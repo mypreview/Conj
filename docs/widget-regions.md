@@ -1,6 +1,6 @@
 # Widget regions 
 
-WordPress Widgets add content and features to your Sidebars. The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) theme includes ten widget regions by default.
+WordPress Widgets add content and features to your sidebars. Examples are the default widgets that come with WordPress; for **Categories**, **Tag cloud**, **Search**, etc.
 
 ## Displaying Widgets
 
@@ -25,6 +25,28 @@ To delete or remove the widget from the view, click **Delete**.
 ## Widget Visibility
 
 This module is now enabled by default for all [JetPack](https://wordpress.org/plugins/jetpack/) users and enables you to configure widgets to appear only on specific pages (or be hidden on certain pages) by using the **Visibility** panel.
+
+## Accessibility
+
+There is also an **Accessibility Mode** for users who need it. To enable accessibility mode, you need to click on the **Screen Options** button at the top right corner of the screen.
+
+## Sidebar areas
+
+The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) theme includes ten widget regions by default.
+
+### Sidebar
+
+Widgets added to this region will appear in archive (blog) and shop pages.
+
+### Footer Bar
+
+A full-width widgetized region which will display any widget added to this region above the footer widget area.
+
+### Footer x 8
+
+All footer widget regions are arranged into equal width columns dependent on how many regions are active. 
+
+As an example if you have widgets in the **Footer Row 1 - Column 1** region and widgets in the **Footer Row 1 - Column 2** region, they are organized in two equal-width columns while column 3 and 4 won’t display in that row.
 
 ## Additional Links
 
