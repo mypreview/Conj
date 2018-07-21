@@ -88,6 +88,8 @@ See [Variable Product](http://docs.woocommerce.com/?p=281) for a guide on creati
 
 The **Product Data** meta box is where the majority of important data is added for your products.
 
+![Adding a Variable Product](img/product-data-metabox.png)
+
 ### General
 
 * **SKU** – Stock keep unit (SKU) tracks products. Must be unique and should be formatted so it does not match any post IDs.
