@@ -14,6 +14,7 @@
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
   - [Adding and Managing Products](managing-products.md)
+  - [Widget Regions](widget-regions.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - Translations
@@ -31,7 +32,6 @@
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - First Steps
-  - [Widget Regions](widget-regions.md)
   - [Product Images](product-images.md)
 - Features
   - [Layout](layout-customization.md)
