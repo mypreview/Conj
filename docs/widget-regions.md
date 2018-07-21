@@ -26,6 +26,8 @@ To delete or remove the widget from the view, click **Delete**.
 
 This module is now enabled by default for all [JetPack](https://wordpress.org/plugins/jetpack/) users and enables you to configure widgets to appear only on specific pages (or be hidden on certain pages) by using the **Visibility** panel.
 
+![JetPack Widget Visibility](img/widget-visibility.png)
+
 ## Accessibility
 
 There is also an **Accessibility Mode** for users who need it. To enable accessibility mode, you need to click on the **Screen Options** button at the top right corner of the screen.
