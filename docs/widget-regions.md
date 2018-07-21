@@ -1,4 +1,4 @@
-# Widget regions 
+# Widget Regions 
 
 WordPress Widgets add content and features to your sidebars. Examples are the default widgets that come with WordPress; for **Categories**, **Tag cloud**, **Search**, etc.
 
@@ -30,9 +30,11 @@ This module is now enabled by default for all [JetPack](https://wordpress.org/pl
 
 There is also an **Accessibility Mode** for users who need it. To enable accessibility mode, you need to click on the **Screen Options** button at the top right corner of the screen.
 
-## Sidebar areas
+## Sidebar Areas
 
 The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) theme includes ten widget regions by default.
+
+![Sidebar Areas](img/sidebar-areas.png)
 
 ### Sidebar
 
