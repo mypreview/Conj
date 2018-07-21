@@ -2,7 +2,7 @@
 
 > Get started with Conj which is the one thing you need to build your own stunning eCommerce website in a fast and efficient way. Conj’s fantastic out of the box deep code and design integration with WooCommerce, the premier eCommerce solution for WordPress, enables your store to be bulletproof against any conflicts during major WooCommerce updates.
 
-## What is it
+## Where to Start?
 
 New to Extra? Get started here with a collection of tutorials that cover the basics.
 
