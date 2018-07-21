@@ -5,7 +5,7 @@ WordPress Widgets add content and features to your sidebars. Examples are the de
 ## Displaying Widgets
 
 1. Log into your WordPress website and navigate to **Appearance** » **Widgets**.
-2. Choose a **Widget** and either drag it to the sidebar where you wish it to appear, or click the widget, *(select a destination sidebar if your theme has more than one)* and click the **Add Widget** button.
+2. Choose a **Widget** and either drag it to the sidebar where you wish it to appear, or click the widget, *(select a destination sidebar)* and click the **Add Widget** button.
 3. Preview the site. You should now see the added widgets are visible.
 
 ## Arranging Widgets
