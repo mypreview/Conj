@@ -84,6 +84,20 @@ Variable products are arguably the most complex of product types. They let you d
 
 See [Variable Product](http://docs.woocommerce.com/?p=281) for a guide on creating a product with variations.
 
+## Product Data
+
+The **Product Data** meta box is where the majority of important data is added for your products.
+
+### General section
+
+* **SKU** – Stock keep unit (SKU) tracks products. Must be unique and should be formatted so it does not match any post IDs.
+* **Price**
+  * **Regular Price** – Item’s normal/regular price.
+  * **Sale Price** – Item’s discounted price that can then be scheduled for certain date ranges.
+* **Inventory** – The inventory section allows you to manage stock for the product individually and define whether to allow back orders and more.
+* **Enable Stock Management** – must be selected in [Products Inventory Settings](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#inventory-options); otherwise, only the ‘Manage stock?’ option is visible in the Product Data Inventory box.
+
+
 ## Product Short Description
 
 Add an excerpt. This typically appears next to product imagery on the listing page, and the long description appears in the Product Description tab.
@@ -140,3 +154,4 @@ Follow the steps below to mark a product as featured:
 * [Variable Product](http://docs.woocommerce.com/?p=281)
 * [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)
 * [WooCommerce Bookings](http://woocommerce.com/products/woocommerce-memberships/)
+* [Products Inventory Settings](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#inventory-options)
