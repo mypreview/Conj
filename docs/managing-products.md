@@ -88,7 +88,7 @@ See [Variable Product](http://docs.woocommerce.com/?p=281) for a guide on creati
 
 The **Product Data** meta box is where the majority of important data is added for your products.
 
-### General section
+### General
 
 * **SKU** – Stock keep unit (SKU) tracks products. Must be unique and should be formatted so it does not match any post IDs.
 * **Price**
@@ -97,6 +97,25 @@ The **Product Data** meta box is where the majority of important data is added f
 * **Inventory** – The inventory section allows you to manage stock for the product individually and define whether to allow back orders and more.
 * **Enable Stock Management** – must be selected in [Products Inventory Settings](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#inventory-options); otherwise, only the ‘Manage stock?’ option is visible in the Product Data Inventory box.
 
+### Shipping
+
+* **Weight** – Weight of the item.
+* **Dimensions** – Length, width and height for the item.
+* **Shipping Class** – Shipping classes are used by certain shipping methods to group similar products.
+* **Linked Products section** – Using up-sells and cross-sells, you can cross promote your products.
+  * **Up-sells** – These are products that you may wish to encourage users to upgrade, based on the product they are currently viewing.
+  * **Cross-sells** – Products that are displayed with the cart and related to the user’s cart contents.
+  * **Grouping** – Used to make a product part of a grouped product.
+
+### Attributes
+
+On the Attributes tab, you can assign details to a product. You will see a select box containing global attribute sets you created (e.g., platform). More at: [Managing Product Categories, Tags and Attributes](http://docs.woocommerce.com/?p=1062).
+
+### Advanced
+
+* **Purchase note** – Enter an optional note to send the customer after they purchase the product.
+* **Menu order** – Custom ordering position for this item.
+* **Enable Reviews** – Enable/Disable customers reviews for this item.
 
 ## Product Short Description
 
@@ -154,4 +173,5 @@ Follow the steps below to mark a product as featured:
 * [Variable Product](http://docs.woocommerce.com/?p=281)
 * [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/)
 * [WooCommerce Bookings](http://woocommerce.com/products/woocommerce-memberships/)
+* [Managing Product Categories, Tags and Attributes](http://docs.woocommerce.com/?p=1062)
 * [Products Inventory Settings](https://docs.woocommerce.com/document/configuring-woocommerce-settings/#inventory-options)
