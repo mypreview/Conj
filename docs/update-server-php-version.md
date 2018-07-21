@@ -22,7 +22,7 @@ Dear service provider,
 I’m running a WooCommerce webshop on one of your servers and the Conj - eCommerce WordPress Theme has recommended using at least PHP 7.0 or above. Also, WordPress, the content management system that my theme uses, has listed PHP 7 as the recommended version on their requirements page:
 
 https://wordpress.org/about/requirements/
-https://mypreview.github.io/Conj/#/update-php-version?id=contact-your-host
+https://mypreview.github.io/Conj/#/update-server-php-version?id=contact-your-service-provider
 
 Please let me know if my hosting supports PHP 7.0 or higher and how I can upgrade?
 
