@@ -19,6 +19,7 @@
   - [Creating Social Menu](creating-social-menu.md)
   - [Adding and Managing Products](managing-products.md)
   - [Header Layout Configurator](header-layout-configurator.md)
+  - [Customizing The Sidebar](customizing-sidebar.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - Translations
@@ -38,7 +39,6 @@
 - First Steps
   - [Product Images](product-images.md)
 - Features
-  - [Layout](layout-customization.md)
   - [Product Hero](product-hero.md)
   - [Store Notice](store-notice.md)
   - [Product Catalog](product-catalog.md)
