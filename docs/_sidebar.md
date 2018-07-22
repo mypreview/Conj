@@ -11,6 +11,7 @@
   - [Customizing The Logo](customizing-logo.md)
   - [Writing A Post](writing-post.md)
   - [Creating A Page](creating-page.md)
+  - [Createing A Fluid-Width Page)(creating-fluid-width-page.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
   - [Creating Social Menu](creating-social-menu.md)
@@ -43,7 +44,6 @@
   - [Product Details](product-details.md)
   - [Checkout](checkout.md)
   - [Reorder Components](reorder-components.md)
-  - [Fluid Template](fluid-template.md)
   - [Copyright](copyright.md)
 - About The Theme
   - [License](conj-wordpress-theme-license.md)
