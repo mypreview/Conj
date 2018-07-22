@@ -21,3 +21,19 @@ You need to define a menu before adding any social media icons to it.
 11. In the section titled **Theme locations**, look for a menu location with a name **Social Menu**.
 12. Check the box next to that location to select it.
 13. Click **Save Menu** once you've made your selection.
+
+## Which Icons Are Supported?
+
+In the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) linking to any of the following sites in your social links menu will automatically display its icon in your menu:
+
+* Gitlab
+* Github
+* Facebook
+* Instagram
+* CodePen
+* Google Maps
+* Slack
+* Twitter
+* Pocket
+* E-Mail address<br/>
+*Example: mailto:info@xyz.com*
