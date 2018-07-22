@@ -78,7 +78,7 @@ This control allows you to specify the horizontal alignment of the primary menu 
 
 This option lets you to make the entire site header stay at the browser window while you are scrolling down.
 
-![Sticky Header](img/sticky-header.png)
+![Sticky Header](img/sticky-header.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
