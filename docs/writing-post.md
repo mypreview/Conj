@@ -6,7 +6,7 @@ Follow the steps below to publish your first blog post:
 
 ![Writing A Post](img/writing-post.png)
 
-1. Login to the your WordPress Dashboard.
+1. Login to your WordPress Dashboard.
 2. Click the **Posts** tab.
 3. Click the **Add New** sub-tab.
 4. Start filling in the blanks: enter your **post title** in the upper field, and enter your **post body content** in the main post editing box below it.
