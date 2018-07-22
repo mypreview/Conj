@@ -8,7 +8,7 @@ You need to define a menu before adding any items to it.
 
 ![Defining a Menu](img/defining-menu.png)
 
-1. Login to the your WordPress Dashboard.
+1. Login to your WordPress Dashboard.
 2. Navigate to **Appearance** » **Menus**.
 3. Select **Create a new menu** at the top of the page.
 4. Enter a name for your new menu in the **Menu Name** box.
