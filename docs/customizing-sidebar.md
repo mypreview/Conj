@@ -38,5 +38,5 @@ This option lets you to stick the sidebar area to the top of the browser window 
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Layout** » **Sidebar** section.
 4. Locate the **Sticky sidebar** control and toggle to enable or disable it.
-5. Locate the **Offset top** to specify the initial sticking top offset by number of pixels.
+5. Locate the **Offset top** control to specify the initial sticking top offset by number of pixels.
 6. Click the **Publish** button at the top right of the Customizer to save the changes.
