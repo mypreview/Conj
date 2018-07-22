@@ -6,7 +6,7 @@ This section gives you creative control of style and layout alignment for the ma
 
 ## Sidebar Layout
 
-The sidebar is usually placed on the right or left-hand side of the web page, however, using the setting below you would be able to hide the sidebar area from the view optionally.
+With updating the default value of the following control, you would be able to adjust the position of the sidebar from left to right or vice-versa. You can also remove the entire sidebar area from the view.
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
