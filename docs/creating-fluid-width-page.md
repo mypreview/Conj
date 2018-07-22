@@ -23,6 +23,8 @@ Containers are the most basic layout element in the [Conj - eCommerce WordPress 
 
 ## Edit Existing Pages
 
+![Update Page Template In Existing Pages](img/update-to-fluid-template.png)
+
 1. Login to your WordPress Dashboard.
 2. Click the **Pages** tab.
 3. Click the **All Pages** sub-tab.
