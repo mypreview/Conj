@@ -1,4 +1,4 @@
-# Fluid post, page and product template
+# Creating A Fluid-Width Page
 
 Conj theme requires a containing element to wrap site contents and house the entire grid system. You may choose one of two containers to use in your website pages.
 
