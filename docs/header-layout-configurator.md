@@ -26,6 +26,8 @@ You can easily use your mouse to quickly rearrange header components and move th
 
 With your mouse, hover over the corner/borders, then click and drag to resize the component.
 
+![Resizing a Header Components](img/resizing-header-components.jpg)
+
 ## Removing a Component
 
 Click on the **X** icon in the right-hand corner of the component to remove it from the view.
