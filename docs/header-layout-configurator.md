@@ -47,3 +47,29 @@ This control allows you to specify the horizontal alignment of the logo in the h
 ## Social Menu Alignment
 
 This control allows you to specify the horizontal alignment of the social menu items in the header component.
+
+### Accepted Option
+
+* Left
+* Center
+* Right
+
+## Secondary Menu Alignment
+
+This control allows you to specify the horizontal alignment of the secondary menu items in the header component.
+
+### Accepted Option
+
+* Left
+* Center
+* Right
+
+## Primary Menu Alignment
+
+This control allows you to specify the horizontal alignment of the primary menu items in the header component.
+
+### Accepted Option
+
+* Left
+* Center
+* Right
