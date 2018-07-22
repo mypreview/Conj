@@ -16,6 +16,8 @@ To arrange the **Widgets** within the sidebar or widget area, click and **drag**
 
 To customize the widget features, click the down **arrow** in the upper right corner to expand the widget’s interface. Then click the **Save** button to save the widget’s customization.
 
+![Configuring Widgets](img/configuring-widgets.jpg)
+
 ## Removing Widgets
 
 To delete or remove the widget from the view, click **Delete**.
