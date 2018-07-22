@@ -1,21 +1,23 @@
 # Creating Social Network Menu
 
-The **Social Menu** is populated in the site top bar area. Any social network icons added to the menu will automatically populate in the site header.
+Social media icons can be displayed on your site’s top bar area. These tiny social media buttons link to services like Twitter and Facebook, allowing visitors to access your social profiles quickly.
 
-To add the icons, create a custom link to the social media location and theme will do the rest.
+?> The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) offers a special custom menu *(labeled Social Menu)* for adding your social media icons.
 
-![Adding social network URLs to the menu](img/social-menu.jpg)
+You need to define a menu before adding any social media icons to it.
 
-The following social media icons **are supported**:
+![Creating Social Network Menu](img/social-network-menu.png)
 
-* Gitlab
-* Github
-* Facebook
-* Instagram
-* CodePen
-* Google Maps
-* Slack
-* Twitter
-* Pocket
-* E-Mail address<br/>
-*Example: mailto:info@xyz.com*
+1. Login to the your WordPress Dashboard.
+2. Navigate to **Appearance** » **Menus**.
+3. Select **Create a new menu** at the top of the page.
+4. Enter a name for your social menu in the **Menu Name** box.
+5. Click the **Create Menu** button.
+6. Select the **Custom Links** menu item type.
+7. Add the address for one of your social media profiles in the **URL** field.<br/>*For example, if the link to your Facebook profile is `https://www.facebook.com/mypreview`, you would copy that into the URL field.*
+8. Optionally, enter a name for the social media profile in the **Link Text** field.
+9. Repeat the above steps until all the social media profiles you wish to use have been added to the menu.
+10. Scroll to the bottom of the menu editor window.
+11. In the section titled **Theme locations**, look for a menu location with a name **Social Menu**.
+12. Check the box next to that location to select it.
+13. Click **Save Menu** once you've made your selection.
