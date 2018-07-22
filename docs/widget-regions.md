@@ -1,6 +1,6 @@
 # Widget Regions 
 
-WordPress Widgets add content and features to your sidebars. Examples are the default widgets that come with WordPress; for **Categories**, **Tag cloud**, **Search**, etc.
+A WordPress Widget is a small block that performs a specific function. Widgets are created to provide a simple and easy-to-use way of giving design and structure control of the WordPress theme to the user.
 
 ## Displaying Widgets
 
