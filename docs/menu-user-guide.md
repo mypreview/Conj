@@ -89,7 +89,7 @@ While creating or editing your menu, you can assign it’s location at the botto
 
 1. Scroll to the bottom of the menu editor window.
 2. In the section titled **Theme locations**, click the check box for the location where you want your menu to appear.
-3. Click **Save menu** once you've made your selection.
+3. Click **Save Menu** once you've made your selection.
 
 ![Assigning Your Menu To a Location](img/assigning-your-menu-to-location.png)
 
