@@ -12,10 +12,11 @@ Follow the steps below to create a homepage template:
 
 ![Create a Homepage Template](img/create-homepage-template.png)
 
-1. Create a new page, by visiting **Pages » Add New**.
-2. Set the **page title**.
-3. From the template drop-down in the **Page Attributes** meta box select **Homepage template**.
-4. **Publish** the page.
+1. Login to the your WordPress Dashboard.
+2. Create a new page, by visiting **Pages » Add New**.
+3. Set the **page title**.
+4. From the template drop-down in the **Page Attributes** meta box select **Homepage template**.
+5. **Publish** the page.
 
 ## Set Up Homepage Template
 
@@ -23,10 +24,11 @@ Follow the steps below to set up the created homepage template:
 
 ![Setup a Homepage Template](img/setup-homepage-template.png)
 
-1. Navigate to **Settings » Reading**.
-2. Locate the **Front page displays** section.
-3. Set the newly created static page as a **Front page**.
-4. **Save** the settings.
+1. Login to the your WordPress Dashboard.
+2. Navigate to **Settings » Reading**.
+3. Locate the **Front page displays** section.
+4. Set the newly created static page as a **Front page**.
+5. **Save** the settings.
 
 ## Create And Set Up a Blog Page
 
