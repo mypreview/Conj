@@ -33,3 +33,17 @@ With your mouse, hover over the corner/borders, then click and drag to resize th
 Click on the **X** icon in the right-hand corner of the component to remove it from the view.
 
 ![Removing a Header Components](img/removing-header-components.jpg)
+
+## Logo Alignment
+
+This control allows you to specify the horizontal alignment of the logo in the header component.
+
+### Accepted Option
+
+* Left
+* Center
+* Right
+
+## Social Menu Alignment
+
+This control allows you to specify the horizontal alignment of the social menu items in the header component.
