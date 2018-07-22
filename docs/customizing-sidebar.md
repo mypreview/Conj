@@ -1,5 +1,7 @@
 # Customizing The Sidebar
 
+![Customizing The Sidebar](img/customizing-the-sidebar.png)
+
 ## Sidebar Layout
 
 The sidebar is usually placed on the right or left-hand side of the web page, however, using the setting below you would be able to hide the sidebar area from the view optionally.
