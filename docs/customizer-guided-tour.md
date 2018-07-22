@@ -4,4 +4,4 @@ You can use the Customizer to preview and modify many of your site’s appearanc
 
 ![Customizer Guided Tour](img/customizer-guided-tour.png)
 
-Select **Guide Me** to get started or **End the Tour**. If you end *(Skip)* it, the tour will be unavailable later.
+?> Select **Guide Me** to get started or **End the Tour**. If you end *(Skip)* it, the tour will be unavailable later.
