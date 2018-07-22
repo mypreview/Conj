@@ -29,7 +29,7 @@ Containers are the most basic layout element in the [Conj - eCommerce WordPress 
 2. Click the **Pages** tab.
 3. Click the **All Pages** sub-tab.
 4. Find the page you wish to update.
-5. Hover in the area under the page title and click **Quick Edit**.<br/>***Quick Edit** is just an in-line edit that allows you to change a few items of the page.*
+5. Hover in the area under the page title and click **Quick Edit**.<br/>*The **Quick Edit** tab is just an in-line edit that allows you to change a few items of the page.*
 6. Locate the **template** drop-down menu on the right-hand side.
 7. Select **Fluid** template.
 8. Click **Update** to save the changes.
