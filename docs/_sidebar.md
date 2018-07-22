@@ -18,6 +18,7 @@
   - [Creating Mega Menus](creating-mega-menus.md)
   - [Creating Social Menu](creating-social-menu.md)
   - [Adding and Managing Products](managing-products.md)
+  - [Header Layout Configurator](header-layout-configurator.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - Translations
