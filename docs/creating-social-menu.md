@@ -14,7 +14,7 @@ You need to define a menu before adding any social media icons to it.
 4. Enter a name for your social menu in the **Menu Name** box.
 5. Click the **Create Menu** button.
 6. Select the **Custom Links** menu item type.
-7. Add the address for one of your social media profiles in the **URL** field.<br/>*For example, if the link to your Facebook profile is `https://www.facebook.com/mypreview`, you would copy that into the URL field.*
+7. Add the address for one of your social media profiles in the **URL** field.<br/>*For example, if the link to your Facebook profile is `https://www.facebook.com/mypreview`, you would copy that into the **URL** field.*
 8. Optionally, enter a name for the social media profile in the **Link Text** field.
 9. Repeat the above steps until all the social media profiles you wish to use have been added to the menu.
 10. Scroll to the bottom of the menu editor window.
