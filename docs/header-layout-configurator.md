@@ -6,6 +6,8 @@ This feature enables you to easily add or remove header components such as the l
 
 Follow the steps below to toggle and rearrange components on your site’s header:
 
+![Adjusting Header Layout](img/adjusting-header-layout.png)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Layout** » **Header** section.
