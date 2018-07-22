@@ -12,6 +12,8 @@ WordPress Widgets add content and features to your sidebars. Examples are the de
 
 To arrange the **Widgets** within the sidebar or widget area, click and **drag** it into place.
 
+![Arranging Widgets](img/arranging-widgets.jpg)
+
 ## Configuring Widgets
 
 To customize the widget features, click the down **arrow** in the upper right corner to expand the widget’s interface. Then click the **Save** button to save the widget’s customization.
