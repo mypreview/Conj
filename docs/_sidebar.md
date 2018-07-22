@@ -13,6 +13,7 @@
   - [Creating A Page](creating-page.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
+  - [Creating Social Menu](creating-social-menu.md)
   - [Adding and Managing Products](managing-products.md)
   - [Widget Regions](widget-regions.md)
 - Features
@@ -35,7 +36,6 @@
   - [Product Images](product-images.md)
 - Features
   - [Layout](layout-customization.md)
-  - [Social Menu](social-menu.md)
   - [Product Hero](product-hero.md)
   - [Store Notice](store-notice.md)
   - [Product Catalog](product-catalog.md)
