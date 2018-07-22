@@ -1,5 +1,7 @@
 # Customizing The Sidebar
 
+This section gives you creative control of style and layout alignment for the main sidebar area. Any changes will be shown instantly using Customizer live preview.
+
 ![Customizing The Sidebar](img/customizing-the-sidebar.png)
 
 ## Sidebar Layout
