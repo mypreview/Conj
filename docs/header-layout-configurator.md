@@ -11,7 +11,8 @@ Follow the steps below to toggle and rearrange components on your site’s heade
 3. Navigate to **Layout** » **Header** section.
 4. Click the **+ Customize** button.<br/>*A new window opens to display five components: Social Navigation, Secondary Navigation, Logo, Primary Navigation, and Cart.*
 5. **Add** components you want to use and adjust them by selecting the **+ icon** next to each.
-6. Click the **Publish** button at the top right of the Customizer to display the updated components with customized order on your site header.
+6. Click the **x Customize** button to close the customizer window.
+7. Click the **Publish** button at the top right of the Customizer to display the updated components with customized order on your site header.
 
 ## Changing The Order of Components
 
