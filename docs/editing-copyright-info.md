@@ -12,3 +12,5 @@ Copyright section provides a few options to customize the copyright content as w
 6. Specify the **horizontal alignment** of the copyright content in its parent block element.
 7. Optionally, toggle the **WordPress credit** link in the footer.
 8. Optionally, toggle the **author credit** link in the footer.
+
+?> We don’t require you to have a backlink to our product page on [Themeforest](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) although we do appreciate it if you do.
