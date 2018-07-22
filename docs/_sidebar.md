@@ -20,6 +20,7 @@
   - [Adding and Managing Products](managing-products.md)
   - [Header Layout Configurator](header-layout-configurator.md)
   - [Customizing The Sidebar](customizing-sidebar.md)
+  - [Editing Copyright Info](editing-copyright-info.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - Translations
@@ -46,7 +47,6 @@
   - [Product Details](product-details.md)
   - [Checkout](checkout.md)
   - [Reorder Components](reorder-components.md)
-  - [Copyright](copyright.md)
 - About The Theme
   - [License](conj-wordpress-theme-license.md)
   - [Credits](conj-wordpress-theme-credits.md)
