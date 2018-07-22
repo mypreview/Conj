@@ -20,6 +20,8 @@ Follow the steps below to toggle and rearrange components on your site’s heade
 
 You can easily use your mouse to quickly rearrange header components and move them to a different column or row.
 
+![Changing The Order of Header Components](img/changing-the-order-of-header-components.jpg)
+
 ## Resizing a Component
 
 With your mouse, hover over the corner/borders, then click and drag to resize the component.
