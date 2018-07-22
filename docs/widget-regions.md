@@ -10,7 +10,7 @@ Follow the steps below to display any widget on the front-end of your website:
 
 1. Log into your WordPress website and navigate to **Appearance** » **Widgets**.
 2. Choose a **Widget** and either drag it to the sidebar where you wish it to appear, or click the widget, *(select a destination sidebar)* and click the **Add Widget** button.
-3. Preview the site. You should now see the added widgets are visible.
+3. **Preview** the site. You should now see the added widgets are visible.
 
 ## Arranging Widgets
 
