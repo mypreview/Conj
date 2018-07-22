@@ -1,4 +1,4 @@
-# Create a social menu
+# Creating Social Network Menu
 
 The **Social Menu** is populated in the site top bar area. Any social network icons added to the menu will automatically populate in the site header.
 
