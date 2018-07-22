@@ -16,6 +16,8 @@ Follow the steps below to toggle and rearrange components on your site’s heade
 6. Click the **x Customize** button to close the customizer window.
 7. Click the **Publish** button at the top right of the Customizer to display the updated components with customized order on your site header.
 
+?> The inline content of header components can be aligned horizontally in its parent block element.
+
 ## Changing The Order of Components
 
 You can easily use your mouse to quickly rearrange header components and move them to a different column or row.
