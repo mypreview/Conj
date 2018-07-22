@@ -33,7 +33,7 @@ Follow the steps below to publish your first WooCommerce product:
 
 ![Adding a Simple Product](img/adding-simple-product.png)
 
-1. Login to the your WordPress Dashboard.
+1. Login to your WordPress Dashboard.
 2. Click the **Products** tab.
 3. Click the **Add New** sub-tab.
 4. Enter a product **Title** and **Description**.
@@ -152,7 +152,7 @@ Follow the steps below to delete a product:
 
 ![Deleting a Product](img/deleting-product.jpg)
 
-1. Login to the your WordPress Dashboard.
+1. Login to your WordPress Dashboard.
 2. Click the **Products** tab.
 3. Click the **All Products** sub-tab.
 4. Find the product you wish to delete.
@@ -164,7 +164,7 @@ Follow the steps below to mark a product as featured:
 
 ![Mark a Product As Featured](img/mark-product-as-featured.jpg)
 
-1. Login to the your WordPress Dashboard.
+1. Login to your WordPress Dashboard.
 2. Click the **Products** tab.
 3. Click the **All Products** sub-tab.
 4. Select the Star in the featured column.<br/>*Alternatively, select **Quick Edit** and then the **Featured** option.*
