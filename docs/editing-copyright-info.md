@@ -2,7 +2,7 @@
 
 Copyright section provides a few options to customize the copyright content as well as disable the WordPress and/or theme credit links.
 
-![Editing Copyright Info](img/editing-copyright-info.png)
+![Editing Copyright Info](img/editing-copyright-info.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
