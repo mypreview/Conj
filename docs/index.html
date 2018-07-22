@@ -27,12 +27,14 @@
     nav.app-nav li ul {
       min-width: 100px;
     }
-    #which-icons-are-supported + p + ul,
-    #power-features + ul {
-      columns: 2;
-    }
     p>img[src*="gif"] {
       width: 100%; 
+    }
+    @media (min-width: 680px) {
+      #which-icons-are-supported + p + ul,
+      #power-features + ul {
+        columns: 2;
+      } 
     }
   </style>
 </head>
