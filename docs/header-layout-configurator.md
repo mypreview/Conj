@@ -38,7 +38,7 @@ Click on the **X** icon in the right-hand corner of the component to remove it f
 
 This control allows you to specify the horizontal alignment of the logo in the header component.
 
-### Accepted Option
+### Possible Choices
 
 * Left
 * Center
@@ -48,7 +48,7 @@ This control allows you to specify the horizontal alignment of the logo in the h
 
 This control allows you to specify the horizontal alignment of the social menu items in the header component.
 
-### Accepted Option
+### Possible Choices
 
 * Left
 * Center
@@ -58,7 +58,7 @@ This control allows you to specify the horizontal alignment of the social menu i
 
 This control allows you to specify the horizontal alignment of the secondary menu items in the header component.
 
-### Accepted Option
+### Possible Choices
 
 * Left
 * Center
@@ -68,7 +68,7 @@ This control allows you to specify the horizontal alignment of the secondary men
 
 This control allows you to specify the horizontal alignment of the primary menu items in the header component.
 
-### Accepted Option
+### Possible Choices
 
 * Left
 * Center
