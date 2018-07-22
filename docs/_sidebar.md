@@ -18,6 +18,7 @@
   - [Adding and Managing Products](managing-products.md)
   - [Widget Regions](widget-regions.md)
 - Features
+  - [Customizer Guided Tour](customizer-guided-tour.md)
   - [Supported Post Formats](supported-post-formats.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
