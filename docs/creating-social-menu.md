@@ -6,6 +6,7 @@ Social media icons can be displayed on your site’s top bar area. These tiny so
 
 You need to define a menu before adding any social media icons to it.
 
+![Displaying Social Network Menu On Site’s Top Bar Area](img/social-network-icons-header.png)
 ![Creating Social Network Menu](img/social-media-icons-menu.png)
 
 1. Login to the your WordPress Dashboard.
