@@ -8,7 +8,9 @@
   - [Create And Set a Static Homepage](create-and-set-static-homepage.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
 - How To’s
+  - [Customizer Guided Tour](customizer-guided-tour.md)
   - [Customizing The Logo](customizing-logo.md)
+  - [Widget Regions](widget-regions.md)
   - [Writing A Post](writing-post.md)
   - [Creating A Page](creating-page.md)
   - [Createing A Fluid-Width Page](creating-fluid-width-page.md)
@@ -16,8 +18,6 @@
   - [Creating Mega Menus](creating-mega-menus.md)
   - [Creating Social Menu](creating-social-menu.md)
   - [Adding and Managing Products](managing-products.md)
-  - [Widget Regions](widget-regions.md)
-  - [Customizer Guided Tour](customizer-guided-tour.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - Translations
