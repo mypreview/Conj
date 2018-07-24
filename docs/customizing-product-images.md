@@ -34,6 +34,8 @@ When your product images are blurry two things could be happening:
 
 ## Retina Support
 
-HiDPI displays commonly known as retina displays contain twice as many pixels, or more, than older displays. For pixel perfect imagery on retina displays, set your thumbnails to be double the size rendered by the theme. As an example, [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) renders thumbnail images at `418 x 418 pixels` you want them to be `836 x 836 pixels`.
+HiDPI displays commonly known as retina displays contain twice as many pixels, or more, than older displays. For pixel perfect imagery on retina displays, set your thumbnails to be double the size rendered by the theme. 
+
+As an example, [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) renders thumbnail images at `418 x 418 pixels` you want them to be `836 x 836 pixels`.
 
 ?> Keep in mind that doing this can impact performance, as larger images take longer to load. This is a personal preference, and you should consult your analytics before deciding. 
