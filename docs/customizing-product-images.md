@@ -12,7 +12,7 @@ Using WooCommerce’s built-in settings, users can now control the width and hei
 
 ## Resize And Crop Thumbnail Images
 
-![Updating WooCommerce product image sizes to a custom aspect ratio](img/resize-crop-product-images.png)
+![Customizing Product Images](img/customizing-product-images.png)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
