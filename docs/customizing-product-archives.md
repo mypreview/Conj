@@ -176,3 +176,15 @@ Settings included in this section allow you to change the layout and customize e
 5. Toggle the visibility of the product prices from the view.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Star Ratings
+
+![Star Ratings](img/product-archives-star-ratings.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Archives** section.
+4. Locate the **Ratings** toggle field.
+5. Toggle the visibility of the product star ratings from the view.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
