@@ -80,3 +80,15 @@ Settings included in this section allow you to change the layout and customize e
 5. Toggle to display the discount as a percentage.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Sold Out Badge
+
+![Sold Out Badge](img/product-archives-sold-out-badge.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Archives** section.
+4. Locate the **Sold out badge** toggle field.
+5. Toggle the visibility of the **Sold Out** flash from items that are out of stock.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
