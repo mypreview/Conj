@@ -21,7 +21,9 @@ Using WooCommerce’s built-in settings, users can now control the width and hei
   - **Custom** — Images will be cropped to a custom aspect ratio.
   - **Uncropped** — Images will display using the aspect ratio in which they were uploaded which can result in all being different unless you used photos that are uniform in size and resolution.
   
-!> Since WooCommerce 3.3.X product thumbnails are now automatically regenerated on-the-fly. **No need for a particular plugin to regenerate thumbnails!** This feature uses a new event queue that processes in the background. 
+Since WooCommerce 3.3.X product thumbnails are now automatically regenerated on-the-fly. **No need for a particular plugin to regenerate thumbnails!** This feature uses a new event queue that processes in the background. 
+
+The on-the-fly resizing also plays an important part in ensuring that you have a great experience when visually editing your site through the customizer and since [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) adds support for it you can play around with different image sizes and cropping settings from within the customizer and see the results instantly.
 
 ## Fixing Blurry Product Images
 
