@@ -42,7 +42,6 @@
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - Features
   - [Product Hero](product-hero.md)
-  - [Product Catalog](product-catalog.md)
   - [Product Archives](product-archives.md)
   - [Product Details](product-details.md)
   - [Checkout](checkout.md)
