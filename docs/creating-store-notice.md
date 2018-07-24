@@ -14,3 +14,5 @@
 5. Specify the text to be displayed as a site-wide message at the very bottom of the site.
 6. **Check or uncheck** the checkbox to enable/disable the site-wide message.
 7. Click the **Publish** button to save the changes and display the site-wide message on your site publicly.
+
+?> Visitors can choose to **Dismiss** the notice after seeing it once.
