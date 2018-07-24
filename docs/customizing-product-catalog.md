@@ -44,11 +44,11 @@ This option allows you to control the order in which products are viewed on **Sh
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Product Catalog** section.
 4. Locate the **Default product sorting** and select one of the following options from the drop-down menu:
-   * Default sorting (custom ordering + name)
-   * Popularity (sales)
-   * Average rating
-   * Sort by most recent
-   * Sort by price (asc)
-   * Sort by price (desc)
+   * *Default sorting (custom ordering + name)*
+   * *Popularity (sales)*
+   * *Average rating*
+   * *Sort by most recent*
+   * *Sort by price (asc)*
+   * *Sort by price (desc)*
 5. Preview your selection instantly.
 6. Click the **Publish** button to save the changes.
