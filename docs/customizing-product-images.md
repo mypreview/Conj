@@ -6,7 +6,7 @@ Since [WooCommerce 3.3](https://woocommerce.wordpress.com/2017/12/09/wc-3-3-will
 
 * **Catalog images** are medium-sized images that appear on the **Shop** page, **Category** pages, and for **Related products**, **Up-sells** and **Cross-sells**.
 * **Product thumbnails** are the smallest images used in the **Cart**, **Widgets** and (optional) **Gallery images** underneath the **Single Product Image** on individual product details pages.
-* **Single product image** is the largest image and refers to the main/featured image.<br/>*Product Images settings in WooCommerce Customizer do not apply to these.*
+* **Single product image** is the largest image and refers to the main/featured image.
 
 !> Note that product image settings in WooCommerce Customizer do not apply to single product image dimensions.
 
