@@ -20,6 +20,7 @@
   - [Adding and Managing Products](managing-products.md)
   - [Header Layout Configurator](header-layout-configurator.md)
   - [Customizing The Sidebar](customizing-sidebar.md)
+  - [Creating Site-Wide Notice](creating-store-notice.md)
   - [Editing Copyright Info](editing-copyright-info.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
@@ -41,7 +42,6 @@
   - [Product Images](product-images.md)
 - Features
   - [Product Hero](product-hero.md)
-  - [Store Notice](store-notice.md)
   - [Product Catalog](product-catalog.md)
   - [Product Archives](product-archives.md)
   - [Product Details](product-details.md)
