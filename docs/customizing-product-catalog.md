@@ -61,7 +61,7 @@ The following option allows you to choose the number of items that appear in a s
 
 While editing this field consider the following options to have a clean look on your shop and category pages:
 
-* Size of a product image.
+* Size of product image.
 * Space on a computer/laptop, tablet or mobile device.
 * Optimal experience for a customer viewing and buying your products.
 
@@ -72,5 +72,26 @@ While editing this field consider the following options to have a clean look on 
 3. Navigate to **WooCommerce** » **Product Catalog** section.
 4. Locate the **Products per row** number field.
 5. Use **arrows** to **increase/decrease** the number of products.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
+
+## Products Per Page
+
+The following option allows you to choose the number of rows that appear on **Shop** and **Category** pages.
+
+While editing this field consider the following options to have a clean look on your shop and category pages:
+
+* Size of product images.
+* Number of products you sell.
+* Space on a computer/laptop, tablet or mobile device.
+* Optimal experience for a customer viewing and buying your products.
+
+![Products Per Page](img/product-catalog-products-per-page.png)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Catalog** section.
+4. Locate the **Products per row** number field.
+5. Use **arrows** to **increase/decrease** the number of rows.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
