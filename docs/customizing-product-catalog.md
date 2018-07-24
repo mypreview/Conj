@@ -40,6 +40,8 @@ The **WooCommerce Shop Page** can display *Products*, *Categories*, or both. How
 
 This option allows you to control the order in which products are viewed on **Shop** and **Category** pages. Visitors still have the option to sort a different way, if desired.
 
+![Default Product Sorting](img/product-catalog-default-product-sorting.png)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Product Catalog** section.
