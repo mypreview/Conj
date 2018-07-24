@@ -15,3 +15,9 @@ Settings included in this section allow you to change the layout and customize e
    * *No Sidebar*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Items Layout
+
+![Items Layout - Default](img/product-archives-items-layout-default.png)
+![Items Layout - List](img/product-archives-items-layout-list.png)
+![Items Layout - Classic](img/product-archives-items-layout-classic.png)
