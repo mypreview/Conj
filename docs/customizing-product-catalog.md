@@ -26,7 +26,7 @@ The **WooCommerce Shop Page** can display *Products*, *Categories*, or both. How
 
 The **WooCommerce Shop Page** can display *Products*, *Categories*, or both. However, it is recommended to select only one to have a clean look.
 
-![Category Display](img/product-catalog-shop-display.png)
+![Category Display](img/product-catalog-category-display.png)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
