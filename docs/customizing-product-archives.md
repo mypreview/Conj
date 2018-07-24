@@ -68,3 +68,15 @@ Settings included in this section allow you to change the layout and customize e
 5. Toggle the visibility of the **Sale** flash from items that are on sale.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Sale % Discount
+
+![Sale % Discount](img/product-archives-sale-percent-discount.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Archives** section.
+4. Locate the **Sale % discount** toggle field.
+5. Toggle to display the discount as a percentage.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
