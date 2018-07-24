@@ -21,6 +21,7 @@
   - [Header Layout Configurator](header-layout-configurator.md)
   - [Customizing The Sidebar](customizing-sidebar.md)
   - [Creating Site-Wide Notice](creating-store-notice.md)
+  - [Customizing Product Catalog](customizing-product-catalog.md)
   - [Editing Copyright Info](editing-copyright-info.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
