@@ -23,6 +23,7 @@
   - [Creating Site-Wide Notice](creating-store-notice.md)
   - [Customizing Product Catalog](customizing-product-catalog.md)
   - [Customizing Product Images](customizing-product-images.md)
+  - [Customizing Product Archives](customizing-product-archives.md)
   - [Editing Copyright Info](editing-copyright-info.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
