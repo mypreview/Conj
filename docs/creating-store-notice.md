@@ -5,7 +5,7 @@
 * **Informational** – A note that notifies customers of shipping delays due to weather conditions or an away notice if you are on vacation.
 * **Promotional** – A note advertising an event, a holiday special, a bundle, a sale on all/some items or free shipping.
 
-![Creating A Site-Wide Notice](img/store-notice.png)
+![Creating A Site-Wide Notice](img/creating-site-wide-notice.png)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
