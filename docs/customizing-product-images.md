@@ -1,6 +1,6 @@
 # Customizing Product Images
 
-Since [WooCommerce 3.3](https://woocommerce.wordpress.com/2017/12/09/wc-3-3-will-look-great-on-all-the-themes), users can now control the width and height of their main images, as well as the cropping with visual cues as to what the photos might look like on the frontend.
+Using WooCommerce’s built-in settings, users can now control the width and height of their main images, as well as the cropping with visual cues as to what the photos might look like on the frontend.
 
 ## Image Types
 
