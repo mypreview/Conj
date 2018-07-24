@@ -128,3 +128,15 @@ Settings included in this section allow you to change the layout and customize e
 5. Toggle the visibility of the **Category** flash from items that submitted as a parent or child category.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Add to Cart
+
+![Add to Cart](img/product-archives-add-to-cart.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Archives** section.
+4. Locate the **Add to cart** toggle field.
+5. Toggle the visibility of the add to cart buttons.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
