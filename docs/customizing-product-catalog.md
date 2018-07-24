@@ -12,7 +12,7 @@ The **Product Catalog** options allows you to customize:
 
 The **WooCommerce Shop Page** can display *Products*, *Categories*, or both. However, it is recommended to select only one to have a clean look.
 
-![Shop Page Display](img/shop-page-display.png)
+![Shop Page Display](img/product-catalog-shop-display.png)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
