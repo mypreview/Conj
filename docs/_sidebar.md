@@ -22,6 +22,7 @@
   - [Customizing The Sidebar](customizing-sidebar.md)
   - [Creating Site-Wide Notice](creating-store-notice.md)
   - [Customizing Product Catalog](customizing-product-catalog.md)
+  - [Customizing Product Images](customizing-product-images.md)
   - [Editing Copyright Info](editing-copyright-info.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
@@ -39,8 +40,6 @@
   - [Update Server PHP Version](update-server-php-version.md)
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
-- First Steps
-  - [Product Images](product-images.md)
 - Features
   - [Product Hero](product-hero.md)
   - [Product Catalog](product-catalog.md)
