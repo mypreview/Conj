@@ -19,9 +19,9 @@ Since [WooCommerce 3.3](https://woocommerce.wordpress.com/2017/12/09/wc-3-3-will
 3. Navigate to **WooCommerce** » **Product Images** section.
   - **1:1** — Images will be cropped into a square.
   - **Custom** — Images will be cropped to a custom aspect ratio.
-  - **Uncropped** — Images will display using the aspect ratio in which they were uploaded.
+  - **Uncropped** — Images will display using the aspect ratio in which they were uploaded which can result in all being different unless you used photos that are uniform in size and resolution.
   
-!> If you are using **WooCommerce 3.3.X** or above 	__regenerating product thumbnails by__ installing and configuring any 3rd party plugin is no longer needed and all changes in product catalog or product image sizes triggers WooCommerce to auto-size and auto-update thumbnail and product catalog images for you.
+!> Since WooCommerce 3.3.X product thumbnails are now automatically regenerated on-the-fly. **No need for a particular plugin to regenerate thumbnails!** This feature uses a new event queue that processes in the background. 
 
 ## Fixing Blurry Product Images
 
