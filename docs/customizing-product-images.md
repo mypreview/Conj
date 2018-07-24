@@ -5,7 +5,7 @@ Using WooCommerce’s built-in settings, users can now control the width and hei
 ## Image Types
 
 * **Catalog images** are medium-sized images that appear on the **Shop** page, **Category** pages, and for **Related products**, **Up-sells** and **Cross-sells**.
-* **Product thumbnails** are the smallest images used in the **Cart**, **Widgets** and (optional) **Gallery images** underneath the **Single Product Image** on individual product details pages.
+* **Product thumbnails** are the smallest images used in the **Cart**, **Widgets** and (optional) **Gallery images** underneath the single product image on individual product details pages.
 * **Single product image** is the largest image and refers to the main/featured image.
 
 ?> Product image settings in Customizer window do **NOT** apply to the single product image dimensions.
