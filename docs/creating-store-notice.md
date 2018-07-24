@@ -21,7 +21,7 @@
 
 Using the **Schedule** option for **Store Notice** can be helpful when running a promotion for a limited time or ending a sale/discount at midnight on a specific date.
 
-In the following example, we want to discontinue the *Free Shipping* offer when it expires end of day on **August 28**.
+In the following example, we want to discontinue the site-wide message when it expires end of day on **August 28**.
 
 ![Schedule a Store Notice](img/schedule-store-notice.png)
 
