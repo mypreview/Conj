@@ -8,7 +8,7 @@ Since [WooCommerce 3.3](https://woocommerce.wordpress.com/2017/12/09/wc-3-3-will
 * **Product thumbnails** are the smallest images used in the **Cart**, **Widgets** and (optional) **Gallery images** underneath the **Single Product Image** on individual product details pages.
 * **Single product image** is the largest image and refers to the main/featured image.
 
-!> Note that product image settings in WooCommerce Customizer do not apply to single product image dimensions.
+?> Product image settings in Customizer window do **NOT** apply to the single product image dimensions.
 
 ## Resize And Crop Thumbnail Images
 
