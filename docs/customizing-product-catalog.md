@@ -21,3 +21,17 @@ The **WooCommerce Shop Page** can display *Products*, *Categories*, or both. How
 5. Select **Products** or **Categories** from the drop-down.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Category Display
+
+The **WooCommerce Shop Page** can display *Products*, *Categories*, or both. However, it is recommended to select only one to have a clean look.
+
+![Category Display](img/product-catalog-shop-display.png)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Catalog** section.
+4. Locate the **Category display** drop-down menu.
+5. Select **Show products** or **Show subcategories** from the drop-down.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
