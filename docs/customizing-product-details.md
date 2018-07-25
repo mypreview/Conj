@@ -44,3 +44,15 @@ Settings included in this section allow you to change the layout and customize e
 5. Toggle the visibility of the product tabs *(description and reviews)* section.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Related Products
+
+![Related Products](img/product-details-related-products.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Details** section.
+4. Locate the **Related products** toggle field.
+5. Toggle the visibility of the related products section.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
