@@ -2,7 +2,7 @@
 
 **Reorder** is a lightweight option that allows you to toggle the visibility and reorder the homepage components of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview).
 
-![Reordering homepage components under Customizer panel](img/homepage-control.png)
+![Reordering Homepage Components](img/reordering-homepage-components.jpg)
 
 1. On the frontend, in the **Admin bar**, click **Customize**.
 2. On the backend, click **Appearance » Customize**.
