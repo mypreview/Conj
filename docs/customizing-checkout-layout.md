@@ -96,7 +96,7 @@ You can now set whether certain fields are required or optional depending on the
 
 ## Terms And Conditions Notice
 
-![Terms And Conditions Notice](img/checkout-terms-and-conditions-notice.jpg)
+![Terms And Conditions Notice](img/checkout-notice-terms-and-conditions.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
