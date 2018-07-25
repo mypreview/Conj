@@ -9,6 +9,6 @@
 3. Navigate to **Homepage Content » Reorder** section.
 4. **Drag and drop** items to reorder.
 5. **Check or uncheck** the checkbox of each component to turn the display on or off.
-6. Click the **Publish** button at the top right of the Customizer to display the updated components with customized order on your site.
+6. Click the **Publish** button to save the changes.
 
 ?> Any new components added after the initial configuration will need to be manually toggled via this section.
