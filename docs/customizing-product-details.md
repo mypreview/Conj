@@ -102,5 +102,6 @@ Settings included in this section allow you to change the layout and customize e
 3. Navigate to **WooCommerce** » **Product Details** section.
 4. Locate the **Product pagination** toggle field.
 5. Toggle the visibility of the next and previous links on single product pages.
+6. Optionally, enable the **Same category pagination** control to only display links to products in the same category as the one currently being viewed.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
