@@ -80,3 +80,15 @@ Settings included in this section allow you to change the layout and customize e
 5. Toggle the visibility of the product meta *(SKU, categories and tags)*.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Product Share
+
+![Product Share](img/product-details-product-share.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Details** section.
+4. Locate the **Product share** toggle field.
+5. Toggle the visibility of the product share buttons.<br/>*Facebook, Twitter, Pinterest or via Email.*
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
