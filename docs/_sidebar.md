@@ -20,6 +20,7 @@
   - [Adding and Managing Products](managing-products.md)
   - [Header Layout Configurator](header-layout-configurator.md)
   - [Customizing The Sidebar](customizing-sidebar.md)
+  - [Reordering Homepage Components](reordering-homepage-components.md)
   - [Creating Site-Wide Notice](creating-store-notice.md)
   - [Customizing Product Catalog](customizing-product-catalog.md)
   - [Customizing Product Images](customizing-product-images.md)
@@ -45,7 +46,6 @@
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - Features
   - [Product Hero](product-hero.md)
-  - [Reorder Components](reorder-components.md)
 - About The Theme
   - [License](conj-wordpress-theme-license.md)
   - [Credits](conj-wordpress-theme-credits.md)
