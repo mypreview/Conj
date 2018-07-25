@@ -105,3 +105,20 @@ You can now set whether certain fields are required or optional depending on the
 5. Add some text for the terms checkbox that customers **must accept**.<br/>*Using `[terms]` shortcode will link to this page.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Content Layout
+
+![Default Content Layout - Checkout](img/checkout-default-content-layout.png)
+![Stacked Content Layout - Checkout](img/checkout-stacked-content-layout.png)
+![Columns Content Layout - Checkout](img/checkout-columns-content-layout.png)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Checkout** section.
+4. Locate the **Content layout** swtich field.
+5. Here you can select or change the layout for checkout. Options are:
+   * [Default](https://www.conj.ws/camping/checkout/?add-to-cart=677) — Customer input is on left, order is on right.
+   * [Stacked](https://www.conj.ws/gift-cards/checkout/?add-to-cart=379) – Customer input is above and order is below.
+   * [Columns](https://www.conj.ws/electronic-store/checkout/?add-to-cart=111) – Customer input and order, each divided into two columns.
+6. Preview your selection instantly.
+7. Click the Publish button to save the changes.
