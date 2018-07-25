@@ -11,7 +11,24 @@ Settings included in this section allow you to change the layout and customize e
 3. Navigate to **WooCommerce** » **Product Details** section.
 4. Locate the **Content layout** swtich field.
 5. Choose how to layout the single product page of your shop from the available options below:
-   * *Default*
-   * *No Sidebar*
+   * [Default](https://www.conj.ws/camping/product/the-county-knife/)
+   * [No Sidebar](https://www.conj.ws/electronic-store/product/google-home)
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
+
+## Gallery Layout
+
+![Gallery Layout - Default](img/product-details-gallery-default.jpg)
+![Gallery Layout - Stacked](img/product-details-gallery-stacked.jpg)
+![Gallery Layout - Hidden](img/product-details-gallery-hidden.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Details** section.
+4. Locate the **Gallery layout** swtich field.
+5. Choose how to layout the gallery of your single product pages from the available options below:
+   * [Default](https://www.conj.ws/electronic-store/product/beats-studio-3-wireless)
+   * [Stacked](https://www.conj.ws/camping/product/pulaski-axe)
+   * [Hidden](https://www.conj.ws/gift-cards/product/blackwells-egift-card)
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
