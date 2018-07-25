@@ -114,6 +114,6 @@ Settings included in this section allow you to change the layout and customize e
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Product Details** section.
 4. Locate the **Sticky add to cart** toggle field.
-5. Toggle the visibility of a content bar at the top of the browser window which includes the product name, price, rating, stock status and the add to cart button.<br/>*Can be used for shops that have lots of products with long descriptions, lots of reviews, galleries, etc.*
+5. Toggle the visibility of a content bar at the top of the browser window which includes the **product name**, **price**, **rating**, **stock status** and the **add to cart button**.<br/>*Can be used for shops that have lots of products with long descriptions, lots of reviews, galleries, etc.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
