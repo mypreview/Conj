@@ -45,7 +45,6 @@
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - Features
   - [Product Hero](product-hero.md)
-  - [Product Details](product-details.md)
   - [Reorder Components](reorder-components.md)
 - About The Theme
   - [License](conj-wordpress-theme-license.md)
