@@ -20,6 +20,8 @@ You can now set whether certain fields are required or optional depending on the
 
 ## Modify Address Line 2 Field
 
+![Modify Address Line 2 Field](img/checkout-modify-address-line2-field.jpg)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Checkout** section.
