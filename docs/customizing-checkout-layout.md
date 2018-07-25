@@ -136,3 +136,15 @@ You can now set whether certain fields are required or optional depending on the
 5. Enable this option to allow your customers to focus purely on completing the checkout form.<br/> *This feature removes most header elements, widgets, breadcrumbs and footer content from the view.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Two-Step Checkout
+
+![Two-Step Checkout](img/checkout-two-step.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Checkout** section.
+4. Locate the **Two-Step checkout** toggle.
+5. Enable this option to separate the input of customer **billing** and **payment** details into two pages.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
