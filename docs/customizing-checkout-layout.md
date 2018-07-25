@@ -66,7 +66,7 @@ You can now set whether certain fields are required or optional depending on the
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Checkout** section.
 4. To use a privacy policy page, [create a new page](creating-page) for it.
-5. Locate the **Privacy policy page** field and select the newly created page in the drop-down menu.
+5. Locate the **Privacy policy page** field and select the newly created page to act as your privacy policy.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
 
@@ -78,7 +78,7 @@ You can now set whether certain fields are required or optional depending on the
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Checkout** section.
 4. To use a terms and conditions page, [create a new page](creating-page) for it.
-5. Locate the **Terms and conditions page** field and select the newly created page in the drop-down menu.
+5. Locate the **Terms and conditions page** field and select the newly created page to act as your terms and conditions.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
 
@@ -90,6 +90,6 @@ You can now set whether certain fields are required or optional depending on the
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Checkout** section.
 4. Locate the **Privacy policy** textarea.
-5. Add some text about your store privacy policy to show during checkout.
+5. Add some text about your store privacy policy to show during checkout.<br/>*Using `[privacy_policy]` will link to this page.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
