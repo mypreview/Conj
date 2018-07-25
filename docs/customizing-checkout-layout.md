@@ -148,3 +148,15 @@ You can now set whether certain fields are required or optional depending on the
 5. Enable this option to separate the input of customer **billing** and **payment** details into two pages.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Sticky Order Review
+
+![Sticky Order Review](img/checkout-sticky-order-review.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Checkout** section.
+4. Locate the **Sticky order review** control and toggle to enable or disable it.<br/>*The order review section sticks to the top of the browser window as the user scrolls down the page which ensures that the **Place Order** button is always visible.*
+5. Locate the **Offset top** control to specify the initial sticking top offset by number of pixels.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
