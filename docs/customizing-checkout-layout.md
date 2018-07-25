@@ -124,3 +124,15 @@ You can now set whether certain fields are required or optional depending on the
 7. Click the Publish button to save the changes.
 
 ?> Combined with the [fluid width template](creating-fluid-width-page?id=containers) already in the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), this allows you to create **six** different checkout designs.
+
+## Distraction Free Checkout
+
+![Distraction Free Checkout](img/checkout-distraction-free.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Checkout** section.
+4. Locate the **Distraction free checkout** toggle.
+5. Enable this option to allow your customers to focus purely on completing the checkout form.<br/> *This feature removes most header elements, widgets, breadcrumbs and footer content from the view.*
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
