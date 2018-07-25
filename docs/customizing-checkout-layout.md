@@ -34,6 +34,8 @@ You can now set whether certain fields are required or optional depending on the
 
 ## Modify Phone Field
 
+![Modify Phone Field](img/checkout-modify-phone-field.jpg)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Checkout** section.
