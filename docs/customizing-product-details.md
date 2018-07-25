@@ -4,6 +4,8 @@ Settings included in this section allow you to change the layout and customize e
 
 ## Content Layout
 
+![Content Layout](img/product-details-content-layout.jpg)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Product Details** section.
