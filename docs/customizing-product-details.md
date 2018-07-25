@@ -103,5 +103,17 @@ Settings included in this section allow you to change the layout and customize e
 4. Locate the **Product pagination** toggle field.
 5. Toggle the visibility of the next and previous links on single product pages.
 6. Optionally, enable the **Same category pagination** control to only display links to products in the same category as the one currently being viewed.
+7. Preview your selection instantly.
+8. Click the **Publish** button to save the changes.
+
+## Sticky Add To Cart
+
+![Sticky Add To Cart](img/product-details-sticky-add-to-cart.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Product Details** section.
+4. Locate the **Sticky add to cart** toggle field.
+5. Toggle the visibility of a content bar at the top of the browser window which includes the product name, price, rating, stock status and the add to cart button.<br/>*Can be used for shops that have lots of products with long descriptions, lots of reviews, galleries, etc.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
