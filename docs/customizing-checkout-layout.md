@@ -81,3 +81,15 @@ You can now set whether certain fields are required or optional depending on the
 5. Locate the **Terms and conditions page** field and select the newly created page in the drop-down menu.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Privacy Policy Notice
+
+![Privacy Policy Notice](img/checkout-privacy-policy-notice.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Checkout** section.
+4. Locate the **Privacy policy** textarea.
+5. Add some text about your store privacy policy to show during checkout.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
