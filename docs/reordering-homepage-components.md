@@ -11,4 +11,8 @@
 5. **Check or uncheck** the checkbox of each component to turn the display on or off.
 6. Click the **Publish** button to save the changes.
 
-?> Any new components added after the initial configuration will need to be manually toggled via this section.
+## How Does Reorder Work?
+
+The **Reorder** control monitors the `conj_homepage` action that is executed on the homepage template and any function hooked into this action will be adjustable via this section.
+
+?> Any new components added after the initial configuration will need to be manually toggled in the **Homepage Content** » **Reorder** section.
