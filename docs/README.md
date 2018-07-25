@@ -83,7 +83,7 @@ This is item is only available to purchase from [Themeforest](https://themefores
 
 ## Something Missing?
 
-We would love to connect with you and hear your thoughts about anything we are doing. Leave a comment on the item page [here](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) and let us help you.
+We would love to connect with you and hear your thoughts about anything we are doing. Leave a comment on the item page [here](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639/comments) and let us help you.
 
 ## Statistics
 
