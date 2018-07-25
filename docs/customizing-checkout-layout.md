@@ -122,3 +122,5 @@ You can now set whether certain fields are required or optional depending on the
    * [Columns](https://www.conj.ws/electronic-store/checkout/?add-to-cart=111) – Customer input and order, each divided into two columns.
 6. Preview your selection instantly.
 7. Click the Publish button to save the changes.
+
+?> Combined with the [fluid width template](creating-fluid-width-page) already in the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), this allows you to create **six** different checkout designs.
