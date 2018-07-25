@@ -45,3 +45,15 @@ You can now set whether certain fields are required or optional depending on the
    * *Required*
 5. Preview your selection instantly.
 6. Click the **Publish** button to save the changes.
+
+## How To Append Asterisk To Required Fields?
+
+![How To Append Asterisk To Required Fields](img/checkout-append-asterisk-to-required-fields.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **WooCommerce** » **Checkout** section.
+4. Locate the **Highlight required fields with an asterisk** checkbox.
+5. **Check** the checkbox to append an **asterisk** to all required fields.
+5. Preview your selection instantly.
+6. Click the **Publish** button to save the changes.
