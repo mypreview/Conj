@@ -24,6 +24,7 @@
   - [Customizing Product Catalog](customizing-product-catalog.md)
   - [Customizing Product Images](customizing-product-images.md)
   - [Customizing Product Archives](customizing-product-archives.md)
+  - [Customizing Checkout Layout](customizing-checkout-layout.md)
   - [Editing Copyright Info](editing-copyright-info.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
