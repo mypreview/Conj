@@ -45,7 +45,6 @@
 - Features
   - [Product Hero](product-hero.md)
   - [Product Details](product-details.md)
-  - [Checkout](checkout.md)
   - [Reorder Components](reorder-components.md)
 - About The Theme
   - [License](conj-wordpress-theme-license.md)
