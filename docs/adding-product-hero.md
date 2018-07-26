@@ -15,12 +15,12 @@ This feature allows you to add a hero component to the homepage template of your
 7. Specify the text to be displayed in the hero component **content** area.
 <br/>*You can leave this field blank to display product excerpt instead.*<br/>
 8. Optionally, toggle the display of the product **featured image**.
-9. Optionally, toggle the display of the **product price**.
+9. Optionally, toggle the display of the product **price**.
 10. Optionally, toggle the display of the product **add to cart button**.
 11. Optionally, toggle the display of the product **details/description button**.
 12. Choose how to **layout** the content of your product hero.
 <br/>*You can place content/image adjacently then flip them so that the content is on the left and the image on the right, and vice versa.*<br/>
-13. Optionally, Upload a custom image to display in hero component.
+13. Optionally, Upload a **custom image** to display in hero component.
 <br/>*You can leave this control blank to display the product featured image instead.*<br/>
-14. Tweak the component spacing by entering different integer numbers.
+14. Tweak the **component spacing** by entering different integer numbers.
 <br/>*Margins are used to create space around elements, outside of any defined borders and paddings, on the other hand, are used to generate space around an element's content, inside of any defined borders.*
