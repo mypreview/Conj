@@ -4,7 +4,7 @@ This option lets you easily remove the page title from specific single pages.
 
 Follow the steps below to hide the title from the view:
 
-![Toggle Page Title](img/toggle-page-title.jpg)
+![Toggle Page Title](img/page-title-toggle.jpg)
 
 1. Login to the your WordPress Dashboard.
 2. Click the **Pages** tab.
