@@ -27,7 +27,7 @@ Specify whether the content section of the widgets to be open or close regardles
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Layout** » **Sidebar** section.
-4. Locate the **Widget content state** control to update the default state of the widgets to be **Open** or **Close**.
+4. Locate the **Widget content state** control to update the default state of the widgets to be [Open](https://www.conj.ws/electronic-store/shop/) or [Close](https://www.conj.ws/gift-cards/shop/).
 5. Click the **Publish** button at the top right of the Customizer to save the changes.
 
 ## Sticky Sidebar
