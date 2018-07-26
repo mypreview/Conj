@@ -14,6 +14,7 @@
   - [Writing A Post](writing-post.md)
   - [Creating A Page](creating-page.md)
   - [Createing A Fluid-Width Page](creating-fluid-width-page.md)
+  - [Toggle Page Title](toggle-page-title.md)
   - [Menu User Guide](menu-user-guide.md)
   - [Creating Mega Menus](creating-mega-menus.md)
   - [Creating Social Menu](creating-social-menu.md)
