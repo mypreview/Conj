@@ -18,18 +18,18 @@ Settings included in this section allow you to change the layout and customize e
 
 ## Items Layout
 
-![Items Layout - Default](img/product-archives-items-layout-default.png)
-![Items Layout - List](img/product-archives-items-layout-list.png)
-![Items Layout - Classic](img/product-archives-items-layout-classic.png)
+![Items Layout - Default](img/product-archives-items-layout-default.jpg)
+![Items Layout - List](img/product-archives-items-layout-list.jpg)
+![Items Layout - Classic](img/product-archives-items-layout-classic.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **WooCommerce** » **Product Archives** section.
 4. Locate the **Items layout** swtich field.
 5. Choose how to layout the product items of your shop from the available options below:
-   * *Default*
-   * *List*
-   * *Classic*
+   * [Default](http://staging-conj.kinsta.com/electronic-store/shop/)
+   * [List](http://staging-conj.kinsta.com/gift-cards/shop/)
+   * [Classic](http://staging-conj.kinsta.com/camping/shop/)
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
 
