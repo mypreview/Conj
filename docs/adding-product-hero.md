@@ -1,6 +1,6 @@
 # Adding A Product Hero
 
-This feature allows you to add a **hero component** to the [homepage template](create-and-set-static-homepage?id=create-homepage-template) of your site. With a clever combination of imagery you can easily create a powerful conversion tool for your chosen product.
+This feature allows you to add a [hero component](https://www.conj.ws/gift-cards/) to the [homepage template](create-and-set-static-homepage?id=create-homepage-template) of your site. With a clever combination of imagery you can easily create a powerful conversion tool for your chosen product.
 
 ![Adding A Product Hero](img/adding-product-hero.png)
 
