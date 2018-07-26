@@ -1,8 +1,8 @@
 # Toggle Page Title
 
-This option lets you easily remove the page title from specific single pages.
+This option let’s you easily remove the page title from specific single pages.
 
-Follow the steps below to hide the title from the view:
+Follow the steps below to hide any page title from the view:
 
 ![Toggle Page Title](img/page-title-toggle.jpg)
 
