@@ -10,5 +10,5 @@ Follow the steps below to hide the title from the view:
 2. Click the **Pages** tab.
 3. Click the **All Pages** sub-tab.
 4. **Edit** the page that you want to hide the title.
-5. On the edit page, locate the Title Toggle meta box in the top right-hand corner of the page.
+5. On the edit page, locate the **Title Toggle** meta box in the right-hand sidebar of the page.
 6. When you are ready, click **Update** button.
