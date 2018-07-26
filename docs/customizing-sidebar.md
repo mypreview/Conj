@@ -16,9 +16,9 @@ With updating the default value of the following control, you would be able to a
 
 ### Possible Choices
 
-* No Sidebar
-* Left
-* Right
+* [No Sidebar](https://www.conj.ws/camping/shop/)
+* [Left](https://www.conj.ws/electronic-store/shop/)
+* [Right](https://www.conj.ws/gift-cards/shop/)
 
 ## Widget Content State
 
