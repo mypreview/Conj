@@ -8,20 +8,25 @@ Follow the steps below to upload a header background image:
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
-3. Navigate to **Background Image** section.
-4. Click the **Select image** button to open the WordPress media library.
-5. To upload the background image file, click the **Upload Files** tab in the upper left corner of the **Select image** dialog box.
-6. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Select Files** to upload the background image file.
-7. In the **File Upload** dialog box, navigate to the location of the image you want to use, and then double-click the image to upload it.
-8. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
-9. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Select** button.
-10. Now that you have a **Background Image**, you will see the available options:
-    * **Background Repeat** – No Repeat, Tile, Tile Horizontally, or Tile Vertically.
-    * **Background Position** – Allow image to be positioned Left, Center, or Right.
-    * **Background Attachment** – Scroll background or display as Fixed.
-11. Click the **Publish** button to view the uploaded background image on your site.
+3. Navigate to **Header Image** section.
+4. Locate the **Current header** image upload field.
+5. Click the **Add new image** button to open the WordPress media library.
+6. To upload the header image file, click the **Upload Files** tab in the upper left corner of the **Choose Image** dialog box.
+7. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Select Files** to upload the header image file.
+8. In the **File Upload** dialog box, navigate to the location of the image you want to use, and then double-click the image to upload it.
+9. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
+10. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Select and Crop** button.
+11. The **Crop Image** dialog box appears.
+12. Use the sizing handles to select any portion of the uploaded image you wish to be displayed as the site logo area, and then click **Crop Image** button.<br/>*Suggested image dimensions: **1950 by 500 pixels**.*
+13. Click the **Publish** button to view the uploaded header image on your site.
 
-?> Try changing all of background image options to the various settings to preview how the affect the display of the background image, including different combinations of the three options. When setting the **Background Attachment** option, you will need to test the preview by scrolling the page in the preview panel.<br/>With some options, the image may seem to disappear entirely, but that is due to a limited use of the image that is hidden behind another element in the foreground.
+!> Only `.jpeg`, `.gif`, and `.png` files can be used. All cropped images will be converted to jpegs. Using an image of exactly the right size will produce the best results, and this is certainly recommended.
+
+## Add Random Header Images
+
+The **Current Header** image upload field will display only the currently active header image. However, you can upload a few more images to show a variety of random images in your site header area.
+
+Once you have uploaded a few images, they will appear under **Previously Uploaded** section. You can click on the **Randomize uploaded headers** button which allows WordPress to choose one of the uploaded images for your header area randomly.
 
 ## Additional Links
 
