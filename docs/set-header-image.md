@@ -1,6 +1,6 @@
 # Set A Header Image
 
-The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) has an option which allows users to upload their very own custom image header to obtain a much more personalized look and feel
+The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) has an option which allows users to upload their very own custom image header to obtain a much more personalized look and feel.
 
 Follow the steps below to upload a header background image:
 
