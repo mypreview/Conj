@@ -4,7 +4,7 @@ This feature enables you to select an image that is chosen as the representative
 
 Follow the steps below to upload a footer background image:
 
-![Set A Footer Image](img/upload-footer-image.jpg)
+![Set A Footer Image](img/set-footer-image.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
