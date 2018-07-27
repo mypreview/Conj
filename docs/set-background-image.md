@@ -4,7 +4,7 @@ This feature allows you to select an image of your own or from a website with fr
 
 Follow the steps below to upload a background image:
 
-![Set a Background Image](img/set-background-image.jpg)
+![Set A Background Image](img/set-background-image.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
