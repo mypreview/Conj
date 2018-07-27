@@ -41,3 +41,8 @@ Follow the steps below to upload a footer background image:
 14. Click the **Publish** button to view the uploaded footer image on your site.
 
 ?> Try changing all of background image options to the various settings to preview how the affect the display of the background image, including different combinations of the three options. When setting the **Background position** option, you will need to test the preview by scrolling the page in the preview panel.<br/>With some options, the image may seem to disappear entirely, but that is due to a limited use of the image that is hidden behind another element in the foreground.
+
+## Additional Links
+
+* [Image Use Policy](https://en.wikipedia.org/wiki/Wikipedia:Image_use_policy)
+* [Public Domain Images](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
