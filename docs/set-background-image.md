@@ -14,7 +14,7 @@ Follow the steps below to upload a background image:
 6. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Select Files** to upload the background image file.
 7. In the **File Upload** dialog box, navigate to the location of the image you want to use, and then double-click the image to upload it.
 8. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
-9. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Select** button.
+9. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Choose image** button.
 10. Now that you have a **Background Image**, you will see the available options:
     * **Background Repeat** – No Repeat, Tile, Tile Horizontally, or Tile Vertically.
     * **Background Position** – Allow image to be positioned Left, Center, or Right.
