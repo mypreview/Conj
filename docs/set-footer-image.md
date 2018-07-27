@@ -25,7 +25,19 @@ Follow the steps below to upload a footer background image:
       * *Tile horizontally – The background image is repeated only horizontally.*
       * *Tile vertically – The background image is repeated only vertically.*
     * **Background size** – Specify the size of the footer background image.
+      * *Default – The background image is displayed in its original size.*
+      * *Cover – Resize the background image to cover the entire container.*
+      * *Contain – Resize the background image to make sure the image is fully visible.*
     * **Background position** – Specify the starting position of the footer background image.
+      * *Left Top*
+      * *Left Center*
+      * *Left Bottom*
+      * *Right Top*
+      * *Right Center*
+      * *Right Bottom*
+      * *Center Top*
+      * *Center Center*
+      * *Center Bottom*
 14. Click the **Publish** button to view the uploaded footer image on your site.
 
 ?> Try changing all of background image options to the various settings to preview how the affect the display of the background image, including different combinations of the three options. When setting the **Background position** option, you will need to test the preview by scrolling the page in the preview panel.<br/>With some options, the image may seem to disappear entirely, but that is due to a limited use of the image that is hidden behind another element in the foreground.
