@@ -4,7 +4,7 @@ The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommer
 
 Follow the steps below to upload a header background image:
 
-![Set A Header Image](img/set-header-image.jpg)
+![Set A Header Image](img/upload-header-image.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
