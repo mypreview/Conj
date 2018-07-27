@@ -1,4 +1,4 @@
-# Set a Background Image
+# Set A Background Image
 
 Select an image of your own or from a website with free-to-use or public domain images that has a pattern that could be repeated to be used for a **Background Image**.
 
