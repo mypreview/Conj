@@ -21,12 +21,29 @@ This option let’s users choose between displaying the full content of each pos
 
 ## Author Bio
 
-Let’s users toggle the visibility of the author bio on single posts.
+This option allows you to toggle the visibility of the author bio on single posts.
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Content Options** section.
-4. Locate the **Author Bio** radio-button field.
+4. Locate the **Author Bio** checkbox field.
 5. Toggle the visibility of the **author bio** section on single posts.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
+
+## Post Details
+
+This option allows users show or hide the *post date*, *tags*, *categories*, or *author* on the blog pages.
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Content Options** section.
+4. Locate the **Post Details** fieldset.
+5. Toggle the visibility of the following options using the checkbox fields next to them:
+   * *Display date*
+   * *Display categories*
+   * *Display tags*
+   * *Display author*
+   * *Display comment link*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
