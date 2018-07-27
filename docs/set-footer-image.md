@@ -20,7 +20,10 @@ Follow the steps below to upload a footer background image:
 12. Use the sizing handles to select any portion of the uploaded image you wish to be displayed as the site logo area, and then click **Crop Image** button.<br/>*Suggested image dimensions: **1920 by 286 pixels**.*
 13. Now that you have a **Background Image**, you will see the available options:
     * **Background repeat** – Specify if/how the footer background image will be repeated.
-      * ssds
+      * *No repeat – The background-image is not repeated.*
+      * *Tile – The background image is repeated both vertically and horizontally.*
+      * *Tile horizontally – The background image is repeated only horizontally.*
+      * *Tile vertically – The background image is repeated only vertically.*
     * **Background size** – Specify the size of the footer background image.
     * **Background position** – Specify the starting position of the footer background image.
 14. Click the **Publish** button to view the uploaded footer image on your site.
