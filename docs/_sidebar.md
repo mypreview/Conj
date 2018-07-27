@@ -32,6 +32,8 @@
   - [Editing Copyright Info](editing-copyright-info.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
+- JetPack
+  - [Customizing Content Options](jetpack-customizing-content-options.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
   - [Poedit Sources Keywords List](poedit-sources-keywords-list.md)
