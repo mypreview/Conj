@@ -25,4 +25,5 @@ Follow the steps below to upload a background image:
 
 ## Additional Links
 
+* [Image Use Policy](https://en.wikipedia.org/wiki/Wikipedia:Image_use_policy)
 * [Public Domain Images](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
