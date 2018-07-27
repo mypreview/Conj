@@ -47,3 +47,18 @@ This option allows users show or hide the *post date*, *tags*, *categories*, or 
    * *Display comment link*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Featured Images
+
+This option allows users to toggle the visibility of the featured images on blog and archive pages, single posts, and pages.
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Content Options** section.
+4. Locate the **Featured Images** fieldset.
+5. Toggle the visibility of the following options using the checkbox fields next to them:
+   * *Display on blog and archives*
+   * *Display on single posts*
+   * *Display on pages*
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
