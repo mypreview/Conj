@@ -1,6 +1,6 @@
 # Set A Background Image
 
-Select an image of your own or from a website with free-to-use or public domain images that has a pattern that could be repeated to be used for a **Background Image**.
+This feature allows you to select an image of your own or from a website with free-to-use or [public domain images](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources) that has a pattern that could be repeated to be used for a **Background Image**.
 
 Follow the steps below to upload a background image:
 
@@ -22,3 +22,7 @@ Follow the steps below to upload a background image:
 11. Click the **Publish** button to view the uploaded background image on your site.
 
 ?> Try changing all of background image options to the various settings to preview how the affect the display of the background image, including different combinations of the three options. When setting the **Background Attachment** option, you will need to test the preview by scrolling the page in the preview panel.<br/>With some options, the image may seem to disappear entirely, but that is due to a limited use of the image that is hidden behind another element in the foreground.
+
+## Additional Links
+
+* [Public Domain Images](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
