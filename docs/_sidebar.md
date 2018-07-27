@@ -10,6 +10,7 @@
 - How To’s
   - [Customizer Guided Tour](customizer-guided-tour.md)
   - [Customizing The Logo](customizing-logo.md)
+  - [Set A Header Image](set-header-image.md)
   - [Set A Background Image](set-background-image.md)
   - [Widget Regions](widget-regions.md)
   - [Writing A Post](writing-post.md)
