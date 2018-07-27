@@ -15,6 +15,18 @@ This option let’s users choose between displaying the full content of each pos
    * *Post excerpt*
    * *Default*
 6. Preview your selection instantly.
-7. Click the Publish button to save the changes.
+7. Click the **Publish** button to save the changes.
 
 ?> A **default** option is exclusivly available for the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) since the theme mixes excerpts and full post content based on chosen post format.
+
+## Author Bio
+
+Let’s users toggle the visibility of the author bio on single posts.
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Content Options** section.
+4. Locate the **Blog Display** radio-button field.
+5. Toggle the visibility of the **author bio** section on single posts.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
