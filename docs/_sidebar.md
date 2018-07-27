@@ -47,8 +47,7 @@
   - [Enabling WP_Debug In WordPress](enabling-wp-debug.md)
   - [Increasing WordPress Memory Limit](increasing-wordpress-memory-limit.md)
 - About The Theme
-  - [Purchase License](conj-wordpress-theme-envato-license.md)
-  - [Theme License](conj-wordpress-theme-license.md)
+  - [License](conj-wordpress-theme-license.md)
   - [Credits](conj-wordpress-theme-credits.md)
   - [Changelog](conj-wordpress-theme-changelog.md)
   - [Copyright](conj-wordpress-theme-copyright.md)
