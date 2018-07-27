@@ -6,6 +6,8 @@
 
 This option let’s users choose between displaying the full content of each post or an excerpt on the blog and archives like category, tag, and date archive pages.
 
+![JetPack Blog Display](img/jetpack-customizing-blog-display.jpg)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Content Options** section.
@@ -23,6 +25,8 @@ This option let’s users choose between displaying the full content of each pos
 
 This option allows you to toggle the visibility of the author bio on single posts.
 
+![JetPack Author Bio](img/jetpack-customizing-author-bio.jpg)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Content Options** section.
@@ -34,6 +38,8 @@ This option allows you to toggle the visibility of the author bio on single post
 ## Post Details
 
 This option allows users show or hide the *post date*, *tags*, *categories*, or *author* on the blog pages.
+
+![JetPack Post Details](img/jetpack-customizing-post-details.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
@@ -51,6 +57,8 @@ This option allows users show or hide the *post date*, *tags*, *categories*, or 
 ## Featured Images
 
 This option allows users to toggle the visibility of the featured images on blog and archive pages, single posts, and pages.
+
+![JetPack Featured Images](img/jetpack-customizing-featured-images.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
