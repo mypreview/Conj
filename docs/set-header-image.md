@@ -22,7 +22,7 @@ Follow the steps below to upload a header background image:
 
 !> Only `.jpeg`, `.gif`, and `.png` files can be used. All cropped images will be converted to jpegs. Using an image of exactly the right size will produce the best results, and this is certainly recommended.
 
-## Add Random Header Images
+## Randomize Header Images
 
 The **Current Header** image upload field will display only the currently active header image. However, you can upload a few more images to show a variety of random images in your site header area.
 
@@ -30,11 +30,15 @@ Once you have uploaded a few images, they will appear under **Previously Uploade
 
 ## Adjust The Overlay Opacity
 
+![Adjust The Overlay Opacity](img/adjust-header-image-overlay-opacity.jpg)
+
 This setting is useful if you are using a visually noisy background image and finding the content in your header area difficult to read.
 
 You can specify the overlay opacity by dragging the handle to the left or right.
 
 ## Change The Overlay Color
+
+![Change The Overlay Color](img/change-header-image-overlay-color.jpg)
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
