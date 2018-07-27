@@ -28,7 +28,25 @@ The **Current Header** image upload field will display only the currently active
 
 Once you have uploaded a few images, they will appear under **Previously Uploaded** section. You can click on the **Randomize uploaded headers** button which allows WordPress to choose one of the uploaded images for your header area randomly.
 
+## Adjust The Overlay Opacity
+
+This setting is useful if you are using a visually noisy background image and finding the content in your header area difficult to read.
+
+You can specify the overlay opacity by dragging the handle to the left or right.
+
+## Change The Overlay Color
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Colors** » **General** section.
+4. Locate the **Header** call-out.
+5. Click on the **Background** color to change it.
+6. Use the **hexadecimal value** for complete accuracy, or choose from the color picker for an approximate value.
+7. Preview your selection instantly.
+8. Click the **Publish** button to save the changes.
+
 ## Additional Links
 
 * [Image Use Policy](https://en.wikipedia.org/wiki/Wikipedia:Image_use_policy)
 * [Public Domain Images](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
+* [Hexadecimal Numeral System](https://simple.wikipedia.org/wiki/Hexadecimal_numeral_system)
