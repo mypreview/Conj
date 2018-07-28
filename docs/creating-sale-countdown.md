@@ -1,6 +1,6 @@
 # Creating Sale Countdown
 
-This feature lets you to promote your sale campaigns by displaying a countdown box with the product on sale.
+This feature let’s you to promote your sale campaigns by displaying a countdown box with the product on sale.
 
 ## Scheduling A Sale
 
