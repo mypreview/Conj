@@ -70,3 +70,5 @@ Some of the fonts in the [Google Font Directory](https://fonts.google.com/) supp
 5. Specify which **subsets** should be downloaded for your language.<br/>*This is important if you have special characters as `ë`, `ç`, `æ`… in your language.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes. 
+
+!> Choosing all subsets will make the font files much larger and will increase your load times in the end.
