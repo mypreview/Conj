@@ -60,3 +60,13 @@ The following settings will imply the font family changes to HTML button element
 8. Click the **Publish** button to save the changes.
 
 ## Selecting Font Subsets
+
+Some of the fonts in the [Google Font Directory](https://fonts.google.com/) support multiple scripts *(like Latin, Cyrillic, and Greek for example)*. To specify which subsets should be downloaded one or a few of the following values should be appended to the URL.
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Typography** section.
+4. Locate the **Subset** call-out.
+5. Specify which subsets should be downloaded for your language.<br/>*This is important if you have special characters as `ë`, `ç`, `æ`… in your language.*
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes. 
