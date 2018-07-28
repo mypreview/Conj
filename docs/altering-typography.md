@@ -65,6 +65,8 @@ Some of the fonts in the Google fonts directory support multiple scripts *(like 
 
 ?> Selecting correct set of subsets is essential mainly if have specific characters such as `ë`, `ç`, `æ`… in your language.
 
+![Selecting Font Subsets](img/selecting-font-subsets.jpg)
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Typography** section.
