@@ -12,3 +12,5 @@ Follow the steps below to schedule a sale in your existing WooCommerce product:
 6. Scroll down to the **Product Data** tab.
 7. Right next to the **Sale Price** click on the **Schedule** link.
 8. Enter the **start** and **end date**.<br/>*The sale date is based on the time you have set for your site.*
+
+?> You can check the time zone set for your site under **Settings** » **General** » **Timezone**.
