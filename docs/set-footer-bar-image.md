@@ -19,3 +19,30 @@ Follow the steps below to upload a footer bar background image:
 11. The **Crop Image** dialog box appears.
 12. Use the sizing handles to select any portion of the uploaded image you wish to be displayed as the site logo area, and then click **Crop Image** button.<br/>*Suggested image dimensions: **1600 by 963 pixels**.*
 13. Click the **Publish** button to view the uploaded footer bar image on your site.
+
+## Adjust The Overlay Opacity
+
+![Adjust The Overlay Opacity](img/adjust-footer-bar-image-overlay-opacity.jpg)
+
+This setting is useful if you are using a visually noisy background image and finding the content in your footer bar area difficult to read.
+
+You can specify the overlay opacity by dragging the handle to the left or right.
+
+## Change The Overlay Color
+
+![Change The Overlay Color](img/change-footer-bar-image-overlay-color.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Colors** » **Footer Bar** section.
+4. Locate the **Header** call-out.
+5. Click on the **Background** color to change it.
+6. Use the **hexadecimal value** for complete accuracy, or choose from the color picker for an approximate value.
+7. Preview your selection instantly.
+8. Click the **Publish** button to save the changes.
+
+## Additional Links
+
+* [Image Use Policy](https://en.wikipedia.org/wiki/Wikipedia:Image_use_policy)
+* [Public Domain Images](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
+* [Hexadecimal Numeral System](https://simple.wikipedia.org/wiki/Hexadecimal_numeral_system)
