@@ -67,7 +67,15 @@ Some of the fonts in the Google fonts directory support multiple scripts *(like 
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Typography** section.
 4. Locate the **Subset** call-out.
-5. Specify which **subsets** should be downloaded for your language.<br/>*This is important if you have special characters as `ë`, `ç`, `æ`… in your language.*
+5. Specify which **subsets** should be downloaded for your language; The following options are available:<br/>
+   * Latin
+   * Latin Ext
+   * Greek
+   * Greek Ext
+   * Cyrillic
+   * Cyrillic Ext
+   * Vietnamese
+   <br/>*This is important if you have special characters as `ë`, `ç`, `æ`… in your language.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes. 
 
