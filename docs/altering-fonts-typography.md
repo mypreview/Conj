@@ -12,11 +12,11 @@ The following settings will imply the font family changes to all six levels of h
 4. Locate the **Heading** call-out.
 5. Choose between more than 780 popular [Google web fonts](https://fonts.google.com).
 6. Font weight *(Variants)* can also be specified as part of the typography altering; The following options are available:
-   * *Thin — **100** *
-   * *Light — **300** *
-   * *Normal — **400** *
-   * *Medium — **500** *
-   * *Bold — **700** *
-   * *Ultra Bold — **900** *
+   * *Thin — 100*
+   * *Light — 300*
+   * *Normal — 400*
+   * *Medium — 500*
+   * *Bold — 700*
+   * *Ultra Bold — 900*
 7. Preview your selection instantly.
 8. Click the **Publish** button to save the changes.
