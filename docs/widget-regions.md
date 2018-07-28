@@ -46,7 +46,7 @@ There is also an **Accessibility Mode** for users who need it. To enable accessi
 
 ## Sidebar Areas
 
-The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) theme includes ten widget regions by default.
+The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) includes ten widget regions by default.
 
 ![Sidebar Areas](img/sidebar-areas.png)
 
