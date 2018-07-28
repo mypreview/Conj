@@ -40,6 +40,10 @@ Follow the steps below to schedule a sale in your existing WooCommerce product:
 
 ## Display On-Sale Product With Countdown
 
+Follow the steps below to display the on-sale product on the front-end of your shop:
+
+![Display On-Sale Product With Countdown](img/display-on-sale-product-with-countdown.png)
+
 1. On the frontend, in the **Admin bar**, click **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Homepage Content** » **Sale Countdown** section.
