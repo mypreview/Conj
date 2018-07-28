@@ -63,6 +63,8 @@ The following settings will imply the font family changes to HTML button element
 
 Some of the fonts in the Google fonts directory support multiple scripts *(like Latin, Cyrillic, and Greek for example)*. To specify which subsets should be downloaded one or a few of the following values should be appended to the URL.
 
+?> Selecting correct set of subsets is essential mainly if have specific characters such as `ë`, `ç`, `æ`… in your language.
+
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Typography** section.
@@ -75,11 +77,10 @@ Some of the fonts in the Google fonts directory support multiple scripts *(like 
    * Cyrillic
    * Cyrillic Ext
    * Vietnamese
-   <br/>*This is important if you have special characters as `ë`, `ç`, `æ`… in your language.*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes. 
 
-!> Choosing all subsets will make the font files much larger and will increase your load times in the end.
+!> Try to only enable the subsets that you use, because the site will load slower with each additional subgroup.
 
 ## Additional Links
 
