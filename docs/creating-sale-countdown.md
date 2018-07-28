@@ -2,11 +2,11 @@
 
 This feature let’s you to promote your sale campaigns by displaying a countdown box with the product on sale.
 
-## Scheduling A Sale
+## Schedule A Sale
 
 Follow the steps below to schedule a sale in your existing WooCommerce product:
 
-![Scheduling A Sale](img/scheduling-sale.png)
+![Schedule A Sale](img/scheduling-sale.png)
 
 1. Login to your WordPress Dashboard.
 2. Click the **Products** tab.
@@ -21,9 +21,9 @@ Follow the steps below to schedule a sale in your existing WooCommerce product:
 
 ?> You can check the time zone set for your site under **Settings** » **General** » **Timezone**.
 
-## Configuring Countdown Details
+## Configure Countdown Details
 
-![Configuring Countdown Details](img/configuring-countdown-details.png)
+![Configure Countdown Details](img/configuring-countdown-details.png)
 
 1. Login to your WordPress Dashboard.
 2. Click the **Products** tab.
@@ -40,11 +40,11 @@ Follow the steps below to schedule a sale in your existing WooCommerce product:
    * *Product Image — Suggested image dimensions: 954 by 464 pixels.*
 9. Click **Update** button once you've made your changes.
 
-## Displaying On-Sale Product With Countdown
+## Display On-Sale Product With Countdown
 
 Follow the steps below to display the on-sale product on the front-end of your shop:
 
-![Displaying On-Sale Product With Countdown](img/display-on-sale-product-with-countdown.jpg)
+![Display On-Sale Product With Countdown](img/display-on-sale-product-with-countdown.jpg)
 
 1. On the frontend, in the **Admin bar**, click **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
@@ -54,9 +54,9 @@ Follow the steps below to display the on-sale product on the front-end of your s
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
 
-## Adjusting The Overlay Opacity
+## Adjust The Overlay Opacity
 
-![Adjusting The Overlay Opacity](img/adjust-the-overlay-opacity-countdown.jpg)
+![Adjust The Overlay Opacity](img/adjust-the-overlay-opacity-countdown.jpg)
 
 This setting is useful if you are using a visually noisy background image and finding the content in your countdown component difficult to read.
 
