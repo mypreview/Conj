@@ -70,13 +70,13 @@ Some of the fonts in the Google fonts directory support multiple scripts *(like 
 3. Navigate to **Typography** section.
 4. Locate the **Subset** call-out.
 5. Specify which **subsets** should be downloaded for your language; The following options are available:<br/>
-   * Latin
-   * Latin Ext
-   * Greek
-   * Greek Ext
-   * Cyrillic
-   * Cyrillic Ext
-   * Vietnamese
+   * *Latin*
+   * *Latin Ext*
+   * *Greek*
+   * *Greek Ext*
+   * *Cyrillic*
+   * *Cyrillic Ext*
+   * *Vietnamese*
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes. 
 
