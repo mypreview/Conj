@@ -21,6 +21,8 @@ Follow the steps below to schedule a sale in your existing WooCommerce product:
 
 ## Configuring Countdown Details
 
+![Configuring Countdown Details](img/configuring-countdown-details.png)
+
 1. Login to your WordPress Dashboard.
 2. Click the **Products** tab.
 3. Click the **All Products** sub-tab.
