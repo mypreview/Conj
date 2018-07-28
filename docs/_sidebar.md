@@ -14,6 +14,7 @@
   - [Set A Background Image](set-background-image.md)
   - [Set A Footer Bar Image](set-footer-bar-image.md)
   - [Set A Footer Image](set-footer-image.md)
+  - [Altering Typography](altering-typography.md)
   - [Widget Regions](widget-regions.md)
   - [Writing A Post](writing-post.md)
   - [Creating A Page](creating-page.md)
