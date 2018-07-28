@@ -35,11 +35,10 @@ You can specify the overlay opacity by dragging the handle to the left or right.
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Colors** » **Footer Bar** section.
-4. Locate the **Header** call-out.
-5. Click on the **Background** color to change it.
-6. Use the **hexadecimal value** for complete accuracy, or choose from the color picker for an approximate value.
-7. Preview your selection instantly.
-8. Click the **Publish** button to save the changes.
+4. Click on the **Background** color to change it.
+5. Use the **hexadecimal value** for complete accuracy, or choose from the color picker for an approximate value.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
 
 ## Additional Links
 
