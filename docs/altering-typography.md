@@ -10,7 +10,7 @@ The following settings will imply the font family changes to all six levels of h
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Typography** section.
 4. Locate the **Heading** call-out.
-5. Choose between more than 780 popular [Google web fonts](https://fonts.google.com).
+5. Choose between more than 780 popular Google web fonts.
 6. Font weight *(Variants)* can also be specified as part of the typography altering; The following options are available:
    * *Thin — 100*
    * *Light — 300*
@@ -29,7 +29,7 @@ The following settings will imply the font family changes to HTML `<p>` element 
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Typography** section.
 4. Locate the **Paragraph** call-out.
-5. Choose between more than 780 popular [Google web fonts](https://fonts.google.com).
+5. Choose between more than 780 popular Google web fonts.
 6. Font weight *(Variants)* can also be specified as part of the typography altering; The following options are available:
    * *Thin — 100*
    * *Light — 300*
@@ -48,7 +48,7 @@ The following settings will imply the font family changes to HTML button element
 2. On the backend, click **Appearance** » **Customize**.
 3. Navigate to **Typography** section.
 4. Locate the **Button** call-out.
-5. Choose between more than 780 popular [Google web fonts](https://fonts.google.com).
+5. Choose between more than 780 popular Google web fonts.
 6. Font weight *(Variants)* can also be specified as part of the typography altering; The following options are available:
    * *Thin — 100*
    * *Light — 300*
@@ -61,7 +61,7 @@ The following settings will imply the font family changes to HTML button element
 
 ## Selecting Font Subsets
 
-Some of the fonts in the [Google Font Directory](https://fonts.google.com/) support multiple scripts *(like Latin, Cyrillic, and Greek for example)*. To specify which subsets should be downloaded one or a few of the following values should be appended to the URL.
+Some of the fonts in the Google fonts directory support multiple scripts *(like Latin, Cyrillic, and Greek for example)*. To specify which subsets should be downloaded one or a few of the following values should be appended to the URL.
 
 1. On the frontend, in the **Admin bar**, **Customize**.
 2. On the backend, click **Appearance** » **Customize**.
@@ -75,5 +75,5 @@ Some of the fonts in the [Google Font Directory](https://fonts.google.com/) supp
 
 ## Additional Links
 
-* [Google Font Directory](https://fonts.google.com/)
+* [Google Fonts Directory](https://fonts.google.com/)
 * [Specifying script subsets](https://developers.google.com/fonts/docs/getting_started#specifying_font_families_and_styles_in_a_stylesheet_url)
