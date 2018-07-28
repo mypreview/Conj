@@ -37,3 +37,13 @@ Follow the steps below to schedule a sale in your existing WooCommerce product:
    * *Background Image — Suggested image dimensions: 3440 by 1376 pixels.*
    * *Product Image — Suggested image dimensions: 954 by 464 pixels.*
 9. Click **Update** button once you've made your changes.
+
+## Display On-Sale Product With Countdown
+
+1. On the frontend, in the **Admin bar**, click **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Homepage Content** » **Sale Countdown** section.
+4. Locate the **On-Sale Product** call-out.
+5. Select the product for which you want to activate the **sale countdown**.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
