@@ -27,6 +27,7 @@
   - [Header Layout Configurator](header-layout-configurator.md)
   - [Customizing The Sidebar](customizing-sidebar.md)
   - [Adding A Product Hero](adding-product-hero.md)
+  - [Creating Sale Countdown](creating-sale-countdown.md)
   - [Reordering Homepage Components](reordering-homepage-components.md)
   - [Creating Site-Wide Notice](creating-store-notice.md)
   - [Customizing Product Catalog](customizing-product-catalog.md)
