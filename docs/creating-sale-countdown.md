@@ -51,3 +51,11 @@ Follow the steps below to display the on-sale product on the front-end of your s
 5. Select the product for which you want to activate the **sale countdown**.
 6. Preview your selection instantly.
 7. Click the **Publish** button to save the changes.
+
+## Adjust The Overlay Opacity
+
+![Adjust The Overlay Opacity](img/adjust-the-overlay-opacity-countdown.jpg)
+
+This setting is useful if you are using a visually noisy background image and finding the content in your countdown component difficult to read.
+
+You can specify the overlay opacity by dragging the handle to the left or right.
