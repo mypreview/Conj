@@ -2,6 +2,8 @@
 
 The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) includes a built-in typography class that provides you with a live preview and allows you to change the typeface used throughout the different elements of your shop.
 
+![Altering Typography](img/altering-typography.jpg)
+
 ## Heading
 
 The following settings will imply the font family changes to all six levels of heading HTML tags. `H1`, `H2`, `H3`, `H4`, `H5`, and `H6`.
