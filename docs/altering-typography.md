@@ -72,3 +72,8 @@ Some of the fonts in the [Google Font Directory](https://fonts.google.com/) supp
 7. Click the **Publish** button to save the changes. 
 
 !> Choosing all subsets will make the font files much larger and will increase your load times in the end.
+
+## Additional Links
+
+* [Google Font Directory](https://fonts.google.com/)
+* [Specifying script subsets](https://developers.google.com/fonts/docs/getting_started#specifying_font_families_and_styles_in_a_stylesheet_url)
