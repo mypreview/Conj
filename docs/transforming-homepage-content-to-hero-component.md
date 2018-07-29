@@ -15,7 +15,7 @@ Hero components are more effective than sliders in terms of aesthetics. and you 
 5. Hover in the area under the page title and click **Edit**.
 6. Enter your homepage body content in the main page editing box below the page title field.
 7. Click on **Set Featured Image** link inside the featured image meta box to open the WordPress media library.
-8. To upload the logo file, click the **Upload Files** tab in the upper left corner of the **Set featured image** dialog box.
+8. To upload the featured image file, click the **Upload Files** tab in the upper left corner of the **Set featured image** dialog box.
 9. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Upload Files** to upload the featured image file.
 10. In the **File Upload** dialog box, navigate to the location of the image you want to use, and then double-click the image to upload it.
 11. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
