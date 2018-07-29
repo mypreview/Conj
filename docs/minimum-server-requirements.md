@@ -10,6 +10,6 @@ To run the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-
 
 !> PHP 5.6 reached [end of life](http://php.net/supported-versions.php) and is no longer maintained.
 
-## Need a new host?
+## Need A New Host?
 
 ?> Check out our [recommended](https://kinsta.com) service provider or dedicated WordPress web hosts listed [here](https://wordpress.org/hosting).
