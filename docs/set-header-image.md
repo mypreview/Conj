@@ -12,7 +12,7 @@ Follow the steps below to upload a header background image:
 4. Locate the **Current header** image upload field.
 5. Click the **Add new image** button to open the WordPress media library.
 6. To upload the header image file, click the **Upload Files** tab in the upper left corner of the **Choose Image** dialog box.
-7. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Select Files** to upload the header image file.
+7. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Upload Files** to upload the header image file.
 8. In the **File Upload** dialog box, navigate to the location of the image you want to use, and then double-click the image to upload it.
 9. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
 10. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Select and Crop** button.
