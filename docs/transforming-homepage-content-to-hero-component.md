@@ -21,3 +21,11 @@ Hero components are more effective than sliders in terms of aesthetics. and you 
 11. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
 12. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Select** button.
 13. Click the **Update** button to save the changes.
+
+## Adjust The Overlay Opacity
+
+![Adjust The Overlay Opacity](img/adjust-the-overlay-opacity-homepage-content.jpg)
+
+This setting is useful if you are using a visually noisy background image and finding the content in your homepage template difficult to read.
+
+You can specify the overlay opacity by dragging the handle to the left or right.
