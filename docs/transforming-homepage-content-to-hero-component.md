@@ -45,7 +45,7 @@ Hero components are more effective than sliders in terms of aesthetics. and you 
 3. Navigate to **Homepage Content** » **Content** section.
 4. Locate the **Spacing** call-out.
 5. Specify the **margin** and **padding** values to modify the current spacing.<br/>*Margins are used to create space around elements, outside of any defined borders and paddings, on the other hand, are used to generate space around an element's content, inside of any defined borders.*
-6. Preview your selection instantly.
+6. Preview your changes instantly.
 7. Click the **Publish** button to save the changes.
 
 ## Change The Overlay Color
