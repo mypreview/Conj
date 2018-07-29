@@ -79,7 +79,7 @@ Check out the [Live Demo](https://www.conj.ws) to visit the [Conj - eCommerce Wo
 
 ## Get the Theme
 
-This is item is only available to purchase from [Themeforest](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview). :moneybag:
+This item is only available to purchase from [Themeforest](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview). :moneybag:
 
 ## Something Missing?
 
