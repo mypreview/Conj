@@ -4,7 +4,7 @@ Adding a featured image to your homepage will automatically create a **hero comp
 
 Hero components are more effective than sliders in terms of aesthetics. and you don’t have to keep using sliders if it’s slowing down your site.
 
-## Creating Homepage Hero Component
+## Homepage Hero Component
 
 ![Creating Homepage Hero Component](img/creating-homepage-hero-component.png)
 
@@ -26,6 +26,30 @@ Hero components are more effective than sliders in terms of aesthetics. and you 
 
 ![Adjust The Overlay Opacity](img/adjust-the-overlay-opacity-homepage-content.jpg)
 
-This setting is useful if you are using a visually noisy background image and finding the content in your homepage template difficult to read.
+1. On the frontend, in the **Admin bar**, click **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Homepage Content** » **Content** section.
+4. Locate the **Overlay opacity** range field.
+5. Specify the overlay opacity by dragging the handle to the left or right.
+6. Preview your selection instantly.
+7. Click the **Publish** button to save the changes.
 
-You can specify the overlay opacity by dragging the handle to the left or right.
+?> This setting is useful if you are using a visually noisy background image and finding the content in your homepage template difficult to read.
+
+## Change The Overlay Color
+
+![Change The Overlay Color](img/change-the-overlay-color-homepage-template.jpg)
+
+1. On the frontend, in the **Admin bar**, **Customize**.
+2. On the backend, click **Appearance** » **Customize**.
+3. Navigate to **Colors** » **Homepage Content** section.
+4. Locate the **Content** call-out.
+5. Click on the **Background** color to change it.
+6. Use the **hexadecimal value** for complete accuracy, or choose from the color picker for an approximate value.
+7. Preview your selection instantly.
+8. Click the **Publish** button to save the changes.
+
+## Additional Links
+
+* [Create And Set a Static Homepage](create-and-set-static-homepage)
+* [Hexadecimal Numeral System](https://simple.wikipedia.org/wiki/Hexadecimal_numeral_system)
