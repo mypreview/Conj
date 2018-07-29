@@ -13,7 +13,7 @@ Hero components are more effective than sliders in terms of aesthetics. and you 
 3. Click the **All Pages** sub-tab.
 4. Find your [homepage template](create-and-set-static-homepage?id=create-homepage-template) page.
 5. Hover in the area under the page title and click **Edit**.
-6. Start filling in the blanks: enter your page title in the upper field, and enter your homepage body content in the main page editing box below it.
+6. Enter your homepage body content in the main page editing box below the page title field.
 7. Click on **Set Featured Image** link inside the featured image meta box to open the WordPress media library.
 8. To upload the logo file, click the **Upload Files** tab in the upper left corner of the **Set featured image** dialog box.
 9. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Upload Files** to upload the featured image file.
