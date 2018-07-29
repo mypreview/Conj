@@ -11,7 +11,7 @@ Follow the steps below to upload your site logo:
 3. Navigate to **Site Identity** section.
 4. Click the **Select Logo** button to open the WordPress media library.
 5. To upload the logo file, click the **Upload Files** tab in the upper left corner of the **Select logo** dialog box.
-6. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Select Files** to upload the logo file.
+6. You can drag and drop any image file from your local computer or machine’s file manager, or you can click **Upload Files** to upload the logo file.
 7. In the **File Upload** dialog box, navigate to the location of the image you want to use, and then double-click the image to upload it.
 8. Once the file uploaded, the **Media Library** tab appears with the uploaded file selected.
 9. At the right side of the **Medial Library**, complete the **Title**, **Caption**, **Alt Text**, and **Description** text boxes, and then click **Select** button.
