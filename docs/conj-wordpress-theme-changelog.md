@@ -1,3 +1,17 @@
+# 1.2.4/ 2018-08-05
+  * Added RTL (Right-to-left) language support.
+  * Added cart quantity to the hand-held menu.
+  * Added Gutenberg editor font-size support.
+  * Updated Gutenberg default component styles.
+  * Updated Gutenberg editor color palette args.
+  * Fixed minor styling issues.
+  * Fixed Customizer header background image visibility issue.
+  * Fixed Customizer site background image visibility issue.
+  * Improved overall IE 11 (Internet Explorer) styling.
+  * Compatibility with WordPress 4.9.8
+  * Compatibility with Gutenberg 3.4
+  * Compatibility with WooCommerce 3.4.4
+
 # 1.2.3/ 2018-07-14
   * Updated Gutenberg editor styles.
   * Fixed JS error in promo widget uploader field.
