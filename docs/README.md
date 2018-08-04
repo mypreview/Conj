@@ -68,6 +68,8 @@ See the [Getting Started](download-conj-wordpress-theme) for more details.
 * Child theme ready
 * Translation ready
 * SEO optimized
+* Page title toggle
+* RTL language support
 * HiDPI / Retina ready
 * Well documented
 * Premium support
