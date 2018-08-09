@@ -1,6 +1,6 @@
 # Credits
 
-While making Conj theme, we used third-party plugins and resources, and want to thank their creators:
+While making the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), we used third-party plugins and resources, and want to thank their creators:
 
 * [_s, or Underscores](https://github.com/Automattic/_s)
 * [Jetpack by WordPress.com](https://github.com/Automattic/jetpack)
@@ -35,6 +35,8 @@ While making Conj theme, we used third-party plugins and resources, and want to 
 * [Modernizr](https://github.com/Modernizr/Modernizr)
 * [Skip to content](https://github.com/Automattic/_s/pull/136)
 * [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
+* [instafeed.js](https://github.com/stevenschobert/instafeed.js)
+* [jQuery simplyScroll 2](https://github.com/logicbox/jquery-simplyscroll)
 * [Slinky](https://github.com/alizahid/slinky)
 * [gridstack.js](https://github.com/gridstack/gridstack.js)
 * [selectize.js](https://github.com/selectize/selectize.js)
