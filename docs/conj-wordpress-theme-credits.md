@@ -41,4 +41,3 @@ While making the [Conj - eCommerce WordPress Theme](https://themeforest.net/item
 * [gridstack.js](https://github.com/gridstack/gridstack.js)
 * [selectize.js](https://github.com/selectize/selectize.js)
 * [Numeric](https://github.com/SamWM/jQuery-Plugins/tree/master/numeric)
-* [Montserrat](https://fonts.google.com/specimen/Montserrat)
