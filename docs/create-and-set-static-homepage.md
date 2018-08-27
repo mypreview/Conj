@@ -2,7 +2,7 @@
 
 By default after fresh installation of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), the homepage will look like a blog, and this is how WordPress is intended to work. This is the same page template used on the main theme [demos](https://www.conj.ws).
 
-The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) theme comes with a unique Homepage template which is perfect for e-commerce websites and shop owners, as it displays a lot of products and product categories to visitors as soon as they land on your website.
+The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) comes with a unique Homepage template which is perfect for e-commerce websites and shop owners, as it displays a lot of products and product categories to visitors as soon as they land on your website.
 
 Assuming you added some products to your shop, after following the steps below you would be able to see links to them and links to the top level product categories when visiting the front page of your shop.
 
