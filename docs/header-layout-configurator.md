@@ -1,6 +1,6 @@
 # Header Layout Configurator
 
-This feature enables you to easily add or remove header components such as the logo, mini-cart, social menu, and primary navigation. You can start by adding a component and use **drag and drop** to re-arrange header components to adjust their display order. Also, you would be able to update the width of each element in the header by dragging its edges.
+This feature enables you to easily add or remove header components such as the logo, mini-cart, social menu, and primary navigation. You can start by adding a component and use **drag and drop** to re-arrange header elements to adjust their display order. Also, you would be able to update the width of each element in the header by dragging its edges.
 
 ## Adjusting Header Layout
 
