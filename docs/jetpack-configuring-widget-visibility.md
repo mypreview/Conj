@@ -6,11 +6,11 @@ The widget visibility module allows you to configure widgets to appear or be hid
 
 Visibility is controlled by the following five aspects: 
 
-1- Page Type
-2- Category
-3- Tag
-4- Date
-5- Author
+1. Page Type
+2. Category
+3. Tag
+4. Date
+5. Author
 
 ![JetPack Widget Visibility Panel](img/jetPack-widget-visibility-panel.jpg)
 
