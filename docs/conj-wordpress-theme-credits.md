@@ -16,7 +16,7 @@ While making the [Conj - eCommerce WordPress Theme](https://themeforest.net/item
 * [Kirki](https://github.com/reduxframework/kirki)
 * [Toggle control](https://github.com/soderlind/class-customizer-toggle-control)
 * [Range control](https://github.com/soderlind/class-customizer-range-value-control)
-* [Sortable multi check boxes control](https://github.com/soderlind/class-customizer-toggle-control)
+* [Sortable multi check boxes control](https://github.com/turtlepod/fx-share/blob/master/includes/customizer-controls.php)
 * [Post categories dropdown control](https://gist.github.com/anastis/57bb4a3205902295734611858b543390)
 * [Twentythirteen](https://github.com/WordPress/WordPress/tree/master/wp-content/themes/twentythirteen)
 * [Twentysixteen](https://github.com/WordPress/twentysixteen)
