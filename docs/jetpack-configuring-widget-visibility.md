@@ -14,3 +14,8 @@ Visibility is controlled by the following five aspects:
 
 ![JetPack Widget Visibility Panel](img/jetPack-widget-visibility-panel.jpg)
 
+As an example, if you wanted the **Product Categories** widget to only appear on shop archives and a custom page, choose **Show** from the first dropdown and then add the following rules: **Page** *is* **Products** and **Page** *is* **Shop**.
+
+![Toggle JetPack Widget Visibility](img/jetPack-widget-visibility-toggle.jpg)
+
+You can also hide widgets based on the current page. For example, if you don’t want the **Product Categories** widget to appear on shop archives, choose **Hide** and **Page** *is* **Shop**.
