@@ -40,6 +40,7 @@
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - JetPack
+  - [Configuring Widget Visibility](jetpack-configuring-widget-visibility.md)
   - [Customizing Content Options](jetpack-customizing-content-options.md)
 - Translations
   - [Translating with Poedit](translating-with-poedit.md)
