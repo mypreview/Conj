@@ -6,6 +6,8 @@ The widget visibility module allows you to configure widgets to appear or be hid
 
 ![JetPack Widget Visibility Panel](img/jetPack-widget-visibility-panel.jpg)
 
+## Visibility Rules
+
 Visibility is controlled by the following five aspects: 
 
 1. Page Type
