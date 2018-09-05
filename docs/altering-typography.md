@@ -2,7 +2,7 @@
 
 The [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) includes a built-in typography class that provides you with a live preview and allows you to change the typeface used throughout the different elements of your shop.
 
-![Altering Typography](img/altering-typography.jpg)
+![Altering Typography](img/altering-typography.jpg ':no-zoom')
 
 ## Heading
 
