@@ -1,3 +1,26 @@
+# 1.2.5/ 2018-09-15
+  * Added Instagram feed widget.
+  * Added WooCommerce product quick view component.
+  * Added RTL support to WooCommerce toast messages.
+  * Added text highlighting support to search results page.
+  * Added compatibility with WPML translation plugin.
+  * Updated language file.
+  * Updated Gutenberg color palette.
+  * Updated width of the Gutenberg editor.
+  * Updated child theme parent styling dependencies.
+  * Updated `iziToast` JS plugin to version 1.4.0
+  * Updated `Flickity` JS plugin to version 2.1.2
+  * Updated `JS-Offcanvas` JS plugin to version 1.2.7
+  * Updated `Waypoints` JS plugin to version 4.0.1
+  * Improved RTL (Right-to-left) language styling.
+  * Improved overall IE 11 (Internet Explorer) styling.
+  * Compatibility with Gutenberg 3.8
+  * Compatibility with WooCommerce 3.4.5
+  * Compatibility with JetPack (gallery and comments) 6.5
+  * Compatibility with WooCommerce Stripe gateway 4.1.9
+  * Compatibility with WooCommerce Product Search 2.8.0
+  * Compatibility with Variation Swatches and Photos 3.0.9
+
 # 1.2.4/ 2018-08-05
   * Added RTL (Right-to-left) language support.
   * Added cart quantity to the hand-held menu.
