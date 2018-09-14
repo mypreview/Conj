@@ -1,8 +1,8 @@
 # 1.2.5/ 2018-09-15
   * Added Instagram feed widget.
   * Added WooCommerce product quick view component.
-  * Added RTL support to WooCommerce toast messages.
-  * Added text highlighting support to search results page.
+  * Added RTL support in WooCommerce toast messages.
+  * Added text highlighting support in search results page.
   * Added compatibility with WPML translation plugin.
   * Updated language file.
   * Updated Gutenberg color palette.
