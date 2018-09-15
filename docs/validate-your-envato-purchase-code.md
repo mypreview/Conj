@@ -28,4 +28,4 @@ You may charge your client for your services to create an end product/site using
 > As long as the activation meets [ThemeForest license agreements](https://themeforest.net/licenses/terms/regular), you can activate your Envato purchase code on any temporary or local environment for development purposes.
 
 ?> Can I purcahse a multisite or developers license of the theme?
-> **No,** In terms of licensing we fully rely on [Envato standards](https://themeforest.net/licenses/terms/regular) and at the moment only [Regular License](https://themeforest.net/licenses/standard) of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) is available to purchase.
+> **No,** Regarding licensing we entirely rely on Envato standards and at the moment you can only acquire a [Regular License](https://themeforest.net/licenses/standard) of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) for your own website, or if you are a developer – for your client by transferring the license to your client when the project is finished.
