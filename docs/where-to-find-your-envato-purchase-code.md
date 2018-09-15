@@ -1,6 +1,6 @@
 # Where To Find Your Envato Purchase Code
 
-Each purchase code is a unique string of letters and numbers to verify that your copy of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) license purchase is valid.
+Each purchase code is a unique string of letters and numbers to verify that your copy of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) is valid.
 
 Follow the steps below to find your purchase code:
 
