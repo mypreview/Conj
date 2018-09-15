@@ -2,6 +2,8 @@
 
 ## License Specifications
 
+The [Regular License](https://themeforest.net/licenses/standard) grants you, the purchaser, an ongoing, non-exclusive, worldwide license to make use of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) you have selected in local/staging environment and for **one domain only**.
+
 | Site address                      | License status              |
 |-----------------------------------|-----------------------------|
 | www.example.com                   | Valid                       |
