@@ -2,6 +2,7 @@
   - [Download Your WordPress Theme](download-conj-wordpress-theme.md)
   - [How To Install Your Theme](how-to-install-conj-theme.md)
   - [Where To Find Your Envato Purchase Code](where-to-find-your-envato-purchase-code.md)
+  - [Activate Your Copy of Conj - eCommerce WordPress Theme](activate-your-copy-of-conj-ecommerce-wordPress-theme.md)
   - [Installing Recommended/Bundled Plugins](installing-recommended-plugins.md)
   - [Activate & Save Permalinks](activate-and-save-permalinks.md)
   - [Importing A Theme Demo](importing-conj-theme-demo-data.md)
