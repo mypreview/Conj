@@ -1,7 +1,5 @@
 # Validate Your Envato Purchase Code
 
-## How To Register Your Envato Purchase Code
-
 Follow the steps below to validate your copy of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview):
 
 ![Register your Envato purchase code for Conj - eCommerce WordPress Theme](img/conj-enter-envato-purchase-code.jpg)
