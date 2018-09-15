@@ -1,5 +1,9 @@
 # Validate Your Envato Purchase Code
 
+## How To Register Your License/Purchase Code
+
+
+
 ## License Specifications
 
 The [Regular License](https://themeforest.net/licenses/standard) grants you, the purchaser, an ongoing, non-exclusive, worldwide license to make use of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) you have selected in local/staging environment and for **one domain only**.
@@ -29,3 +33,11 @@ You may charge your client for your services to create an end product/site using
 
 ?> Can I purcahse a multisite or developers license of the theme?
 > **No,** Regarding licensing we entirely rely on Envato standards and at the moment you can only acquire a [Regular License](https://themeforest.net/licenses/standard) of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) for your own website, or if you are a developer – for your client by transferring the license to your client when the project is finished.
+
+## Additional Links
+
+* [License FAQ](https://themeforest.net/licenses/faq)
+* [ThemeForest License Agreements](https://themeforest.net/licenses/terms/regular)
+* [Where To Find Your Envato Purchase Code](where-to-find-your-envato-purchase-code)
+* [Where Is My Purchase Code?](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-)
+* [My Purchase Code is Not Working](https://help.market.envato.com/hc/en-us/articles/204451834-My-Purchase-Code-is-Not-Working)
