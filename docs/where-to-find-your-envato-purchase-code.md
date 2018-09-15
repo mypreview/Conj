@@ -2,7 +2,7 @@
 
 Each purchase code is a unique string of letters and numbers to verify that your copy of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) is valid.
 
-Follow the steps below to find your purchase code:
+Follow the steps below to find your Envato purchase code:
 
 ![Download license certificate & purchase code for Conj - eCommerce WordPress Theme](img/download-conj-wordpress-theme.png)
 ![Loacte the Envato Purchase Code for Conj - eCommerce WordPress Theme](img/conj-envato-purchase-code.jpg)
