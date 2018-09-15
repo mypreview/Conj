@@ -20,6 +20,7 @@ See the [Getting Started](download-conj-wordpress-theme) for more details.
 * Footer bar
 * Google Maps API
 * Contact info widget
+* Instagram feed widget
 * Social network icons widget
 * Promo box (image ads) widget
 * Affiliate product support
@@ -35,6 +36,7 @@ See the [Getting Started](download-conj-wordpress-theme) for more details.
 * Sticky add to cart
 * Mega Menu
 * Product details customizer
+* Product quick view
 * Push Menu
 * Handheld Menu
 * Social network menu
