@@ -12,3 +12,8 @@ Follow the steps below to find your purchase code:
 4. Choose **License certificate & purchase code (text)** and save the file to your desktop.
 5. Locate the file on your desktop and open it in a text editor such as **Notepad**.
 6. Look for **Item Purchase Code** and copy the string of numbers and letters.<br/>*Take care not to copy any blank space before or after.*
+
+## Additional Links
+
+* [Where Is My Purchase Code?](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-)
+* [My Purchase Code is Not Working](https://help.market.envato.com/hc/en-us/articles/204451834-My-Purchase-Code-is-Not-Working)
