@@ -5,7 +5,7 @@ Each purchase code is a unique string of letters and numbers to verify that your
 Follow the steps below to find your purchase code:
 
 ![Download license certificate & purchase code for Conj - eCommerce WordPress Theme](img/download-conj-wordpress-theme.png)
-![Loacte the Envato Purchase Code for Conj - eCommerce WordPress Theme](img/conj-theme-envato-purchase-code.jpg)
+![Loacte the Envato Purchase Code for Conj - eCommerce WordPress Theme](img/conj-envato-purchase-code.jpg)
 
 1. Log into your [Envato account](https://account.envato.com/sign_in?to=envatomarket).
 2. Navigate to the **Downloads** section of your profile and locate the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview).
