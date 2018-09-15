@@ -1,5 +1,22 @@
 # Validate Your Envato Purchase Code
 
+## License Specifications
+
+| Site address                      | License status              |
+|-----------------------------------|-----------------------------|
+| www.example.com                   | Valid                       |
+| staging.example.com               | Valid                       |
+| www.example.com/staging           | Valid                       |
+| test.example.com/staging          | Valid                       |
+| localhost                         | Valid                       |
+| www.newdomain.com                 | **New license is required** |
+| staging.newdomain.com             | **New license is required** |
+| 158.158.158.158                   | **New license is required** |
+
+## Freelancers And Creative Agencies
+
+You may charge your client for your services to create an end product/site using the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview), and this is totally acceptable under the [Regular License](https://themeforest.net/licenses/standard). **But you can’t use one of our Regular Licenses on multiple clients or jobs.**
+
 ## Common Questions
 
 ?> If I need to use [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) on a second site, do I need a second license?
