@@ -1,8 +1,17 @@
 # Validate Your Envato Purchase Code
 
-## How To Register Your License/Purchase Code
+## How To Register Your Envato Purchase Code
 
+Follow the steps below to validate your copy of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview):
 
+1. [Find Your Envato Purchase Code](where-to-find-your-envato-purchase-code)
+2. Login to the your WordPress **Dashboard**.
+3. Scroll down to locate the **Envato Purchase Code** dashboard widget.
+4. **Enter/Paste** your Envato purchase code into the text field.
+5. Click **Verify Purchase Code** button to fully register your copy under your username.
+6. You’ll see a verified report upon successful activation.
+
+!> If the purchase code does not activate, please refresh and try again. Sometimes it takes a second try to establish a connection with the activation server properly.
 
 ## License Specifications
 
