@@ -26,3 +26,6 @@ You may charge your client for your services to create an end product/site using
 
 ?> Can I use the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) on a test site, then move it to a live/production environment when finished?
 > As long as the activation meets [ThemeForest license agreements](https://themeforest.net/licenses/terms/regular), you can activate your Envato purchase code on any temporary or local environment for development purposes.
+
+?> Can I purcahse a multisite or developers license of the theme?
+> In terms of licensing we fully rely on [Envato standards](https://themeforest.net/licenses/terms/regular) and at the moment we only offer [Regular License](https://themeforest.net/licenses/standard) of the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) available to purchase.
