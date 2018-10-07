@@ -1,3 +1,13 @@
+# 1.2.6/ 2018-10-08
+  * Added built-in Gutenberg "Accordion" block.
+  * Added built-in Gutenberg "Alert" block.
+  * Added built-in Gutenberg "Google Maps" block.
+  * Updated language file.
+  * Improved RTL (Right-to-left) language styling.
+  * Improved overall styling in IE 11 (Internet Explorer) browser.
+  * Improved overall styling in Edge browser.
+  * Compatibility with Gutenberg 3.9
+
 # 1.2.5/ 2018-09-15
   * Added Instagram feed widget.
   * Added WooCommerce product quick view component.
