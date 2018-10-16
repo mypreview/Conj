@@ -13,7 +13,7 @@ Follow the steps below to obtain a Google Maps JavaScript API key:
    2. Click the **Continue** button<br/>*You may need to agree to the terms before proceeding.*
 4. On the screen to create the browser API key, use `CONJ THEME` for the key name to help identify it in the future.
 5. Leave the referrers field empty for now to make the usage of the key easier.
-6. You’ll also need to add the domain name of the site whereever you’re using the [Conj - eCommerce WordPress Child Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview).
+6. You’ll also need to add the domain name of the site whereever you’re using the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview).
    * We recommend adding more than one entry using the following patterns:
    * `*.yourdomain.com yourdomain.com`
    * To avoid problems with **www** and non-www versions of your domain, don’t include the www part of your website URL.
