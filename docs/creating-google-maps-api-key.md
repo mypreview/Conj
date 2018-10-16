@@ -4,6 +4,8 @@ As of June 22, 2016, Google requires an API key to display maps on a website. Ac
 
 ?> If your shop requires more than 25000 requests per day, you will be responsible for extra charges. However, for 90% of website owners, this will not be needed.
 
+![Creating A Google Maps API Key](img/creating-google-maps-api-key.jpg)
+
 Follow the steps below to obtain a Google Maps JavaScript API key:
 
 1. First, You’ll need to sign in with a **Google account** if you’re not already logged in.
