@@ -39,7 +39,6 @@
   - [Customizing Checkout Layout](customizing-checkout-layout.md)
   - [Editing Copyright Info](editing-copyright-info.md)
   - [Transforming Homepage Content To A Hero Component](transforming-homepage-content-to-hero-component.md)
-  - [Creating A Google Maps API Key](creating-google-maps-api-key.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - JetPack
@@ -54,6 +53,8 @@
   - [Find a Page or Post ID](locate-page-id.md)
   - [Find a Menu ID](locate-menu-id.md)
   - [Integrated Plugins](integrated-plugins.md)
+- 3rd Party API
+  - [Creating A Google Maps API Key](creating-google-maps-api-key.md)
 - Troubleshooting
   - [Minimum Server Requirements](minimum-server-requirements.md)
   - [Update Server PHP Version](update-server-php-version.md)
