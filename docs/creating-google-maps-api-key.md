@@ -22,7 +22,7 @@ Follow the steps below to obtain a Google Maps JavaScript API key:
    1. Login to the your WordPress Dashboard.
    2. Click the **Conj PowerPack** menu.
    3. From the sidebar on the left, select the **3rd Party API** tab.
-   4. Locate the **Google Maps API** text-field and Paste your API key in.
+   4. Locate the **Google Maps API** text-field and paste your API key in.
    5. Click the **Save Changes** button.
 
 ?> If you didn’t copy your API key in the earlier step, you can find it on the [Credentials screen](https://console.developers.google.com/apis/credentials) in the Google Developers Console.
