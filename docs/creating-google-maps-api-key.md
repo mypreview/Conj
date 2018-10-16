@@ -11,7 +11,7 @@ Follow the steps below to obtain a Google Maps JavaScript API key:
 3. If you haven’t created a project in the Google Developers Console before, you will need to do that first.
    1. Choose the **Create a Project** option in the dropdown.
    2. Click the **Continue** button<br/>*You may need to agree to the terms before proceeding.*
-4. On the screen to create the browser API key Use `CONJ THEME` for the key name to help identify it in the future.
+4. On the screen to create the browser API key, use `CONJ THEME` for the key name to help identify it in the future.
 5. Leave the referrers field empty for now to make testing easier.
 6. You’ll also need to add the domain name of the site whereever you’re using the [Conj - eCommerce WordPress Child Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview).
    * We recommend adding more than one entry using the following patterns:
