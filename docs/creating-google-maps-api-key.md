@@ -16,7 +16,7 @@ Follow the steps below to obtain a Google Maps JavaScript API key:
 6. You’ll also need to add the domain name of the site whereever you’re using the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview).
    * We recommend adding more than one entry using the following patterns:
    * `*.yourdomain.com yourdomain.com`
-   * To avoid problems with **www** and non-www versions of your domain, don’t include the www part of your website URL.
+   * To avoid problems with **www** and non-www versions of your domain, **don’t include the www** part of your website URL.
 7. Click the **Create** button.
 8. Copy the key shown in the screen/field to enter it in your WordPress admin panel so your site can access the Google Maps APIs.
    1. Login to the your WordPress Dashboard.
