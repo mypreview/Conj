@@ -2,9 +2,9 @@
 
 As of June 22, 2016, Google requires an API key to display maps on a website. Acquiring an API key is free and allows up to 25,000 requests per day. You will not be billed unless usage goes over the [free number of views](https://cloud.google.com/maps-platform/).
 
-?> If your shop requires more than 25000 requests per day, you will be responsible for extra charges. However, for 90% of website owners, this will not be needed.
-
 ![Creating A Google Maps API Key](img/creating-google-maps-api-key.jpg)
+
+?> If your shop requires more than 25000 requests per day, you will be responsible for extra charges. However, for 90% of website owners, this will not be needed.
 
 Follow the steps below to obtain a Google Maps JavaScript API key:
 
