@@ -1,3 +1,15 @@
+# 1.2.7/ 2018-10-19
+  * Added built-in Gutenberg "Features" block.
+  * Added built-in Gutenberg "Divider" block.
+  * Added built-in Gutenberg "Fancy Heading" block.
+  * Updated built-in Gutenberg "Accordion" block.
+  * Updated built-in Gutenberg "Alert" block.
+  * Updated built-in Gutenberg "Google Maps" block.
+  * Updated Gutenberg editor styles.
+  * Updated language file.
+  * Compatibility with Gutenberg 4.0
+  * Compatibility with WooCommerce 3.4.7
+
 # 1.2.6/ 2018-10-08
   * Added built-in Gutenberg "Accordion" block.
   * Added built-in Gutenberg "Alert" block.
