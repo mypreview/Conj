@@ -5,7 +5,7 @@
 > #1 Flexible WooCommerce Theme
 
 - Based on Underscores starter theme
-- Build fast using Customizer live preview
+- Build fast using built-in Gutenberg blocks
 - Bulletproof integration with WooCommerce Core
 
 
