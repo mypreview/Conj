@@ -47,3 +47,4 @@ While making the [Conj - eCommerce WordPress Theme](https://themeforest.net/item
 * [WordPress Admin Style](https://github.com/bueltge/wordpress-admin-style)
 * [React FontIconPicker Component](https://github.com/fontIconPicker/react-fonticonpicker)
 * [React Ace Component](https://github.com/securingsincity/react-ace)
+* [Styled Components](https://github.com/styled-components/styled-components)
