@@ -105,35 +105,35 @@
   * Added typography font-weight (variants) control.
 
 # 1.1.7/ 2018-06-02
-  * Updated language file.
-  * Fixed mobile styling issues.
-  * Fixed HTML validation errors.
-  * Fixed all required/warning issues raised by ThemeCheck plugin.
-  * Fixed styling issues with Theme Unit test XML file.
-  * Updated demo content assets with placeholder images.
-  * Removed unnecessary spacing from components.
-  * Improved typography hierarchy and content formatting.
-  * Moved slider post type to a pre-packaged plugin.
-  * Compatibility with WooCommerce 3.4.1
-  * Added offline version of the documentation.
-  * Added "Gutenberg" WordPress (new) editor support.
-  * Added sticky order review offset control.
-  * Added sticky sidebar offset control.
-  * Added sticky post color controls.
+  * Fix: Mobile styling issues.
+  * Fix: HTML validation errors.
+  * Fix: Required/warning issues raised by ThemeCheck plugin.
+  * Fix: Styling issues with Theme Unit test XML file.
+  * Feature: Offline version of the documentation.
+  * Feature: "Gutenberg" WordPress (new) editor support.
+  * Feature: Sticky order review offset control.
+  * Feature: Sticky sidebar offset control.
+  * Feature: Sticky post color controls.
+  * Update: Language file.
+  * Update: Demo content assets with placeholder images.
+  * Remove: Unnecessary spacing from components.
+  * Tweak: Typography hierarchy and content formatting.
+  * Tweak: Moved slider post type to a pre-packaged powerpack plugin.
+  * Compatibility: WooCommerce 3.4.1
   
 # 1.1.6/ 2018-05-27
-  * Fixed a few styling issues.
-  * Updated language file.
-  * Updated product list view style.
-  * Compatibility with WordPress 4.9.6
-  * Compatibility with WooCommerce 3.4.0
-  * Compatibility with GDPR (General Data Protection Regulation)
-  * Added new shop by category style.
-  * Added new slider style.
-  * Added product countdown component.
-  * Added new service component style.
-  * Added copyright alignment control.
-  * Added product column support on list view layout.
+  * Fix: Minor styling issues.
+  * Feature: Shop by category style.
+  * Feature: Slider style.
+  * Feature: Product countdown component.
+  * Feature: Service component style.
+  * Feature: Copyright alignment control.
+  * Feature: Product column support on list view layout.
+  * Update: Language file.
+  * Update: Product list view style.
+  * Compatibility: WordPress 4.9.6
+  * Compatibility: WooCommerce 3.4.0
+  * Compatibility: GDPR (General Data Protection Regulation)
 
 # 1.1.5/ 2018-05-14
   * Fix: Minor styling issues.
