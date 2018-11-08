@@ -83,26 +83,26 @@
   * Added `use-strict` to all JavaScript files.
 
 # 1.1.8/ 2018-06-25
-  * Updated language file.
-  * Updated TinyMCE editor styles.
-  * Updated Gutenberg editor styles.
-  * Fixed mobile styling issues.
-  * Fixed inconsistent spacing/padding issues.
-  * Fixed typography scaling issues.
-  * Fixed styling issues with Theme Unit test XML file.
-  * Fixed tag cloud widget overflow styling issue.
-  * Fixed content and image alignment issues.
-  * Improved general/overall typography hierarchy.
-  * Improved blog post/archive styling.
-  * Improved footer widget title styling.
-  * Removed `_authorname_` to prevent double prefixing.
-  * Registered third-party libraries to load independently.
-  * Compatibility with JetPack (gallery) 6.2.1.
-  * Compatibility with WooCommerce 3.4.3.
-  * Compatibility with WooCommerce Stripe gateway.
-  * Compatibility with WooCommerce Product Search.
-  * Added typography subset control.
-  * Added typography font-weight (variants) control.
+  * Fix: Mobile styling issues.
+  * Fix: Inconsistent spacing/padding issues.
+  * Fix: Typography scaling issues.
+  * Fix: Styling issues with Theme Unit test XML file.
+  * Fix: Tag cloud widget overflow styling issue.
+  * Fix: Content and image alignment issues.
+  * Feature: Typography subset control.
+  * Feature: Typography font-weight (variants) control.
+  * Update: Language file.
+  * Update: TinyMCE editor styles.
+  * Update: Gutenberg editor styles.
+  * Tweak: General/overall typography hierarchy.
+  * Tweak: Blog post/archive styling.
+  * Tweak: Footer widget title styling.
+  * Tweak: Registered third-party libraries to load independently.
+  * Remove: `_authorname_` to prevent double prefixing.
+  * Compatibility: JetPack (gallery) 6.2.1
+  * Compatibility: WooCommerce 3.4.3
+  * Compatibility: WooCommerce Stripe gateway.
+  * Compatibility: WooCommerce Product Search.
 
 # 1.1.7/ 2018-06-02
   * Fix: Mobile styling issues.
