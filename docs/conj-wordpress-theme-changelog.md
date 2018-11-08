@@ -65,22 +65,22 @@
   * Compatibility with Gutenberg 3.2.0.
 
 # 1.2.2/ 2018-07-01
-  * Updated JS handlers to `.on()` method instead of using shortcut method.
-  * Updated capitalization of the theme name.
+  * Update: JS handlers switched to `.on()` method instead of using shortcut method.
+  * Update: Capitalization of the theme name.
 
 # 1.2.1/ 2018-06-30
-  * Fixed WooCommerce search form styling issue.
+  * Fix: WooCommerce search form styling issue.
 
 # 1.2.0/ 2018-06-30
-  * Improved typography hierarchy.
-  * Improved form and button styling.
-  * Improved overall spacing.
-  * Changed post pagination style.
+  * Tweak: Typography hierarchy.
+  * Tweak: Form and button styling.
+  * Tweak: Overall spacing.
+  * Tweak: Post pagination style.
 
 # 1.1.9/ 2018-06-27
-  * Fixed mobile styling issues.
-  * Improved push menu (mobile) styles.
-  * Added `use-strict` to all JavaScript files.
+  * Fix: Mobile styling issues.
+  * Tweak: Push menu (mobile) styles.
+  * Tweak: Prepended `use-strict` to all JavaScript files.
 
 # 1.1.8/ 2018-06-25
   * Fix: Mobile styling issues.
