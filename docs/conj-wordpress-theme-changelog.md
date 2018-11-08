@@ -136,22 +136,22 @@
   * Added product column support on list view layout.
 
 # 1.1.5/ 2018-05-14
-  * Fixed a few styling issues.
-  * Updated language file.
-  * Added new product loop style.
-  * Added sticky sidebar control.
-  * Added page title toggle meta box.
-  * Added footer bar height adjustment control.
-  * Added basic IE 11 support.
+  * Fix: Minor styling issues.
+  * Feature: Product loop style.
+  * Feature: Sticky sidebar control.
+  * Feature: Page title toggle meta box.
+  * Feature: Footer bar height adjustment control.
+  * Feature: Basic IE 11 support.
+  * Update: Language file.
 
 # 1.1.0/ 2018-05-08
-  * Fix: 				   Minor styling issues.
-  * Feature: 			Color controls.
-  * Feature: 			Footer background image control.
-  * Feature: 			Shop by category style.
-  * Feature: 			Service component style.
-  * Feature: 			Product loop style.
-  * Feature: 			Slider custom post type.
+  * Fix: Minor styling issues.
+  * Feature: Color controls.
+  * Feature: Footer background image control.
+  * Feature: Shop by category style.
+  * Feature: Service component style.
+  * Feature: Product loop style.
+  * Feature: Slider custom post type.
 
 # 1.0.0/ 2018-03-24
   * Initial release.
