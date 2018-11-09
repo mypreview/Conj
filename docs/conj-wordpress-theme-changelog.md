@@ -1,3 +1,21 @@
+# 1.2.8/ 2018-11-08  
+  * Feature: Gutenberg "Container" block.
+  * Feature: Gutenberg "Dual buttons" block.
+  * Feature: Gutenberg "MacBook device" block.
+  * Feature: New stylings to the "Fancy Heading" block.
+  * Feature: Remove site header from an individual page.
+  * Feature: Remove default container spacings from an individual page.
+  * Feature: Remove site footer from an individual page.
+  * Feature: CSS code editor to append inline-styles to individual posts, pages and custom post types.
+  * Update: Language file.
+  * Update: Gutenberg editor styles.
+  * Update: One-click demo import files.
+  * Tweak: RTL (Right-to-left) language styling.
+  * Tweak: Styling in IE 11 (Internet Explorer) browser.
+  * Tweak: Styling in Edge browser.
+  * Compatibility: Gutenberg 4.2
+  * Compatibility: WooCommerce 3.5.1
+
 # 1.2.7/ 2018-10-19
   * Feature: Gutenberg "Features" block.
   * Feature: Gutenberg "Divider" block.
