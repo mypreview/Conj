@@ -77,6 +77,26 @@ See the [Getting Started](download-conj-wordpress-theme) for more details.
 * Premium support
 * Continuous free updates
 
+## Gutenberg Blocks
+
+* [Cover](https://www.conj.ws/blocks/common/cover/)
+* [Heading](https://www.conj.ws/blocks/common/heading/)
+* [Quote](https://www.conj.ws/blocks/common/quote/)
+* [Tags](https://www.conj.ws/blocks/common/tags/)
+* [Accordion](https://www.conj.ws/blocks/layout-elements/accordion/)
+* [Button](https://www.conj.ws/blocks/layout-elements/button/)
+* [Divider](https://www.conj.ws/blocks/layout-elements/divider/)
+* [Media & Text](https://www.conj.ws/blocks/layout-elements/media-text/)
+* [Google Maps](https://www.conj.ws/blocks/embeds/google-maps/)
+* [Gallery](https://www.conj.ws/blocks/common/gallery/)
+* [Image](https://www.conj.ws/blocks/common/image/)
+* [Table](https://www.conj.ws/blocks/common/table/)
+* [Text](https://www.conj.ws/blocks/common/text/)
+* [Alert](https://www.conj.ws/blocks/layout-elements/alert/)
+* [Columns](https://www.conj.ws/blocks/layout-elements/columns/)
+* [Features](https://www.conj.ws/blocks/layout-elements/features/)
+* [MacBook](https://www.conj.ws/blocks/devices/macbook/)
+
 ## Live Demo
 
 Check out the [Live Demo](https://www.conj.ws) to visit the [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) in action.
