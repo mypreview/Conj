@@ -1,3 +1,12 @@
+# 1.2.9/ 2018-11-26 
+  * Fix: WooCommerce pagination styling issue.
+  * Feature: Gutenberg "Card" block.
+  * Feature: Gutenberg "Logos" block.
+  * Feature: Gutenberg "Countdown" block.
+  * Update: Language file.
+  * Compatibility: Gutenberg 4.5.1
+  * Compatibility: WooCommerce 3.5.1
+
 # 1.2.8/ 2018-11-09 
   * Feature: Gutenberg "Container" block.
   * Feature: Gutenberg "Dual buttons" block.
