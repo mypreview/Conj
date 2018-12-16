@@ -1,3 +1,44 @@
+# 1.3.0/ 2018-12-16
+  * Fix: Quick view add-to-cart button spacing.
+  * Fix: Quick view image positioning.
+  * Fix: Quick view price label alignment in Safari.
+  * Fix: Quick view variation select field styling.
+  * Fix: WooCommerce notice spacing in cart and checkout pages.
+  * Fix: Spacing in WooCommerce affiliate product buy button.
+  * Fix: Spacing between product reviews.
+  * Fix: Gutenberg "Dual buttons" mobile spacing.
+  * Fix: Quote post format blog loop style.
+  * Fix: Audio post format blog loop style.
+  * Fix: Video post format blog loop style.
+  * Fix: Classic editor toolbar alignment. 
+  * Fix: Footer and slider background image URL.
+  * Feature: Gutenberg "Products" block.
+  * Feature: Single media view page.
+  * Feature: Reflect site-wide typography settings in Gutenberg editor.
+  * Feature: Reflect site-wide color scheme in Gutenberg editor.
+  * Feature: Quick view background color control.
+  * Feature: Quick view featured image background color control.
+  * Feature: UTC time-zone support - "Countdown" block.
+  * Update: Language file.
+  * Update: One-click demo import files.
+  * Update: Gutenberg editor styles.
+  * Tweak: Gutenberg "Countdown" calendar module style.
+  * Tweak: Gutenberg (core) "Archive" block style.
+  * Tweak: Gutenberg (core) "Category" block style.
+  * Tweak: Gutenberg (core) "Latest posts" block style.
+  * Tweak: Gutenberg (core) "Comments" block style.
+  * Tweak: RTL (Right-to-left) language styling.
+  * Tweak: Styling in IE 11 (Internet Explorer) browser.
+  * Tweak: Styling in Edge browser.
+  * Tweak: Vendor browser prefixes in all CSS files.
+  * Compatibility: Post formats.
+  * Compatibility: WordPress 5.0
+  * Compatibility: JetPack 6.8.1
+  * Compatibility: Gutenberg 4.6.1
+  * Compatibility: WooCommerce 3.5.2
+  * Compatibility: MailChimp for WordPress 4.3.2
+  * Compatibility: Converted demo pages/posts content to blocks.
+
 # 1.2.9/ 2018-11-26 
   * Fix: WooCommerce pagination styling issue.
   * Feature: Gutenberg "Card" block.
