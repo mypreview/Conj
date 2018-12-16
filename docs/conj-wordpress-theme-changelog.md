@@ -1,4 +1,6 @@
 # 1.3.0/ 2018-12-16
+  * Fix: Spacing between post pagination and comments form. 
+  * Fix: Duplicate post publish and modified time tag.
   * Fix: Quick view add-to-cart button spacing.
   * Fix: Quick view image positioning.
   * Fix: Quick view price label alignment in Safari.
@@ -16,6 +18,7 @@
   * Feature: Single media view page.
   * Feature: Reflect site-wide typography settings in Gutenberg editor.
   * Feature: Reflect site-wide color scheme in Gutenberg editor.
+  * Feature: Reflect blog post styling to Gutenberg post edit view.
   * Feature: Quick view background color control.
   * Feature: Quick view featured image background color control.
   * Feature: UTC time-zone support - "Countdown" block.
@@ -32,7 +35,7 @@
   * Tweak: Styling in Edge browser.
   * Tweak: Vendor browser prefixes in all CSS files.
   * Compatibility: Post formats.
-  * Compatibility: WordPress 5.0
+  * Compatibility: WordPress 5.0.1
   * Compatibility: JetPack 6.8.1
   * Compatibility: Gutenberg 4.6.1
   * Compatibility: WooCommerce 3.5.2
