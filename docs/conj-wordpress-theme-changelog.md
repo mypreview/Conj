@@ -1,4 +1,4 @@
-# 1.3.0/ 2018-12-16
+# 1.3.0/ 2018-12-18
   * Fix: Spacing between post pagination and comments form. 
   * Fix: Duplicate post publish and modified time tag.
   * Fix: Quick view add-to-cart button spacing.
@@ -12,10 +12,12 @@
   * Fix: Quote post format blog loop style.
   * Fix: Audio post format blog loop style.
   * Fix: Video post format blog loop style.
-  * Fix: Classic editor toolbar alignment. 
+  * Fix: Classic editor toolbar alignment.
+  * Fix: Align wide and full positioning in post editor.
   * Fix: Footer and slider background image URL.
   * Feature: Gutenberg "Products" block.
-  * Feature: Single media view page.
+  * Feature: Responsive embedded content support.
+  * Feature: Single media view page design.
   * Feature: Reflect site-wide typography settings in Gutenberg editor.
   * Feature: Reflect site-wide color scheme in Gutenberg editor.
   * Feature: Reflect blog post styling to Gutenberg post edit view.
