@@ -7,3 +7,5 @@ Since each of any block has its own wrapper you are free to edit or move each bl
 The following steps will show the several available ways to add a block and choose the block type you need.
 
 1. Click on the **plus** icon at the left of any empty block.
+
+![Gutenberg add block](img/gutenberg-add-block-1.jpg)
