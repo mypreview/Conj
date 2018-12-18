@@ -23,3 +23,5 @@ The following steps will show the several available ways to add a block and choo
 5. Click on the three dots just above a selected block and choose to add a block above or below the current block.
 
 ![Gutenberg add block](img/gutenberg-adding-block-5.jpg)
+
+Note that the default block type is a paragraph which you’ll use for regular text or content on your site although you can choose a different block type by clicking on the **plus** icon as explained above. You can also search blocks by typing a forward slash followed by the block name for instance, `/image` or `/heading`.
