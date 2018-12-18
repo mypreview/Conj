@@ -13,3 +13,4 @@ The fact that every single element in the page has its own block won’t change 
 ## Additional Links
 
 * [WordPress 5.0 “Bebo”](https://wordpress.org/news/2018/12/bebo/)
+* [Editor Technical Overview](https://make.wordpress.org/core/2017/01/17/editor-technical-overview/)
