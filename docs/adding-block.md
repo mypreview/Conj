@@ -13,3 +13,7 @@ The following steps will show the several available ways to add a block and choo
 2. Click on the **plus** icon at the top left corner of the editor toolbar.
 
 ![Gutenberg add block](img/gutenberg-adding-block-2.jpg)
+
+3. Hit the **Enter** or **Return** key from a selected block to create a new block below it.
+
+4. 
