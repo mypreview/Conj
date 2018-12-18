@@ -21,3 +21,5 @@ The following steps will show the several available ways to add a block and choo
 ![Gutenberg add block](img/gutenberg-adding-block-4.jpg)
 
 5. Click on the three dots just above a selected block and choose to add a block above or below the current block.
+
+![Gutenberg add block](img/gutenberg-adding-block-5.jpg)
