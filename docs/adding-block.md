@@ -17,3 +17,7 @@ The following steps will show the several available ways to add a block and choo
 3. Hit the **Enter** or **Return** key from a selected block to create a new block below it.
 
 4. Click on the **plus** icon at the top or bottom center of an existing block to add a block above or bottom it.
+
+![Gutenberg add block](img/gutenberg-adding-block-4.jpg)
+
+5. Click on the three dots just above a selected block and choose to add a block above or below the current block.
