@@ -40,6 +40,8 @@
   - [Customizing Checkout Layout](customizing-checkout-layout.md)
   - [Editing Copyright Info](editing-copyright-info.md)
   - [Transforming Homepage Content To A Hero Component](transforming-homepage-content-to-hero-component.md)
+- Writing & Editing
+  - [Adding A Block](adding-block.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - JetPack
