@@ -29,3 +29,5 @@ Note that the default block type is a paragraph which you’ll use for regular t
 ![Shortcut to block type](img/gutenberg-block-type-shortcut.jpg)
 
 You can also drag blocks around by clicking and holding the **six-dot-grid** icon near the top-left corner of each block, or use the up and down arrows to bump a block one spot in the direction you want.
+
+![Moving blocks](img/gutenberg-moving-blocks.jpg)
