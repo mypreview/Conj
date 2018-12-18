@@ -8,4 +8,8 @@ The following steps will show the several available ways to add a block and choo
 
 1. Click on the **plus** icon at the left of any empty block.
 
-![Gutenberg add block](img/gutenberg-add-block-1.jpg)
+![Gutenberg add block](img/gutenberg-adding-block-1.jpg)
+
+2. Click on the **plus** icon at the top left corner of the editor toolbar.
+
+![Gutenberg add block](img/gutenberg-adding-block-2.jpg)
