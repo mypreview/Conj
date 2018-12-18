@@ -10,6 +10,8 @@ The fact that every single element in the page has its own block won’t change 
 
 [Conj - eCommerce WordPress Theme](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) offers tons of [built-in blocks](https://mypreview.github.io/Conj/#/?id=gutenberg-blocks), and while maintaining a consistent look and feel of your page, it displays visual elements the way they’ll look on your actual site. This lets you save more of your time which you may have previously spent previewing and double-checking your content before hitting the Publish button. 
 
+## How Does It Work?
+
 ![Conj and the new WordPress Editor "Gutenberg"](img/conj-and-gutenberg-wordpress-editor.jpg)
 
 The WordPress editor uses blocks to turn a single document into a collection of discrete elements with explicit, easy-to-tweak structure and [Conj’s](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) set of built-in blocks opens a opens up a path of exploration and imagination when it comes to solving user needs.
