@@ -16,4 +16,4 @@ The following steps will show the several available ways to add a block and choo
 
 3. Hit the **Enter** or **Return** key from a selected block to create a new block below it.
 
-4. 
+4. Click on the **plus** icon at the top or bottom center of an existing block to add a block above or bottom it.
