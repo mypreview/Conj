@@ -27,3 +27,5 @@ The following steps will show the several available ways to add a block and choo
 Note that the default block type is a paragraph which you’ll use for regular text or content on your site although you can choose a different block type by clicking on the **plus** icon as explained above. You can also search blocks by typing a forward slash followed by the block name for instance, `/image` or `/heading`.
 
 ![Shortcut to block type](img/gutenberg-block-type-shortcut.jpg)
+
+You can also drag blocks around by clicking and holding the **six-dot-grid** icon near the top-left corner of each block, or use the up and down arrows to bump a block one spot in the direction you want.
