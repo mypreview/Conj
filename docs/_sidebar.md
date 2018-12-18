@@ -10,6 +10,7 @@
   - [Create And Set a Static Homepage](create-and-set-static-homepage.md)
   - [Request Support or Report A Bug](how-to-request-support.md)
 - How To’s
+  - [WordPress Editor](wordpress-editor.md)
   - [Customizer Guided Tour](customizer-guided-tour.md)
   - [Customizing The Logo](customizing-logo.md)
   - [Set A Header Image](set-header-image.md)
