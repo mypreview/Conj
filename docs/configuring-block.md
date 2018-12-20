@@ -11,3 +11,5 @@ In the editor’s sidebar you can switch between settings for the current block 
 The Document setting panel is where you can add tags and categories, choose a featured image, see and change the status of your post, and more — these are options that apply to the page or post as a whole.
 
 Also, clicking on the cog icon at the top right of the editor to toggle the visibility of the settings panel. *(**[4]** in the screenshot above*)
+
+![Locations of block and document settings](img/gutenberg-block-settings.jpg)
