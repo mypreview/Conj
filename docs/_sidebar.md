@@ -43,6 +43,7 @@
 - Writing & Editing
   - [Adding A Block](adding-block.md)
   - [Removing A Block](removing-block.md)
+  - [Configuring a Block](configuring-block.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - JetPack
