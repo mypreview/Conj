@@ -1,3 +1,11 @@
+# 1.3.1/ 2018-12-20
+  * Fix: Typo in JavaScript file handle.
+  * Fix: Extra spacing in quote block.
+  * Fix: Font-size in code block.
+  * Tweak: Prepended `use-strict` to all JavaScript files. 
+  * Compatibility: WordPress 5.0.2
+  * Compatibility: Gutenberg 4.7.1
+
 # 1.3.0/ 2018-12-18
   * Fix: Spacing between post pagination and comments form. 
   * Fix: Duplicate post publish and modified time tag.
