@@ -48,3 +48,9 @@ Enabling this toggle field allows the cover block to fix the position of the ima
 The following option allows you to add a color overlay to the cover image. By default, this is a gray, transparent overlay, but with the overlay color options, you can switch that color to any other color of your choice.
 
 ![Add a color overlay and set its opacity](img/cover-block-overlay-color.jpg)
+
+## Background Opacity
+
+The range slider allows you to set the opacity of the cover image’s overlay. Moving the slider up toward 100 makes the overlay darker and muddier, and moving it down toward 0 makes the overlay lighter and more transparent. At **100**, the overlay is entirely **dark**, and the cover image is no longer visible. At **0**, the overlay **disappears** completely, leaving only your image.
+
+?> This setting is useful if you are using a visually noisy background image and finding the text in the cover block difficult to read.
