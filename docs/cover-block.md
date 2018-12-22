@@ -21,3 +21,9 @@ Upon adding the cover block, you have two options to chose from, Upload and Medi
 ### Edit Image
 
 This is the secondary option in the cover block’s toolbar. Choosing this will enable you to select a new image file for your block. You may use this if you need to replace the already existing image file in your cover block.
+
+### Alignment
+
+Similar to most of the blocks, you can align the cover block itself to the **left**, **right**, and **center** from the toolbar. Also, using the left or right alignment enables you to place another block beside the cover block.
+
+In addition to what mentioned above, some of the blocks have a **wide** and **full-width** alignment that is useful for creating unique headers and widescreen effects. These two options are mostly available if the specific block supports this kind of alignments. 
