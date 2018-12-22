@@ -30,8 +30,10 @@ In addition to what mentioned above, some of the blocks have a **wide** and **fu
 
 ![Wide will simply break the bounding column, while full will reach to the sides of the page width](img/cover-block-align-wide-full.jpg)
 
-### Sidebar Settings
+## Sidebar Settings
 
 In addition to the options found in the block’s toolbar, you may locate the block specific settings in the editor sidebar panel. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
 
 ![The block settings can be found in the sidebar](img/sidebar-settings-cover-block.jpg)
+
+## Fixed Background
