@@ -6,7 +6,7 @@ To add a cover block into your content start typing `/cover` in a new paragraph 
 
 ![Use the slash command /cover to insert a cover image](img/add-cover-block.jpg)
 
-?> Detailed instructions on adding blocks can be found [here](https://mypreview.github.io/Conj/#/adding-block).
+?> Detailed instructions on adding blocks can be found [here](adding-block).
 
 ## Block Interface
 
