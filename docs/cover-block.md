@@ -37,3 +37,6 @@ In addition to the options found in the block’s toolbar, you may locate the bl
 ![The block settings can be found in the sidebar](img/sidebar-settings-cover-block.jpg)
 
 ## Fixed Background
+
+Within the block settings panel on the sidebar, you have several other options to modify this block, the first of which is a toggle for a **Fixed Background**. 
+Enabling this toggle field allows the cover block to fix the position of the image while user scrolls along with your page, nevertheless leaving this toggle off embeds the image in block’s wrapper, so the image doesn’t scroll.
