@@ -6,7 +6,7 @@ To add a cover, click on the [Add Block](adding-block) button and select the **C
 
 ![Use the slash command /cover to insert a cover image](img/add-cover-block.jpg)
 
-?> Detailed instructions on adding blocks can be found [here](adding-block).
+!> Detailed instructions on adding blocks can be found [here](adding-block).
 
 ## Block Interface
 
