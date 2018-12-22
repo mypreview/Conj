@@ -6,7 +6,7 @@ To add a list, click on the [Add Block](adding-block) button and select the **Li
 
 ![Use the slash command /list to add a list block](img/add-list-block.jpg)
 
-?> Detailed instructions on adding blocks can be found [here](adding-block).
+!> Detailed instructions on adding blocks can be found [here](adding-block).
 
 ## Advanced
 
