@@ -13,6 +13,7 @@
   * Fix: Quick view image positioning.
   * Fix: Quick view price label alignment in Safari.
   * Fix: Quick view variation select field styling.
+  * Fix: Submenu overlaps the non-sticky sidebar widgets.
   * Fix: WooCommerce notice spacing in cart and checkout pages.
   * Fix: Spacing in WooCommerce affiliate product buy button.
   * Fix: Spacing between product reviews.
