@@ -31,6 +31,12 @@ You can use the indent icons in the toolbar to indent your lists:
 
 ![Indent lists with the indent icons](img/list-block-indent.jpg)
 
+## List Shorthand
+
+You can add lists by typing a **hyphen** followed by your list item name and then a single press of the **Enter** or **Return** key:
+
+![You can write lists with hyphenated shorthand](img/list-block-bullet-shorthand.gif)
+
 ## Advanced
 
 The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
