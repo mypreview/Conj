@@ -16,7 +16,7 @@ Each block comes with unique toolbar icons and specific user controls that allow
 
 ### Adding Images
 
-Upon adding the cover block, you have two options to chose from, Upload and Media Library. The Upload button allows you to upload a new image from your device and Media Library allows you to select an image you’ve already uploaded to your site’s Media Library.
+Upon adding the cover block, you have two options to chose from, **Upload** and **Media Library**. The upload button allows you to upload a new image from your device and media library allows you to select an image you’ve already uploaded to your site’s media library.
 
 ### Edit Image
 
@@ -32,7 +32,7 @@ In addition to what mentioned above, some of the blocks have a **wide** and **fu
 
 ## Sidebar Settings
 
-In addition to the options found in the block’s toolbar, you may locate the block specific settings in the editor sidebar panel. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
+In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
 
 ![The block settings can be found in the sidebar](img/sidebar-settings-cover-block.jpg)
 
