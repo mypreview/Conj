@@ -1,6 +1,6 @@
 ![logo](img/mypreview-logo.png)
 
-# CONJ <small>1.3.0</small>
+# CONJ <small>1.3.1</small>
 
 > #1 Flexible WooCommerce Theme
 
