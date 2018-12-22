@@ -25,6 +25,12 @@ Every block has its own block-specific controls that allow you to manipulate the
 * Strikethrough
 * More Options
 
+?> List block comes in two styles, Unordered (bulleted) and Ordered (numbered).
+
+You can use the indent icons in the toolbar to indent your lists:
+
+![Indent lists with the indent icons](img/list-block-indent.jpg)
+
 ## Advanced
 
 The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
