@@ -8,6 +8,10 @@ To add a list, click on the [Add Block](adding-block) button and select the **Li
 
 !> Detailed instructions on adding blocks can be found [here](adding-block).
 
+## Block Toolbar
+
+Every block has its own block-specific controls that allow you to manipulate the block directly in the editor. 
+
 ## Advanced
 
 The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
