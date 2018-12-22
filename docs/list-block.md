@@ -41,6 +41,12 @@ The same can be done for **numbered** lists:
 
 ![You can write lists with numbered shorthand, too](img/list-block-number-shorthand.gif)
 
+## Sidebar Settings
+
+In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
+
+![The block settings can be found in the sidebar](img/sidebar-settings-list-block.jpg)
+
 ## Advanced
 
 The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
