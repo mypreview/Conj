@@ -54,3 +54,7 @@ The following option allows you to add a color overlay to the cover image. By de
 The range slider allows you to set the opacity of the cover image’s overlay. Moving the slider up toward 100 makes the overlay darker and muddier, and moving it down toward 0 makes the overlay lighter and more transparent. At **100**, the overlay is entirely **dark**, and the cover image is no longer visible. At **0**, the overlay **disappears** completely, leaving only your image.
 
 ?> This setting is useful if you are using a visually noisy background image and finding the text in the cover block difficult to read.
+
+## Advanced
+
+The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
