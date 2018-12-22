@@ -37,6 +37,10 @@ You can add lists by typing a **hyphen** followed by your list item name and the
 
 ![You can write lists with hyphenated shorthand](img/list-block-bullet-shorthand.gif)
 
+The same can be done for **numbered** lists:
+
+![You can write lists with numbered shorthand, too](img/list-block-number-shorthand.gif)
+
 ## Advanced
 
 The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
