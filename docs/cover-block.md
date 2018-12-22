@@ -44,3 +44,7 @@ Enabling this toggle field allows the cover block to fix the position of the ima
 ![Turn your cover block into a fixed image](img/cover-block-fixed-background.gif)
 
 ## Overlay Color
+
+The following option allows you to add a color overlay to the cover image. By default, this is a gray, transparent overlay, but with the overlay color options, you can switch that color to any other color of your choice.
+
+![Add a color overlay and set its opacity](img/cover-block-overlay-color.jpg)
