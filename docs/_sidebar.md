@@ -45,6 +45,7 @@
   - [Removing A Block](removing-block.md)
   - [Configuring a Block](configuring-block.md)
 - Editor Blocks
+  - [List](list-block.md)
   - [Cover](cover-block.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
