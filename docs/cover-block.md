@@ -12,7 +12,7 @@ To add a cover block into your content start typing `/cover` in a new paragraph 
 
 Each block comes with unique toolbar icons and specific user controls that allow you to manipulate the block right in the editor.
 
-![The cover block offers many toolbar options](img/adding-image-to-cover-block)
+![The cover block offers many toolbar options](img/adding-image-to-cover-block.jpg)
 
 ## Adding Images
 
