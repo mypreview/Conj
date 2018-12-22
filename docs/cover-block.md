@@ -27,3 +27,5 @@ This is the secondary option in the cover block’s toolbar. Choosing this will 
 Similar to most of the blocks, you can align the cover block itself to the **left**, **right**, and **center** from the toolbar. Also, using the left or right alignment enables you to place another block beside the cover block.
 
 In addition to what mentioned above, some of the blocks have a **wide** and **full-width** alignment that is useful for creating unique headers and widescreen effects. These two options are mostly available if the specific block supports this kind of alignments. 
+
+![Wide will simply break the bounding column, while full will reach to the sides of the page width](img/cover-block-align-wide-full.jpg)
