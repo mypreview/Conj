@@ -9,5 +9,5 @@
 - Bulletproof integration with WooCommerce Core
 
 
-[Buy CONJ](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview)
+[Buy CONJ](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?license=regular&open_purchase_for_item_id=21935639&purchasable=source&ref=mypreview)
 [Documentation](#conj-ecommerce-wordpress-theme)
