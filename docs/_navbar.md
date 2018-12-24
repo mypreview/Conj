@@ -1,1 +1,1 @@
-- <a href="https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview" target="_blank"><img src="img/envato-buy-conj.png" alt="Buy Conj - eCommerce WordPress Theme" /></a>
+- <a href="https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?license=regular&open_purchase_for_item_id=21935639&purchasable=source&ref=mypreview" target="_blank"><img src="img/envato-buy-conj.png" alt="Buy Conj - eCommerce WordPress Theme" /></a>
