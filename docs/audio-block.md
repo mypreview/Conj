@@ -9,3 +9,7 @@ To add an audio, click on the [Add Block](adding-block) button and select the **
 !> Detailed instructions on adding blocks can be found [here](adding-block).
 
 ## Block Interface
+
+Every block comes with unique and block-specific controls that allow you to manipulate the block directly right in the editor. 
+
+![The audio block has alignment and width toolbar icons](img/audio-block-toolbar.jpg)
