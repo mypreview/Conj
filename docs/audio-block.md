@@ -17,3 +17,7 @@ Every block comes with unique and block-specific controls that allow you to mani
 ### Adding Files
 
 Upon adding an audio block, you will get three options to chose from: **Upload**, **Media Library**, and **Insert from URL**.
+
+* The **Upload** button will allow you to upload a new audio file from your computer. 
+* The **Media Library** button lets you select a file that’s already uploaded to your site’s Media Library. 
+* **Insert from URL** button lets you input a URL where the file has already been uploaded, on a streaming service or elsewhere on the web.
