@@ -46,6 +46,8 @@ The following options let you set your audio file to autoplay when a user visits
 
 This feature allows you to select how much of the audio file is downloaded when the page or post is loaded.
 
+![The audio block can be set to Autoplay, loop, or Preload](img/audio-block-loop-autoplay-settings.jpg)
+
 !> Enabling this option might slow your page’s load speed down.
 
 #### The following are the settings:
