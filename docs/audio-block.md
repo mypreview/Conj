@@ -7,3 +7,5 @@ To add an audio, click on the [Add Block](adding-block) button and select the **
 ![Use the slash command /audio to add a audio block](img/add-audio-block.jpg)
 
 !> Detailed instructions on adding blocks can be found [here](adding-block).
+
+## Block Interface
