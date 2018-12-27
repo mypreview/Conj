@@ -56,3 +56,4 @@ This feature allows you to select how much of the audio file is downloaded when 
 
 !> On a fundamental level, there’s not a big difference between **None** and **Metadata**.
 
+* **Auto** – The entire audio file is downloaded, despite whether the visitor clicks the **Play** button or not. This might make the biggest impact on your page or post’s load speed, especially with larger audio files.
