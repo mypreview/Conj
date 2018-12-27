@@ -52,7 +52,7 @@ This feature allows you to select how much of the audio file is downloaded when 
 
 #### The following are the settings:
 
-* **None** – Nothing about the regarding the audio file is downloaded automatically. The download of the audio file only begins when your visitor clicks on the **Play** button. *This can be the fastest setting.*
+* **None** – Nothing about the regarding the audio file is downloaded automatically. The download of the audio file only begins when your visitor clicks on the **Play** button. *This might be the fastest setting.*
 
 * **Metadata** – Only basic info about the file will be downloaded automatically. Like the **None** option, the download of the audio file only begins when a user clicks on the **Play** button. This setting is also very fast, as the only thing downloaded is text or basic info regarding the file. 
 
