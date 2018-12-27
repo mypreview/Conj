@@ -23,3 +23,7 @@ Upon adding an audio block, you will get three options to chose from: **Upload**
 * **Insert from URL** button lets you input a URL where the file has already been uploaded, on a streaming service or elsewhere on the web.
 
 Right after you’ve selected the audio file to insert, you can add an optional text **caption** just underneath the player and start configuring your audio block.
+
+### Alignment
+
+A block-specific toolbar will appear whenever you select the audio block. Three of the options are for the block’s alignment, right, center, and left. Choosing the **right** or **left** will allow you to place another block alongside the audio block moreover picking **center** will return the block to its default, taking up the full width of the post or page content.
