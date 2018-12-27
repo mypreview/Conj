@@ -46,7 +46,7 @@ The following options let you set your audio file to autoplay when a user visits
 
 This feature allows you to select how much of the audio file is downloaded when the page or post is loaded.
 
-!> Note that enabling this option might slow your page’s load speed down.
+!> Enabling this option might slow your page’s load speed down.
 
 #### The following are the settings:
 
@@ -54,7 +54,7 @@ This feature allows you to select how much of the audio file is downloaded when 
 
 * **Metadata** – Only basic info about the file will be downloaded automatically. Like the **None** option, the download of the audio file only begins when a user clicks on the **Play** button. This setting is also very fast, as the only thing downloaded is text or basic info regarding the file. 
 
-!> On a theoretical base, there’s not a big difference between **None** and **Metadata**.
+?> On a theoretical base, there’s not a big difference between **None** and **Metadata**.
 
 * **Auto** – The entire audio file is downloaded, despite whether the visitor clicks the **Play** button or not. This might make the biggest impact on your page or post’s load speed, especially with larger audio files.
 
