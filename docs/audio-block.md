@@ -37,3 +37,15 @@ Choosing this option will allow you to select a new audio file for the block. Th
 In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
 
 ![The block settings can be found in the sidebar](img/sidebar-settings-audio-block.jpg)
+
+## Autoplay & Loop
+
+The following options let you set your audio file to autoplay when a user visits the page or post, and the looping allows you to choose if the audio track needs to be repeated after it’s finished.
+
+## Preload
+
+This feature allows you to select how much of the audio file is downloaded when the page or post is loaded.
+
+!> Note that enabling this option might slow your page’s load speed down.
+
+#### The following are the settings:
