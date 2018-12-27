@@ -31,3 +31,9 @@ A block-specific toolbar will appear whenever you select the audio block. Three 
 ### Edit Audio
 
 Choosing this option will allow you to select a new audio file for the block. This option can be used to replace the current audio file in the block.
+
+## Sidebar Settings
+
+In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
+
+![The block settings can be found in the sidebar](img/sidebar-settings-audio-block.jpg)
