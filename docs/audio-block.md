@@ -21,3 +21,5 @@ Upon adding an audio block, you will get three options to chose from: **Upload**
 * The **Upload** button will allow you to upload a new audio file from your computer. 
 * The **Media Library** button lets you select a file that’s already uploaded to your site’s Media Library. 
 * **Insert from URL** button lets you input a URL where the file has already been uploaded, on a streaming service or elsewhere on the web.
+
+Right after you’ve selected the audio file to insert, you can add an optional text **caption** just underneath the player and start configuring your audio block.
