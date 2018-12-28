@@ -34,3 +34,7 @@ In addition to the options found in the block’s toolbar, you may locate the bl
 ## Heading Settings
 
 Once you locate the block settings in the sidebar, you’ll notice that **h1**, **h5**, and **h6** are included along with text alignment options.
+
+![The heading block suggests a hierarchy based on proper SEO practices](img/heading-block-variations.jpg)
+
+?> The heading block suggests a hierarchy based on proper SEO practices
