@@ -28,6 +28,8 @@ Right after you’ve selected the audio file to insert, you can add an optional 
 
 A block-specific toolbar will appear whenever you select the audio block. Three of the options are for the block’s alignment, right, center, and left. Choosing the **right** or **left** will allow you to place another block alongside the audio block moreover picking **center** will return the block to its default, taking up the full width of the post or page content.
 
+?> The **Wide** and **Full Alignment** options will expand the audio beyond the bounding column of the page.
+
 ### Edit Audio
 
 Choosing this option will allow you to select a new audio file for the block. This option can be used to replace the current audio file in the block.
