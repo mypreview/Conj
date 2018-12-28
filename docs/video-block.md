@@ -25,3 +25,9 @@ Upon adding an video block, you will get three options to chose from: **Upload**
 ![Links added to the video block from external services will transform into their respective block.](img/embed-youtube-video-block.gif)
 
 Right after you’ve selected the audio file to insert, you can add an optional text **caption** just underneath the player and start configuring your audio block.
+
+### Alignment
+
+A block-specific toolbar will appear whenever you select the video block. Three of the options are for the block’s alignment, right, center, and left. Choosing the **right** or **left** will allow you to place another block alongside the video block moreover picking **center** will return the block to its default, taking up the full width of the post or page content.
+
+If you wish for the video to be emphasized on the page, the Wide and Full Alignment options will expand the video beyond the bounding column of the page, providing a cinematic experience.
