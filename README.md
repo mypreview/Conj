@@ -1,4 +1,4 @@
-# Conj
+# Conj - eCommerce WordPress Theme
 
 ![CONJ - eCommerce WordPress Theme](conj-ecommerce-wordpress-theme.jpg)
 
