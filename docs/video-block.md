@@ -41,3 +41,9 @@ Choosing this option will allow you to select a new video file for the block. Th
 In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
 
 ![The block settings can be found in the sidebar](img/sidebar-settings-video-block.jpg)
+
+## Autoplay, Loop, & Muted
+
+The following options let you set your video file to autoplay when a user visits the page or post, and the looping allows you to choose if the video file needs to be repeated after it’s finished. Also, you might decide to mute the video if your case requires it.
+
+## Playback Controls
