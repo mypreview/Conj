@@ -17,3 +17,12 @@ Every block comes with unique and block-specific controls that allow you to mani
 ![The heading toolbar offers h2, h3, h4, Bold, Italic, Hyperlinks, and Strikethrough options](img/heading-block-toolbar.jpg)
 
 Also, the heading block offers the following options in its toolbar:
+
+* H2, H3 and H4 heading tags
+* Bold
+* Italics
+* Hyperlink
+* Strikethrough
+* More Options
+
+## Block Settings
