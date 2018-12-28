@@ -31,3 +31,13 @@ Right after you’ve selected the audio file to insert, you can add an optional 
 A block-specific toolbar will appear whenever you select the video block. Three of the options are for the block’s alignment, right, center, and left. Choosing the **right** or **left** will allow you to place another block alongside the video block moreover picking **center** will return the block to its default, taking up the full width of the post or page content.
 
 If you wish for the video to be emphasized on the page, the Wide and Full Alignment options will expand the video beyond the bounding column of the page, providing a cinematic experience.
+
+### Edit Video
+
+Choosing this option will allow you to select a new video file for the block. This option can be used to replace the current video file in the block.
+
+## Sidebar Settings
+
+In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
+
+![The block settings can be found in the sidebar](img/sidebar-settings-video-block.jpg)
