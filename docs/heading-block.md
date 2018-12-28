@@ -25,4 +25,8 @@ Also, the heading block offers the following options in its toolbar:
 * Strikethrough
 * More Options
 
-## Block Settings
+## Sidebar Settings
+
+In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
+
+![The block settings can be found in the sidebar](img/sidebar-settings-heading-block.jpg)
