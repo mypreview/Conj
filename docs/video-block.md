@@ -47,3 +47,5 @@ In addition to the options found in the block’s toolbar, you may locate the bl
 The following options let you set your video file to autoplay when a user visits the page or post, and the looping allows you to choose if the video file needs to be repeated after it’s finished. Also, you might decide to mute the video if your case requires it.
 
 ## Playback Controls
+
+Toggle this option to show or hide the playback control overlay on the video.
