@@ -67,3 +67,11 @@ This feature allows you to select how much of the video file is downloaded when 
 * **Auto** – The entire video file is downloaded, despite whether the visitor clicks the **Play** button or not. This might make the most significant impact on your page or post’s load speed, especially with larger video files.
 
 ?> On a theoretical base, there’s not a big difference between **None** and **Metadata**.
+
+## Poster Image
+
+Optionally, you can choose a poster image that will be displayed prior to a video is set to **Play**, this might be useful if the first frame of the video isn’t necessarily appealing or characteristic of the video content.
+
+## Advanced
+
+The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
