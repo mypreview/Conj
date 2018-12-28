@@ -49,6 +49,7 @@
   - [Audio](audio-block.md)
   - [Video](video-block.md)
   - [Cover](cover-block.md)
+  - [Heading](heading-block.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
 - JetPack
