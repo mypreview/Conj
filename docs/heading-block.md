@@ -43,7 +43,7 @@ Once you locate the block settings in the sidebar, you’ll notice that **h1**, 
 
 The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
 
-## HTML Anchor
+### HTML Anchor
 
 The **HTML Anchor** is a useful tool for creating *page jumps*. If you toggle the block to its HTML view, you’ll see that the HTML Anchor input is added as an ID to the heading tag.
 
