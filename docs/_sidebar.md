@@ -47,6 +47,7 @@
 - Editor Blocks
   - [List](list-block.md)
   - [Audio](audio-block.md)
+  - [Video](video-block.md)
   - [Cover](cover-block.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
