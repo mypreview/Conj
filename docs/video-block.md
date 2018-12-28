@@ -75,9 +75,3 @@ Optionally, you can choose a poster image that will be displayed prior to a vide
 ## Advanced
 
 The advanced tab lets you add a CSS class to your block, allowing you to write custom CSS and apply styles to the block as you see fit.
-
-## HTML Anchor
-
-The **HTML Anchor** is a useful tool for creating *page jumps*. If you toggle the block to its HTML view, you’ll see that the HTML Anchor input is added as an ID to the heading tag.
-
-?> Page jumping is where you click a link and instantly get moved somewhere further up or down a long page.
