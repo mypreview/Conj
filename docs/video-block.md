@@ -21,3 +21,7 @@ Upon adding an video block, you will get three options to chose from: **Upload**
 * The **Upload** button will allow you to upload a new video file from your computer. 
 * The **Media Library** button lets you select a file that’s already uploaded to your site’s Media Library. 
 * **Insert from URL** button lets you input a URL where the file has already been uploaded, on a streaming service such as **Youtube**, upon inserting the URL video block will automatically transform into a Youtube block.
+
+![Links added to the video block from external services will transform into their respective block.](img/embed-youtube-video-block.gif)
+
+Right after you’ve selected the audio file to insert, you can add an optional text **caption** just underneath the player and start configuring your audio block.
