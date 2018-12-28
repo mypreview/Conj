@@ -7,3 +7,9 @@ To add an video, click on the [Add Block](adding-block) button and select the **
 ![Use the slash command /video to add a audio block](img/add-video-block.jpg)
 
 !> Detailed instructions on adding blocks can be found [here](adding-block).
+
+## Block Interface
+
+Every block comes with unique and block-specific controls that allow you to manipulate the block directly right in the editor. 
+
+![The audio block has alignment and width toolbar icons](img/video-block-toolbar.jpg)
