@@ -24,7 +24,7 @@ Upon adding an video block, you will get three options to chose from: **Upload**
 
 ![Links added to the video block from external services will transform into their respective block.](img/embed-youtube-video-block.gif)
 
-Right after you’ve selected the audio file to insert, you can add an optional text **caption** just underneath the player and start configuring your audio block.
+Right after you’ve selected the video file to insert, you can add an optional text **caption** just underneath the player and start configuring your video block.
 
 ### Alignment
 
@@ -49,3 +49,21 @@ The following options let you set your video file to autoplay when a user visits
 ## Playback Controls
 
 Toggle this option to show or hide the playback control overlay on the video.
+
+## Preload
+
+This feature allows you to select how much of the video file is downloaded when the page or post is loaded.
+
+![The block settings include Autoplay, Loop, Muted, Playback Controls, Preload, and a Poster Image](img/video-block-loop-autoplay-settings.jpg)
+
+!> Enabling this option might slow your page’s load speed down.
+
+#### The following are the settings:
+
+* **None** – Nothing about the regarding the video file is downloaded automatically. The download of the video file only begins when your visitor clicks on the **Play** button. *This might be the fastest setting.*
+
+* **Metadata** – Only basic info about the file will be downloaded automatically. Like the **None** option, the download of the video file only begins when a user clicks on the **Play** button. This setting is also very fast, as the only thing downloaded is text or basic info regarding the file. 
+
+* **Auto** – The entire video file is downloaded, despite whether the visitor clicks the **Play** button or not. This might make the most significant impact on your page or post’s load speed, especially with larger video files.
+
+?> On a theoretical base, there’s not a big difference between **None** and **Metadata**.
