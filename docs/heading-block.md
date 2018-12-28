@@ -47,4 +47,6 @@ The advanced tab lets you add a CSS class to your block, allowing you to write c
 
 The **HTML Anchor** is a useful tool for creating *page jumps*. If you toggle the block to its HTML view, you’ll see that the HTML Anchor input is added as an ID to the heading tag.
 
+![You can add HTML Anchors and CSS classes from the sidebar](img/heading-block-html-anchor.jpg)
+
 ?> Page jumping is where you click a link and instantly get moved somewhere further up or down a long page.
