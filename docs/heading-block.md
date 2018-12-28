@@ -30,3 +30,7 @@ Also, the heading block offers the following options in its toolbar:
 In addition to the options found in the block’s toolbar, you may locate the block specific settings in the **editor sidebar panel**. Clicking on the **cog** icon next to the publish button will toggle the visibility of this panel.
 
 ![The block settings can be found in the sidebar](img/sidebar-settings-heading-block.jpg)
+
+## Heading Settings
+
+Once you locate the block settings in the sidebar, you’ll notice that **h1**, **h5**, and **h6** are included along with text alignment options.
