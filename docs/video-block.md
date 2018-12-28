@@ -12,4 +12,6 @@ To add an video, click on the [Add Block](adding-block) button and select the **
 
 Every block comes with unique and block-specific controls that allow you to manipulate the block directly right in the editor. 
 
-![The audio block has alignment and width toolbar icons](img/video-block-toolbar.jpg)
+![The video block toolbar supports alignment, wide, and full width](img/video-block-toolbar.jpg)
+
+## Adding a Video
