@@ -37,7 +37,7 @@ Once you locate the block settings in the sidebar, you’ll notice that **h1**, 
 
 ![The heading block suggests a hierarchy based on proper SEO practices](img/heading-block-variations.jpg)
 
-?> The heading block suggests a hierarchy based on proper SEO practices
+?> The heading block suggests a hierarchy based on proper SEO practices.
 
 ## Advanced
 
