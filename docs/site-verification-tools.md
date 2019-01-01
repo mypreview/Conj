@@ -6,3 +6,5 @@
 ## Bing Webmaster Center
 
 ## Pinterest Site Verification
+
+## Yandex Site Verification
