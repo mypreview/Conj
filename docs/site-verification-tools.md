@@ -39,6 +39,12 @@ To correct this problem, please get a new SSL certificate by a Certificate Autho
 
 ```
 
+If a message like this arrived in your inbox, you'd need to remove the site from your Webmaster Tools account, and then add it back as a standard site.
+
+1. Log in to [Google Webmaster Tools](https://www.google.com/webmasters/tools/) with your **Google account**.
+2. Below the button for **Manage Site**, click **Delete Site**.
+3. Click the button to **Add a Site** and follow the [instructions above](site-verification-tools?id=google-search-console).
+
 ## Bing Webmaster Center
 
 
