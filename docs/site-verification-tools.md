@@ -71,8 +71,27 @@ Follow the steps below to verify your WordPress site with Bing Webmaster Center:
    3. From the sidebar on the left, select the **Site Verification** tab.
    4. Locate the **Bing Webmaster Center** text-field and paste your meta tag in.
    5. Click the **Save Changes** button.
-9. Go back to Bing’s verification page and click **Verify**.
+9. Go back to the verification page and click **Return to the Site list**.
 
 ## Pinterest Site Verification
+
+Follow the steps below to verify your WordPress site with Pinterest Site Verification:
+
+1. First, You’ll need to sign in with a **Pinterest account** if you’re not already logged in.
+2. Navigate to [Pinterest](http://pinterest.com/) to get started.
+3. Go to your profile and click the **gear** menu, then **Account Settings**.
+4. Scroll down and enter your **Website** address if you haven’t already.
+5. Click the **Verify Website** button.
+6. A popup window will show a meta tag, which you’ll need to enter on your site.
+7. You’ll see a line of HTML code like the following:<br/>
+   `<meta name="p:domain_verify" content="8525e3384b3545e21f0910de21"/>`
+8. Copy the entire meta tag shown in the screen/field.
+9. Leave the verification page open and go to your site dashboard *(in a new tab/window)*.
+   1. Login to the your WordPress Dashboard
+   2. Click the **Conj PowerPack** menu.
+   3. From the sidebar on the left, select the **Site Verification** tab.
+   4. Locate the **Pinterest Site Verification** text-field and paste your meta tag in.
+   5. Click the **Save Changes** button.
+9. Go back to the verification page and click the **Finish** button.
 
 ## Yandex Site Verification
