@@ -1,5 +1,15 @@
 # Site Verification Tools
 
+This feature allows website or webshop owners to have additional tools to help them verify their sites in a various platforms like **Google**, **Bing**, and **Pinterest**.
+
+![](img/site-verification-tools.jpg)
+
+!> Please note that verifying your site in webmaster tools is **not necessary** but doing so will enable your site to be indexed with Google, Bing, or any other search engine.
+
+For most sites, in order to verify your site for webmaster tools, you usually need to add a hidden meta tag to your page or change a DNS entry.
+
+For most sites, to verify your site for webmaster tools, you usually need to add a hidden meta tag to your page or change a DNS entry. Since this isn’t always the easiest thing to do and in case you’re not technical, 
+[Conj - eCommerce WordPress Theme’s](https://themeforest.net/item/conj-ecommerce-wordpress-theme/21935639?ref=mypreview) site verification module is here to help.
 
 ## Google Search Console
 
