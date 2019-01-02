@@ -22,7 +22,26 @@ Follow the steps below to verify your WordPress site with Google Search Console:
    5. Click the **Save Changes** button.
 9. Go back to Google’s verification page and click **Verify**.
 
+### Google Warnings
+
+In case you have received an email from Google with a subject of an alert in your **Webmaster Tools** dashboard that your site’s security certificate could not be found, this means your site was inadvertently added as a secure site. 
+
+An example of the message you may have received:
+
+```txt
+
+Dear Webmaster,
+
+The host name of your site, https://example.com, does not match any of the “Subject Names” in your SSL certificate [….]
+This will cause many web browsers to block users from accessing your site, or to display a security warning message when your site is accessed.
+
+To correct this problem, please get a new SSL certificate by a Certificate Authority (CA) with a “Subject Name” or “Subject Alternative DNS Names” that matches your host name.
+
+```
+
 ## Bing Webmaster Center
+
+
 
 ## Pinterest Site Verification
 
