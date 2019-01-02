@@ -55,7 +55,23 @@ If a message like the above arrived in your inbox, you’d need to remove the si
 
 ## Bing Webmaster Center
 
+Follow the steps below to verify your WordPress site with Bing Webmaster Center:
 
+1. First, You’ll need to sign in with a **Live! account** if you’re not already logged in.
+2. Navigate to [Bing Webmaster Center](http://www.bing.com/webmaster) to get started.
+3. Click on **Add a Site**.
+4. Enter your site address.
+5. Click the **Submit** button.
+6. You’ll see a line of HTML code like the following:<br/>
+   `<meta name="msvalidate.01" content="12C1203B5086AECE94EB3A3D9830B2E" />`
+7. Copy the entire meta tag shown in the screen/field.
+8. Leave the verification page open and go to your site dashboard *(in a new tab/window)*.
+   1. Login to the your WordPress Dashboard
+   2. Click the **Conj PowerPack** menu.
+   3. From the sidebar on the left, select the **Site Verification** tab.
+   4. Locate the **Bing Webmaster Center** text-field and paste your meta tag in.
+   5. Click the **Save Changes** button.
+9. Go back to Bing’s verification page and click **Verify**.
 
 ## Pinterest Site Verification
 
