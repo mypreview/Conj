@@ -12,7 +12,7 @@ Follow the steps below to verify your WordPress site with Google Search Console:
 5. Click the **Continue** button.
 6. Click on the **Alternate Methods** tab.
 7. You’ll see a line of HTML code like the following:<br/>
-   `<meta name="google-site-verification" content="rc2RXSkjV5rz9P2s2hTwdDsnwTu4tD-gmruKUrqBGjs" />`
+   `<meta name="google-site-verification" content="jV5rz9P2s2wdDsnwTu4tD-gmruKUrqBGjs" />`
 8. Copy the entire meta tag shown in the screen/field.
 9. Leave the verification page open and go to your site dashboard *(in a new tab/window)*.
    1. Login to the your WordPress Dashboard
