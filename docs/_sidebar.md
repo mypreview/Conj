@@ -52,6 +52,7 @@
   - [Heading](heading-block.md)
 - Features
   - [Supported Post Formats](supported-post-formats.md)
+  - [Site Verification Tools](site-verification-tools.md)
 - JetPack
   - [Configuring Widget Visibility](jetpack-configuring-widget-visibility.md)
   - [Customizing Content Options](jetpack-customizing-content-options.md)
