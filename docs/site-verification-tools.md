@@ -29,17 +29,15 @@ In case you have received an email from Google with a subject of an alert in you
 An example of the message you may have received:
 
 ```txt
-
 Dear Webmaster,
 
 The host name of your site, https://example.com, does not match any of the “Subject Names” in your SSL certificate [….]
 This will cause many web browsers to block users from accessing your site, or to display a security warning message when your site is accessed.
 
 To correct this problem, please get a new SSL certificate by a Certificate Authority (CA) with a “Subject Name” or “Subject Alternative DNS Names” that matches your host name.
-
 ```
 
-If a message like the above arrived in your inbox, you’d need to remove the site from your Webmaster Tools account, and then add it back as a standard site.
+If a message like the above arrived in your inbox, you’d need to remove the site from your **Webmaster Tools** account, and then add it back as a standard site.
 
 1. Log in to [Google Webmaster Tools](https://www.google.com/webmasters/tools/) with your **Google account**.
 2. Below the button for **Manage Site**, click **Delete Site**.
